@@ -18,7 +18,11 @@ const { frontmatter } = Astro.props;
     <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh my-16">
       <article class="prose">
         <h1>{frontmatter.title}</h1>
-        <p>Written on: {frontmatter.pubDate}</p>
+        <p>{frontmatter.description}</p>
+        <ul class="list-disc">
+          <li>Written by: {frontmatter.author}</li>
+          <li>Written on: {frontmatter.pubDate}</li>
+        </ul>
         <slot />
       </article>
     </main>
