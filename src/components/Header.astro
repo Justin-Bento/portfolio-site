@@ -6,7 +6,11 @@ const navigation = ["home", "about", "projects", "blogs", "contact"];
   <div class="overflow-hidden bg-white shadow-sm sm:rounded-lg">
     <div class="max-w-7xl mx-auto px-4 py-5 sm:p-6">
       <div class="grid lg:grid-cols-2">
-        <p>this is a header</p>
+        <a
+          href="/"
+          class="block leading-[2] capitalize hover:cursor-pointer hover:underline hover:text-sky-600"
+          >this is a header</a
+        >
         <ul class="flex items-center justify-end gap-4">
           {
             navigation.map((links) => {
