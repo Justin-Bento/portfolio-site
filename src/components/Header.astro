@@ -10,7 +10,11 @@ const navigation = ["home", "about", "projects", "blog", "contact"];
         <ul class="flex items-center justify-end gap-4">
           {
             navigation.map((links) => {
-              return <li class="leading-[2] capitalize">{links}</li>;
+              return (
+                <li class="leading-[2] capitalize hover:cursor-pointer hover:underline hover:text-sky-600">
+                  {links}
+                </li>
+              );
             })
           }
         </ul>
