@@ -1,0 +1,27 @@
+---
+const navigation = ["home", "about", "projects", "blog", "contact"];
+---
+
+<footer class="sticky top-0 bg-zinc-950 z-30">
+  <div class="overflow-hidden bg-zinc-950 shadow-sm sm:rounded-lg">
+    <div class="max-w-7xl mx-auto px-4 py-5 sm:p-6">
+      <div class="grid lg:grid-cols-2">
+        <p class="text-white">this is a footer</p>
+        <ul class="flex items-center justify-end gap-4 text-white">
+          {
+            navigation.map((links) => {
+              return (
+                <li class="relative leading-[2] capitalize hover:cursor-pointer hover:underline hover:text-sky-600">
+                  <a href={links === "home" ? "/" : `/${links.toLowerCase()}`}>
+                    {links}
+                    <span class=" absolute inset-0" />
+                  </a>
+                </li>
+              );
+            })
+          }
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
