@@ -16,7 +16,7 @@ const { frontmatter } = Astro.props;
   <body>
     <Header />
     <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh my-16">
-      <article class="prose">
+      <article class="prose max-w-7xl">
         <h1>{frontmatter.title}</h1>
         <p>{frontmatter.description}</p>
         <ul class="list-disc">
