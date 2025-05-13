@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-type: "blogs"
+type: "projects"
 title: "The Future of Web Development: Trends to Watch in 2024"
 pubDate: 2025-05-13
 description: "The web development landscape is evolving rapidly, with new tools, frameworks, and best practices emerging every year. Whether you're a seasoned developer or just starting, staying updated is crucial. Here are the top trends shaping web development in 2024."

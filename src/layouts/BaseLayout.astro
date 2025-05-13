@@ -36,9 +36,9 @@ const { frontmatter } = Astro.props;
       </article>
       <div class="border-t-2 border-zinc-200 mt-12">
         <a
-          href="/blogs"
+          href={`/${frontmatter.type.toLowerCase()}`}
           class="block uppercase text-sm font-bold mt-6 hover:underline hover:cursor-pointer"
-          >&larr; Back to blogs</a
+          >&larr; Back to {frontmatter.type}</a
         >
       </div>
     </main>
