@@ -1,11 +1,20 @@
 ---
-
+const navigation = ["home", "about", "projects", "blog", "contact"];
 ---
 
 <header class="sticky top-0 bg-white z-30">
   <div class="overflow-hidden bg-white shadow-sm sm:rounded-lg">
     <div class="max-w-7xl mx-auto px-4 py-5 sm:p-6">
-      <p>this is a header</p>
+      <div class="grid lg:grid-cols-2">
+        <p>this is a header</p>
+        <ul class="flex items-center justify-end gap-4">
+          {
+            navigation.map((links) => {
+              return <li class="leading-[2] capitalize">{links}</li>;
+            })
+          }
+        </ul>
+      </div>
     </div>
   </div>
 </header>
