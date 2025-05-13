@@ -5,8 +5,8 @@ pubDate: 2025-05-13
 description: "The web development landscape is evolving rapidly, with new tools, frameworks, and best practices emerging every year. Whether you're a seasoned developer or just starting, staying updated is crucial. Here are the top trends shaping web development in 2024."
 author: "Deepseek"
 image:
-  url: "https://docs.astro.build/assets/rose.webp"
-  alt: "The Astro logo on a dark background with a pink glow."
+  url: "/image/gratisograph-mars-robot.jpg"
+  alt: "An image of a robot stairng into space"
 tags: ["astro", "blogging", "learning in public"]
 ---
 

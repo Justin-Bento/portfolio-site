@@ -16,13 +16,22 @@ const { frontmatter } = Astro.props;
   <body>
     <Header />
     <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh my-16">
-      <article class="prose max-w-7xl">
-        <h1>{frontmatter.title}</h1>
+      <article class="prose max-w-7xl [&>p]:leading-[2]">
+        <h1
+          class="uppercase text-4xl font-extrabold lg:text-5xl text-balance leading-[1.5] mb-0"
+        >
+          {frontmatter.title}
+        </h1>
         <p>{frontmatter.description}</p>
         <ul class="list-disc">
           <li>Written by: {frontmatter.author}</li>
           <li>Written on: {frontmatter.pubDate}</li>
         </ul>
+        <img
+          src={frontmatter.image.url}
+          alt={frontmatter.image.alt}
+          class="w-full aspect-video object-cover rounded-2xl"
+        />
         <slot />
       </article>
     </main>
