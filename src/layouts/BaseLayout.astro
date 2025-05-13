@@ -34,6 +34,13 @@ const { frontmatter } = Astro.props;
         />
         <slot />
       </article>
+      <div class="border-t-2 border-zinc-200 mt-12">
+        <a
+          href="/blogs"
+          class="block uppercase text-sm font-bold mt-6 hover:underline hover:cursor-pointer"
+          >&larr; Back to blogs</a
+        >
+      </div>
     </main>
     <Footer />
   </body>
