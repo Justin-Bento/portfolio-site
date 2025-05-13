@@ -1,0 +1,80 @@
+---
+import "../styles/global.css";
+const { title, supporting } = Astro.props;
+---
+
+<h1
+  class="uppercase text-4xl font-extrabold tracking-tight lg:text-5xl/[2] mb-0"
+>
+  {title}
+</h1>
+<p class="text-xl/[1.5] text-zinc-700 tracking-wide text-pretty">
+  {supporting}
+</p>
+<!-- Be sure to use this with a layout container that is full-width on mobile -->
+<ul class="grid grid-cols-1 lg:grid-cols-2 mt-12 gap-12">
+  <li class="overflow-hidden border-2 border-zinc-200">
+    <div class="px-4 py-5 sm:p-6">
+      <h2 class="text-lg/[1.5] font-bold tracking-wider uppercase">
+        Card Title
+      </h2>
+      <p class="text-base/[1.5] tracking-wide mt-2 line-clamp-3">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam commodi
+        eius voluptatibus cum illum quod totam aliquam, explicabo, quam ea rem
+        repellendus praesentium consectetur veniam assumenda voluptate voluptas
+        accusamus neque.
+      </p>
+      <a href="/" class="text-sm/[1.5] tracking-wide mt-4 block opacity-50"
+        >View Project &rarr;</a
+      >
+    </div>
+  </li>
+  <li class="overflow-hidden border-2 border-zinc-200">
+    <div class="px-4 py-5 sm:p-6">
+      <h2 class="text-lg/[1.5] font-bold tracking-wider uppercase">
+        Card Title
+      </h2>
+      <p class="text-base/[1.5] tracking-wide mt-2 line-clamp-3">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam commodi
+        eius voluptatibus cum illum quod totam aliquam, explicabo, quam ea rem
+        repellendus praesentium consectetur veniam assumenda voluptate voluptas
+        accusamus neque.
+      </p>
+      <a href="/" class="text-sm/[1.5] tracking-wide mt-4 block opacity-50"
+        >View Project &rarr;</a
+      >
+    </div>
+  </li>
+  <li class="overflow-hidden border-2 border-zinc-200">
+    <div class="px-4 py-5 sm:p-6">
+      <h2 class="text-lg/[1.5] font-bold tracking-wider uppercase">
+        Card Title
+      </h2>
+      <p class="text-base/[1.5] tracking-wide mt-2 line-clamp-3">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam commodi
+        eius voluptatibus cum illum quod totam aliquam, explicabo, quam ea rem
+        repellendus praesentium consectetur veniam assumenda voluptate voluptas
+        accusamus neque.
+      </p>
+      <a href="/" class="text-sm/[1.5] tracking-wide mt-4 block opacity-50"
+        >View Project &rarr;</a
+      >
+    </div>
+  </li>
+  <li class="overflow-hidden border-2 border-zinc-200">
+    <div class="px-4 py-5 sm:p-6">
+      <h2 class="text-lg/[1.5] font-bold tracking-wider uppercase">
+        Card Title
+      </h2>
+      <p class="text-base/[1.5] tracking-wide mt-2 line-clamp-3">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam commodi
+        eius voluptatibus cum illum quod totam aliquam, explicabo, quam ea rem
+        repellendus praesentium consectetur veniam assumenda voluptate voluptas
+        accusamus neque.
+      </p>
+      <a href="/" class="text-sm/[1.5] tracking-wide mt-4 block opacity-50"
+        >View Project &rarr;</a
+      >
+    </div>
+  </li>
+</ul>
