@@ -1,6 +1,7 @@
 ---
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
+import ContentLayout from "../layouts/ContentLayout.astro";
 import "../styles/global.css";
 ---
 
@@ -14,8 +15,11 @@ import "../styles/global.css";
   </head>
   <body>
     <Header />
-    <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh">
-      <h1>Astro</h1>
+    <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh my-16">
+      <ContentLayout
+        title="Blog Heading with a Subtitle"
+        supporting="Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit."
+      />
     </main>
     <Footer />
   </body>
