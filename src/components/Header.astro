@@ -12,7 +12,9 @@ const navigation = ["home", "about", "projects", "blog", "contact"];
             navigation.map((links) => {
               return (
                 <li class="leading-[2] capitalize hover:cursor-pointer hover:underline hover:text-sky-600">
-                  {links}
+                  <a href={links === "Home" ? "/" : `/${links.toLowerCase()}`}>
+                    {links}
+                  </a>
                 </li>
               );
             })
