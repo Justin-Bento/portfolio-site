@@ -11,9 +11,10 @@ const navigation = ["home", "about", "projects", "blog", "contact"];
           {
             navigation.map((links) => {
               return (
-                <li class="leading-[2] capitalize hover:cursor-pointer hover:underline hover:text-sky-600">
-                  <a href={links === "Home" ? "/" : `/${links.toLowerCase()}`}>
+                <li class="relative leading-[2] capitalize hover:cursor-pointer hover:underline hover:text-sky-600">
+                  <a href={links === "home" ? "/" : `/${links.toLowerCase()}`}>
                     {links}
+                    <span class=" absolute inset-0" />
                   </a>
                 </li>
               );
