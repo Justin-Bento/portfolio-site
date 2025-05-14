@@ -2,7 +2,9 @@
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import "../styles/global.css";
-const projects = Object.values(import.meta.glob("./projects/*.md", { eager: true }));
+const projects = Object.values(
+  import.meta.glob("./projects/*.md", { eager: true })
+);
 const blogs = Object.values(import.meta.glob("./blogs/*.md", { eager: true }));
 const { frontmatter } = Astro.props;
 ---
@@ -101,24 +103,21 @@ const { frontmatter } = Astro.props;
             Some things I've Built.
           </span>
         </h2>
-        <ul class="grid grid-cols-1 gap-24 mt-12">
+        <ul class="grid grid-cols-1 gap-16 mt-12">
           {
             projects.map((blog) => {
               return (
-                <li>
-                  <a href="/blog/how-to-become-frontend-master">
-                    <div class="grid items-center gap-5 md:grid-cols-2 md:gap-10">
-                      <picture>
-                        <source srcset="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?&amp;fit=crop&amp;w=430&amp;h=240" type="image/webp" sizes="(max-width: 800px) 100vw, 800px" />
-                        <img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?&amp;fit=crop&amp;w=430&amp;h=240" alt="frontend master" sizes="(max-width: 800px) 100vw, 800px" loading="eager" decoding="sync" width="800" height="600" class="w-full rounded-md bg-white object-cover object-center" />
-                      </picture>
-                      <div>
-                        <span class="text-sm font-medium uppercase tracking-wider text-blue-400"> Tutorials </span>
-                        <h2 class="mt-1 text-3xl font-semibold leading-snug tracking-tight">{blog.frontmatter.title}</h2>
-                        <div class="mt-3 flex gap-2"><span class="text-gray-400"> Connor Lopez </span> <span class="text-gray-400">• </span> <time class="text-gray-400" datetime="2022-11-07T15:39:00.000Z"> Mon Nov 07 2022 </time></div>
-                      </div>
-                    </div>
-                  </a>
+                <li class="group relative overflow-hidden max-w-5xl text-balance hover:bg-zinc-200 hover:border  rounded-xl p-8 transition-all hover:cursor-pointer">
+                  <h2 class="text-xl leading-[2] font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl">
+                    <a href={blog.url} class="group-hover:underline">
+                      {blog.frontmatter.title}
+                      <span class="absolute inset-0" />
+                    </a>
+                  </h2>
+                  <p class="font-serif leading-[2] tracking-wide">
+                    {blog.frontmatter.description}
+                  </p>
+                  <p class=" font-serif text-sm mt-6">Read Project &rarr;</p>
                 </li>
               );
             })
