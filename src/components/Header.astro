@@ -2,64 +2,31 @@
 const navigation = ["home", "about", "projects", "blogs", "contact"];
 ---
 
-<header class="sticky top-0 bg-white z-30 shadow">
-  <nav
-    class="relative flex flex-wrap items-center justify-between mx-auto lg:justify-between max-w-7xl px-4 py-5 sm:p-6"
-  >
-    <div class="flex flex-wrap items-center justify-between w-full lg:w-auto">
+<header class="overflow-hidden">
+  <div class="max-w-7xl mx-auto py-6 flex items-center justify-between">
+    <ul class="gap-2 flex items-center">
+      {
+        navigation.map((item) => {
+          return (
+            <li class="relative isolate">
+              <a
+                href={item === "home" ? "/" : `/${item.toLowerCase()}`}
+                class="text-base/[2] p-2 font-serif capitalize hover:underline"
+              >
+                {item}
+                <span class="absolute inset-0" />
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+    <div class="">
       <a
-        href="/"
-        class="flex items-center space-x-2 uppercase font-medium text-sky-500 dark:text-gray-100"
+        href="https://github.com/Justin-Bento"
+        class="font-serif after:content-['_↗'] hover:underlinetext-base/[2] p-2 capitalize hover:underline"
+        >Github</a
       >
-        Logo
-      </a>
-      <button
-        aria-label="Toggle Menu"
-        class="px-2 py-1 ml-auto text-gray-700 rounded-md lg:hidden hover:text-sky-500 focus:text-sky-500 focus:bg-sky-50 focus:outline-none"
-        id="headlessui-disclosure-button-:R37:"
-        type="button"
-        aria-expanded="false"
-        data-headlessui-state=""
-      >
-        <svg
-          class="w-6 h-6 fill-current"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 24 24"
-        >
-          <path
-            fill-rule="evenodd"
-            d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"
-          ></path>
-        </svg>
-      </button>
     </div>
-    <div class="hidden text-center lg:flex lg:items-center">
-      <ul
-        class="items-center justify-end flex-1 pt-6 lg:pt-0 list-reset lg:flex"
-      >
-        {
-          navigation.map((item) => {
-            return (
-              <div>
-                <a
-                  href={item === "home" ? "/" : `/${item.toLowerCase()}`}
-                  class=" hover:cursor-pointer hover:underline capitalize text-gray-700 dark:text-gray-300 rounded-md outline-none hover:text-sky-500 focus:text-sky-500 transition-all focus-visible:ring-1 ring-sky-300 dark:focus-visible:bg-gray-800 focus:outline-none inline-block px-4 py-2"
-                >
-                  {item}
-                </a>
-              </div>
-            );
-          })
-        }
-      </ul>
-      <div class="hidden mx-3 gap-3 lg:flex">
-        <a
-          href=""
-          class="px-5 py-1.5 text-white bg-sky-600 rounded-md font-medium"
-        >
-          Github
-        </a>
-      </div>
-    </div>
-  </nav>
+  </div>
 </header>
