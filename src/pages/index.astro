@@ -103,7 +103,7 @@ const { frontmatter } = Astro.props;
             Some things I've Built.
           </span>
         </h2>
-        <ul class="grid grid-cols-1 gap-16 mt-12">
+        <ul class="grid grid-cols-1 gap-12 mt-6">
           {
             projects.map((blog) => {
               return (
@@ -133,27 +133,21 @@ const { frontmatter } = Astro.props;
             Stuff I want to Share.
           </span>
         </h2>
-        <ul class="grid grid-cols-1 lg:grid-cols-3 gap-12 mt-12">
+        <ul class="grid grid-cols-1 gap-12 mt-6">
           {
             blogs.map((blog) => {
               return (
-                <li class="group transition-all relative isolate flex flex-col bg-white border-2 border-zinc-900 hover:border-sky-500 shadow-2xs rounded-xl overflow-hidden">
-                  <img
-                    class="w-full h-64 object-cover rounded-t-xl"
-                    src={blog.frontmatter.image.url}
-                    alt={blog.frontmatter.image.alt}
-                  />
-                  <div class="p-4 md:p-5">
-                    <h3 class="text-lg font-bold text-zinc-800 group-hover:text-sky-500 capitalize">
-                      <a href={blog.url}>
-                        {blog.frontmatter.title}
-                        <span class="absolute inset-0 z-10 hover:bg-sky-50/10" />
-                      </a>
-                    </h3>
-                    <p class="mt-1 text-zinc-500 leading-[1.5] line-clamp-3">
-                      {blog.frontmatter.description}
-                    </p>
-                  </div>
+                <li class="group relative overflow-hidden max-w-5xl text-balance hover:bg-zinc-200 hover:border  rounded-xl p-8 transition-all hover:cursor-pointer">
+                  <h2 class="text-xl leading-[2] font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl">
+                    <a href={blog.url} class="group-hover:underline">
+                      {blog.frontmatter.title}
+                      <span class="absolute inset-0" />
+                    </a>
+                  </h2>
+                  <p class="font-serif leading-[2] tracking-wide">
+                    {blog.frontmatter.description}
+                  </p>
+                  <p class=" font-serif text-sm mt-6">Read Project &rarr;</p>
                 </li>
               );
             })
