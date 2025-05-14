@@ -14,109 +14,26 @@ import "../styles/global.css";
   </head>
   <body>
     <Header />
-    <main>
-      <section class="relative isolate overflow-hidden">
-        <img
-          src="/image/gratisograph-mars-robot.jpg"
-          alt=""
-          class="w-full aspect-video object-cover z-0 relative grayscale brightness-50"
-        />
-        <div class="absolute top-0 z-20 h-full flex items-center">
-          <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <h1 class="text-5xl text-white leading-[1.5] font-bold">
-              Hi, my name is Justin Bento. <br />
-              I am a Full-Stack Developer.
-            </h1>
-            <p class="text-white text-xl/[1.5] max-w-4xl text-balance mt-4">
-              I build web apps with Ruby and Rails, JavaScirpt, React.js,
-              Astro.js & Tailwind CSS. I'm from Toronto, Canada and I am
-              currently looking for work.
-            </p>
-            <a
-              href="/projects"
-              class="block w-fit mt-8 bg-zinc-50 rounded text-zinc-950 px-5 py-2 text-sm uppercase tracking-wide leading-[2] font-medium hover:bg-sky-500 transition-all"
-              >View Project
-            </a>
-          </div>
-        </div>
-      </section>
-      <section class="isolate overflow-hidden">
-        <div class="overflow-hidden bg-zinc-200 sm:rounded-lg py-20">
-          <div class="max-w-7xl mx-auto px-4 sm:p-6">
-            <h2
-              class="leading-[1.5] pb-2 text-3xl font-semibold tracking-wide transition-colors first:mt-0 uppercase font-mono"
-            >
-              A Bit About Me
-            </h2>
-            <p class="leading-[1.5] text-lg max-w-5xl text-balance">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Distinctio nobis officia in quis ducimus, laborum maxime
-              voluptates? Commodi cumque repellat ducimus, qui architecto saepe
-              sed tenetur tempora! Reprehenderit, porro error?
-            </p>
-            <div
-              class="overflow-hidden space-x-6 my-6 space-y-6 [&>p]:leading-[1.6] [&>p]:tracking-wide [&>p]:text-lg"
-            >
-              <img
-                src="/image/gratisograph-mars-robot.jpg"
-                alt=""
-                class="w-96 aspect-square object-center rounded-2xl float-left"
-              />
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Tenetur sapiente voluptas quo neque eaque cumque inventore,
-                fugit at temporibus dignissimos aliquam nisi doloremque dolore
-                in unde ullam! Accusantium, illum nemo? Lorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Tenetur sapiente voluptas
-                quo neque eaque cumque inventore, fugit at temporibus
-                dignissimos aliquam nisi doloremque dolore in unde ullam!
-                Accusantium, illum nemo?
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Tenetur sapiente voluptas quo neque eaque cumque inventore,
-                fugit at temporibus dignissimos aliquam nisi doloremque dolore
-                in unde ullam! Accusantium, illum nemo? Lorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Tenetur sapiente voluptas
-                quo neque eaque cumque inventore, fugit at temporibus
-                dignissimos aliquam nisi doloremque dolore in unde ullam!
-                Accusantium, illum nemo? Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit.
-              </p>
-            </div>
-            <p class="leading-[1.6] tracking-wide text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Repudiandae, perspiciatis corrupti nostrum quis mollitia
-              laboriosam? Distinctio, doloribus autem. Autem saepe magnam fugit
-              quibusdam quidem aperiam porro similique. Ducimus, aperiam
-              inventore?
-            </p>
-            <a
-              href=""
-              class="block uppercase tracking-wider font-bold hover:underline mt-12 text-sm"
-              >Read more About me &rarr;
-            </a>
-          </div>
-        </div>
-      </section>
-      <section class="isolate overflow-hidden">
-        <div class="overflow-hidden bg-zinc-200 sm:rounded-lg py-20">
-          <div class="max-w-7xl mx-auto px-4 sm:p-6">
-            <h2
-              class="leading-[1.5] pb-2 text-3xl font-semibold tracking-wide transition-colors first:mt-0 uppercase font-mono"
-            >
-              what problem your code solve?
-            </h2>
-            <p class="leading-[1.5] text-lg max-w-5xl text-balance">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Distinctio nobis officia in quis ducimus, laborum maxime
-              voluptates? Commodi cumque repellat ducimus, qui architecto saepe
-              sed tenetur tempora! Reprehenderit, porro error?
-            </p>
-          </div>
+    <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh">
+      <section class="w-full flex items-center aspect-video">
+        <div class="">
+          <h1 class="text-5xl text-zinc-950 font-bold leading-[1.125]">
+            Hi, my name is Justin Bento. <br />
+            I am a Full-Stack Developer.
+          </h1>
+          <p class="text-zinc-950 text-xl/[1.5] max-w-4xl text-balance mt-4">
+            I build web apps with Ruby and Rails, JavaScirpt, React.js, Astro.js
+            & Tailwind CSS. Currently, I&#39;m focused on building accessible,
+            human-centered products.
+          </p>
+          <a
+            href="/projects"
+            class="block w-fit mt-8 bg-zinc-950 rounded text-zinc-50 px-5 py-2 text-sm uppercase tracking-wide leading-[2] font-medium hover:bg-sky-500 transition-all"
+            >View Project
+          </a>
         </div>
       </section>
     </main>
-    <Footer />
   </body>
+  <Footer />
 </html>
