@@ -140,9 +140,9 @@ const { frontmatter } = Astro.props;
               return (
                 <li class="group transition-all relative isolate flex flex-col bg-white border-2 border-zinc-900 hover:border-sky-500 shadow-2xs rounded-xl overflow-hidden">
                   <img
-                    class="w-full h-auto rounded-t-xl"
-                    src="/image/gratisograph-mars-robot.jpg"
-                    alt="Card Image"
+                    class="w-full h-64 object-cover rounded-t-xl"
+                    src={blog.frontmatter.image.url}
+                    alt={blog.frontmatter.image.alt}
                   />
                   <div class="p-4 md:p-5">
                     <h3 class="text-lg font-bold text-zinc-800 group-hover:text-sky-500 capitalize">
@@ -152,9 +152,7 @@ const { frontmatter } = Astro.props;
                       </a>
                     </h3>
                     <p class="mt-1 text-zinc-500 leading-[1.5] line-clamp-3">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content. This is an
-                      example.
+                      {blog.frontmatter.description}
                     </p>
                   </div>
                 </li>
