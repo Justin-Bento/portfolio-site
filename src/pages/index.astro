@@ -2,10 +2,22 @@
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import "../styles/global.css";
+
+interface MarkdownFile {
+  frontmatter: {
+    title: string;
+    description?: string;
+  };
+  url: string;
+}
+
 const projects = Object.values(
-  import.meta.glob("./projects/*.md", { eager: true })
-);
-const blogs = Object.values(import.meta.glob("./blogs/*.md", { eager: true }));
+  import.meta.glob<MarkdownFile>("./projects/*.md", { eager: true })
+) as MarkdownFile[];
+
+const blogs = Object.values(
+  import.meta.glob<MarkdownFile>("./blogs/*.md", { eager: true })
+) as MarkdownFile[];
 ---
 
 <html lang="en">
