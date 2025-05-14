@@ -6,7 +6,6 @@ const projects = Object.values(
   import.meta.glob("./projects/*.md", { eager: true })
 );
 const blogs = Object.values(import.meta.glob("./blogs/*.md", { eager: true }));
-const { frontmatter } = Astro.props;
 ---
 
 <html lang="en">
