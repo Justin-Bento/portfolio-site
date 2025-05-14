@@ -6,12 +6,14 @@ pubDate: 2025-05-13
 description: "After finding my PSP in my child hood home. I decided to take it back to me In Canada and turn it into a  functional PSP 3000. Sadily it was forgotten with years, due to hardware some hardware issues but was not the case it was just the UMD disk. Here are some things I leanred While assembling the device."
 author: "Justin Bento"
 image:
-  url: "/image/gratisograph-mars-robot.jpg"
+  url: "/image/psp-3000-with-ark.jpg"
   alt: "An image of a robot stairng into space"
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-Above is a picture of my PSP 3001. This device is 19 years old than some of the frameworks I work with daily! Outside of my job as a Website Developer. I spent time reviving things for fun like my old PSP building my computer, and homelabbing, and here’s why:
+Above is a picture of my PSP 3001.
+
+This device is 19 years old than some of the frameworks I work with daily! Outside of my job as a Website Developer. I spent time reviving things for fun like my old PSP building my computer, and homelabbing, and here’s why:
 
 1. **Nostalgia**: The PSP was ahead of its time, and tinkering with it reminded me how far technology has come—and how much we can learn from the past. Features like non-intrusive sound and tactile feedback were innovative for their time, while the retro interfaces sparked inspiration for modern design. It’s fascinating to see how these older systems laid the groundwork for today’s technology.
 
