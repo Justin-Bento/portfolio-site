@@ -10,5 +10,12 @@
 }
 
 @theme {
-  --font-serif: "Alegreya", sans-serif;
+  --font-serif: "Alegreya", serif;
+}
+
+:root {
+  --text-main: var(--color-zinc-950);
+  --bg-main: var(--color-zinc-50);
+  --bg-muted: #eae9e1;
+  --border-main: var(--color-zinc-900);
 }
