@@ -2,6 +2,8 @@
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import "../styles/global.css";
+const blogs = Object.values(import.meta.glob("./blogs/*.md", { eager: true }));
+const { frontmatter } = Astro.props;
 ---
 
 <html lang="en">
@@ -98,9 +100,13 @@ import "../styles/global.css";
             Some things I've Built.
           </span>
         </h2>
-        <div
-          class="[&>p]:leading-[2] max-w-[100ch] text-pretty tracking-wide space-y-6"
-        >
+        <!-- Be sure to use this with a layout container that is full-width on mobile -->
+        <div class="overflow-hidden border border-zinc-300">
+          <div class="px-4 py-5 sm:p-6">
+            <h3 class="text-[1.2rem]/[1.4] font-mono up capitalize">
+              Card Title
+            </h3>
+          </div>
         </div>
       </section>
       <section class="py-24">
@@ -112,10 +118,34 @@ import "../styles/global.css";
             Stuff I want to Share.
           </span>
         </h2>
-        <div
-          class="[&>p]:leading-[2] max-w-[100ch] text-pretty tracking-wide space-y-6"
-        >
-        </div>
+        <ul class="grid grid-cols-1 lg:grid-cols-3 gap-12 mt-12">
+          {
+            blogs.map((blog) => {
+              return (
+                <li class="group transition-all relative isolate flex flex-col bg-white border-2 border-zinc-900 hover:border-sky-500 shadow-2xs rounded-xl overflow-hidden">
+                  <img
+                    class="w-full h-auto rounded-t-xl"
+                    src="/image/gratisograph-mars-robot.jpg"
+                    alt="Card Image"
+                  />
+                  <div class="p-4 md:p-5">
+                    <h3 class="text-lg font-bold text-zinc-800 group-hover:text-sky-500 capitalize">
+                      <a href={blog.url}>
+                        {blog.frontmatter.title}
+                        <span class="absolute inset-0 z-10 hover:bg-sky-50/10" />
+                      </a>
+                    </h3>
+                    <p class="mt-1 text-zinc-500 leading-[1.5] line-clamp-3">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content. This is an
+                      example.
+                    </p>
+                  </div>
+                </li>
+              );
+            })
+          }
+        </ul>
       </section>
       <section class="py-24">
         <h2
