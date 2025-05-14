@@ -1,2 +1,14 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
+
+@font-face {
+  font-family: Alegreya;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("/fonts/Alegreya-VariableFont_wght.ttf") format("ttf");
+}
+
+@theme {
+  --font-serif: "Alegreya", sans-serif;
+}
