@@ -23,7 +23,16 @@ const { title, supporting, items } = Astro.props;
         <p class="font-serif leading-[2] tracking-wide">
           {item.frontmatter.description}
         </p>
-        <p class=" font-serif text-sm mt-6">Read Project &rarr;</p>
+        <div class="flex items-center gap-2 mt-6">
+          <p class="inline-block font-serif text-sm">
+            Technologies Used &rarr;
+          </p>
+          <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
+            {item.frontmatter.tags.map((tag) => (
+              <li class="inline-block font-serif text-sm">{tag}</li>
+            ))}
+          </ul>
+        </div>
       </li>
     ))
   }
