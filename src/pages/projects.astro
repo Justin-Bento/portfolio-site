@@ -17,7 +17,12 @@ const projects = await Astro.glob("./projects/*.md");
   <body>
     <Header />
     <main class="max-w-7xl mx-auto px-4 py-5 sm:p-6 min-h-dvh my-16">
-      <ContentLayout title="Projects" supporting="" items={projects} />
+      <ContentLayout
+        title="Projects"
+        supporting=""
+        items={projects}
+        show="technologies"
+      />
     </main>
     <Footer />
   </body>

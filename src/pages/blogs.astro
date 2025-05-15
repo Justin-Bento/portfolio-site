@@ -21,6 +21,7 @@ const projects = await Astro.glob("./blogs/*.md");
         title="Blog Archive"
         supporting=""
         items={projects.slice().reverse()}
+        show="tags"
       />
     </main>
     <Footer />
