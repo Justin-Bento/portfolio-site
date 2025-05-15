@@ -28,9 +28,9 @@ const { title, supporting, items, show } = Astro.props;
             Technologies Used &rarr;
           </p>
           <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
-            {item.frontmatter.technologies.map((tag) => (
-              <li class="inline-block font-serif text-sm">{tag}</li>
-            ))}
+            {show === "technologies" &&
+              item.frontmatter.technologies?.length > 0 &&
+              ((tag) => <li class="inline-block font-serif text-sm">{tag}</li>)}
           </ul>
         </div>
       </li>
