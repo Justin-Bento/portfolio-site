@@ -13,7 +13,7 @@ const { title, supporting, items } = Astro.props;
 <ul class="grid grid-cols-1 mt-12 gap-12">
   {
     items.map((item: any) => (
-      <li class="group relative overflow-hidden max-w-5xl text-balance border border-zinc-300 bg-zinc-100 hover:bg-zinc-200 hover:border-zinc-400 rounded-xl p-8 transition-all hover:cursor-pointer">
+      <li class="group relative overflow-hidden text-balance border border-zinc-300 bg-zinc-100 hover:bg-zinc-200 hover:border-zinc-400 rounded-xl p-8 transition-all hover:cursor-pointer">
         <h2 class="text-xl leading-[2] font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl">
           <a href={item.url} class="group-hover:underline">
             {item.frontmatter.title}
