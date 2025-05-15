@@ -31,6 +31,9 @@ const { title, supporting, items, show } = Astro.props;
             {show === "technologies" &&
               item.frontmatter.technologies?.length > 0 &&
               ((tag) => <li class="inline-block font-serif text-sm">{tag}</li>)}
+            {show === "tags" &&
+              item.frontmatter.technologies?.length > 0 &&
+              ((tag) => <li class="inline-block font-serif text-sm">{tag}</li>)}
           </ul>
         </div>
       </li>
