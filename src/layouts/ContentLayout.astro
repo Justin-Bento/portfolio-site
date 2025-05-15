@@ -1,6 +1,6 @@
 ---
 import "../styles/global.css";
-const { title, supporting, items } = Astro.props;
+const { title, supporting, items, show } = Astro.props;
 ---
 
 <h1 class="text-4xl lg:text-5xl/[1.5] font-serif lg:tracking-tight mb-0">
@@ -28,7 +28,7 @@ const { title, supporting, items } = Astro.props;
             Technologies Used &rarr;
           </p>
           <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
-            {item.frontmatter.tags.map((tag) => (
+            {item.frontmatter.technologies.map((tag) => (
               <li class="inline-block font-serif text-sm">{tag}</li>
             ))}
           </ul>
