@@ -1,4 +1,5 @@
 ---
+import CardListItem from "../components/CardListItem.astro";
 import "../styles/global.css";
 const { title, supporting, items, show } = Astro.props;
 ---
@@ -10,36 +11,5 @@ const { title, supporting, items, show } = Astro.props;
   {supporting}
 </p>
 <ul class="grid grid-cols-1 mt-12 gap-12">
-  {
-    items.map((item: any) => (
-      <li class="group relative overflow-hidden text-balance border border-zinc-300 bg-zinc-100 hover:bg-zinc-200 hover:border-zinc-400 rounded-xl p-8 transition-all hover:cursor-pointer">
-        <h2 class="text-xl leading-[2] font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl">
-          <a href={item.url} class="group-hover:underline">
-            {item.frontmatter.title}
-            <span class="absolute inset-0" />
-          </a>
-        </h2>
-        <p class="font-serif leading-[2] tracking-wide">
-          {item.frontmatter.description}
-        </p>
-        <div class="flex items-center gap-2 mt-6">
-          {show === "technologies" ? (
-            <p class="inline-block font-serif text-sm">Technologies &rarr;</p>
-          ) : (
-            <p class="inline-block font-serif text-sm">Tags &rarr;</p>
-          )}
-          <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
-            {show === "technologies" &&
-              item.frontmatter.technologies?.map((tag) => (
-                <li class="inline-block font-serif text-sm">{tag}</li>
-              ))}
-            {show === "tags" &&
-              item.frontmatter.tags?.map((tag) => (
-                <li class="inline-block font-serif text-sm">{tag}</li>
-              ))}
-          </ul>
-        </div>
-      </li>
-    ))
-  }
+  {items.map((item: any) => <CardListItem item={item} show={show} />)}
 </ul>
