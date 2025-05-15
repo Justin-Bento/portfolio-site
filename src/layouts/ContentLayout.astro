@@ -9,7 +9,6 @@ const { title, supporting, items, show } = Astro.props;
 <p class="text-xl/[1.5] text-zinc-700 tracking-wide text-pretty">
   {supporting}
 </p>
-<!-- Be sure to use this with a layout container that is full-width on mobile -->
 <ul class="grid grid-cols-1 mt-12 gap-12">
   {
     items.map((item: any) => (
@@ -29,11 +28,13 @@ const { title, supporting, items, show } = Astro.props;
           </p>
           <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
             {show === "technologies" &&
-              item.frontmatter.technologies?.length > 0 &&
-              ((tag) => <li class="inline-block font-serif text-sm">{tag}</li>)}
+              item.frontmatter.technologies?.map((tag) => (
+                <li class="inline-block font-serif text-sm">{tag}</li>
+              ))}
             {show === "tags" &&
-              item.frontmatter.tags?.length > 0 &&
-              ((tag) => <li class="inline-block font-serif text-sm">{tag}</li>)}
+              item.frontmatter.tags?.map((tag) => (
+                <li class="inline-block font-serif text-sm">{tag}</li>
+              ))}
           </ul>
         </div>
       </li>
