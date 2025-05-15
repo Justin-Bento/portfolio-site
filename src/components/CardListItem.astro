@@ -1,19 +1,35 @@
 ---
-// src/components/CardListItem.astro
+import type { MarkdownInstance } from "astro";
+
+interface Frontmatter {
+  title: string;
+  description?: string;
+  technologies?: string[];
+  tags?: string[];
+}
+
 interface Props {
-  item: {
-    url: string;
-    frontmatter: {
-      title: string;
-      description: string;
-      technologies?: string[];
-      tags?: string[];
-    };
-  };
+  item:
+    | MarkdownInstance<Frontmatter>
+    | {
+        url: string;
+        frontmatter: Frontmatter;
+      };
   show: "technologies" | "tags";
 }
 
 const { item, show } = Astro.props;
+
+// Normalize the item structure
+const normalizedItem = {
+  url: item.url,
+  frontmatter: {
+    title: item.frontmatter.title,
+    description: item.frontmatter.description || "", // Handle optional description
+    technologies: item.frontmatter.technologies || [],
+    tags: item.frontmatter.tags || [],
+  },
+};
 ---
 
 <li
@@ -22,38 +38,48 @@ const { item, show } = Astro.props;
   <h2
     class="text-xl leading-[2] font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
   >
-    <a href={item.url} class="group-hover:underline">
-      {item.frontmatter.title}
+    <a href={normalizedItem.url} class="group-hover:underline">
+      {normalizedItem.frontmatter.title}
       <span class="absolute inset-0"></span>
     </a>
   </h2>
 
-  <p class="font-serif leading-[2] tracking-wide">
-    {item.frontmatter.description}
-  </p>
+  {
+    normalizedItem.frontmatter.description && (
+      <p class="font-serif leading-[2] tracking-wide">
+        {normalizedItem.frontmatter.description}
+      </p>
+    )
+  }
 
-  <div class="flex items-center gap-2 mt-6">
-    {
-      show === "technologies" ? (
-        <p class="inline-block font-serif text-sm">Technologies →</p>
-      ) : (
-        <p class="inline-block font-serif text-sm">Tags →</p>
-      )
-    }
-
-    <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
-      {
-        show === "technologies" &&
-          item.frontmatter.technologies?.map((tag) => (
-            <li class="inline-block font-serif text-sm">{tag}</li>
-          ))
-      }
-      {
-        show === "tags" &&
-          item.frontmatter.tags?.map((tag) => (
-            <li class="inline-block font-serif text-sm">{tag}</li>
-          ))
-      }
-    </ul>
-  </div>
+  {
+    (normalizedItem.frontmatter.technologies.length > 0 ||
+      normalizedItem.frontmatter.tags.length > 0) && (
+      <div class="flex items-center gap-2 mt-6">
+        {show === "technologies" &&
+        normalizedItem.frontmatter.technologies.length > 0 ? (
+          <>
+            <p class="inline-block font-serif text-sm">Technologies →</p>
+            <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
+              {normalizedItem.frontmatter.technologies.map((tech) => (
+                <li class="inline-block font-serif text-sm">{tech}</li>
+              ))}
+            </ul>
+          </>
+        ) : (
+          show === "tags" &&
+          normalizedItem.frontmatter.tags.length > 0 && (
+            <>
+              <p class="inline-block font-serif text-sm">Tags →</p>
+              <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
+                {normalizedItem.frontmatter.tags.map((tag) => (
+                  <li class="inline-block font-serif text-sm">{tag}</li>
+                ))}
+              </ul>
+            </>
+          )
+        )}
+      </div>
+    )
+  }
 </li>
