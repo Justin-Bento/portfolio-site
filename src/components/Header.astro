@@ -2,7 +2,9 @@
 const navigation = ["home", "projects", "blogs"];
 ---
 
-<header class="sticky bg-white top-0 z-90 overflow-hidden shadow">
+<header
+  class="sticky top-0 z-50 bg-white dark:bg-gray-900 transition-shadow duration-300"
+>
   <div class="max-w-7xl mx-auto p-6 flex items-center justify-between">
     <ul class="gap-2 flex items-center">
       {
@@ -30,3 +32,41 @@ const navigation = ["home", "projects", "blogs"];
     </div>
   </div>
 </header>
+
+<script is:inline>
+  {
+    const initHeaderShadow = () => {
+      const header = document.querySelector("header");
+      if (!header) return;
+
+      const sentinel = document.createElement("div");
+      sentinel.style.position = "absolute";
+      sentinel.style.top = "0";
+      sentinel.style.height = "1px";
+      document.body.prepend(sentinel);
+
+      const observer = new IntersectionObserver(
+        ([entry]) => {
+          header.classList.toggle("shadow-md", !entry.isIntersecting);
+        },
+        { threshold: 0.1 }
+      );
+
+      observer.observe(sentinel);
+
+      // Cleanup when navigating away (important for SPA behavior)
+      const cleanup = () => {
+        observer.disconnect();
+        sentinel.remove();
+        window.removeEventListener("beforeunload", cleanup);
+      };
+      window.addEventListener("beforeunload", cleanup);
+    };
+
+    if (document.readyState === "complete") {
+      initHeaderShadow();
+    } else {
+      document.addEventListener("DOMContentLoaded", initHeaderShadow);
+    }
+  }
+</script>
