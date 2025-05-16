@@ -1,5 +1,6 @@
 ---
 const navigation = ["home", "projects", "blogs"];
+const fullYear = new Date().getFullYear();
 ---
 
 <footer class="bg-zinc-900">
@@ -93,7 +94,7 @@ const navigation = ["home", "projects", "blogs"];
       </a>
     </div>
     <p class="mt-10 text-start text-sm/6 text-zinc-400">
-      &copy; {new Date().getFullYear()} Justin Bento, Inc. All rights reserved.
+      &copy; {fullYear} Justin Bento, Inc. All rights reserved.
     </p>
   </div>
 </footer>
