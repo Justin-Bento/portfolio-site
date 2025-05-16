@@ -20,7 +20,7 @@ const projects = await Astro.glob("./projects/*.md");
       <ContentLayout
         title="Projects"
         supporting=""
-        items={projects}
+        items={projects.slice().reverse()}
         show="technologies"
       />
     </main>
