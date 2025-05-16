@@ -112,9 +112,12 @@ const blogs = Object.values(
         </p>
         <ul class="grid grid-cols-1 gap-12 mt-6">
           {
-            projects.map((blog) => {
-              return <CardListItem item={blog} show="technologies" />;
-            })
+            projects
+              .slice()
+              .reverse()
+              .map((blog) => {
+                return <CardListItem item={blog} show="technologies" />;
+              })
           }
         </ul>
       </section>
