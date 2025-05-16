@@ -11,7 +11,10 @@ const navigation = ["home", "projects", "blogs"];
       {
         navigation.map((nav) => {
           return (
-            <a href="#" class="text-zinc-400 hover:text-white capitalize">
+            <a
+              href={nav === "home" ? "/" : `/${nav.toLowerCase()}`}
+              class="text-zinc-400 hover:text-white capitalize"
+            >
               {nav}
             </a>
           );
