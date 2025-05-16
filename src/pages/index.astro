@@ -113,13 +113,18 @@ const blogs = Object.values(
         <ul class="grid grid-cols-1 gap-12 mt-6">
           {
             projects
-              .slice()
+              .slice(3, 9)
               .reverse()
               .map((blog) => {
                 return <CardListItem item={blog} show="technologies" />;
               })
           }
         </ul>
+        <a
+          href="/projects"
+          class="mt-8 inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-main border border-main rounded-full transition hover:bg-muted"
+          >View Project
+        </a>
       </section>
       <section>
         <h2
@@ -144,6 +149,11 @@ const blogs = Object.values(
               })
           }
         </ul>
+        <a
+          href="/blogs"
+          class="mt-8 inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-main border border-main rounded-full transition hover:bg-muted"
+          >View Blogs
+        </a>
       </section>
       <section>
         <h2
