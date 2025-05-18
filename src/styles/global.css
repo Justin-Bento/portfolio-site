@@ -16,7 +16,7 @@
 :root {
   --text-main: var(--color-zinc-950);
   --bg-main: var(--color-zinc-50);
-  --bg-muted: #eae9e1;
+  --color-dissidia-muted: #727598;
   --border-main: var(--color-zinc-900);
   --color-dissidia-white: hsl(240, 47.4%, 98%);
   --color-dissidia-black: hsl(244.4, 18.1%, 20%);
@@ -39,5 +39,5 @@ h4,
 h5,
 h6,
 p {
-  color: #59586f;
+  color: var(--color-dissida-black);
 }
