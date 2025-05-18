@@ -19,3 +19,7 @@
   --bg-muted: #eae9e1;
   --border-main: var(--color-zinc-900);
 }
+body,
+header {
+  background: #f9f9fb;
+}
