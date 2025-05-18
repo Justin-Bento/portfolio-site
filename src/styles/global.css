@@ -28,7 +28,12 @@
 html {
   font-family: var(--font-serif);
 }
-
+.heading-lg {
+  font-size: var(--text-5xl);
+  text-transfrom: capitalize;
+  font-weight: var(--font-weight-semibold);
+  line-height: 1.25;
+}
 .heading-md {
   font-size: var(--text-4xl);
   line-height: var(--leading-loose);
