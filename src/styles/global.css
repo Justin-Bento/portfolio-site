@@ -41,8 +41,9 @@ html {
 }
 .body-text {
   color: var(--color-dissidia-black);
-  leading: 2;
-  letter-spacing: var(--tracking-wider);
+  line-height: var(--leading-loose);
+  letter-spacing: var(--tracking-wide);
   font-weight: var(--font-weight-normal);
-  text-wrap: pretty;
+  text-wrap: var(--text-wrap);
+  font-size: var(--text-base);
 }
