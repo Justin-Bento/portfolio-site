@@ -18,6 +18,11 @@
   --bg-main: var(--color-zinc-50);
   --bg-muted: #eae9e1;
   --border-main: var(--color-zinc-900);
+  --color-dissidia-white: #f1f1fa;
+  --color-dissidia-black: #3f3d58;
+  --color-dissidia-text: #1b1d4a;
+  --color-dissidia-accent: #43ced0;
+  --color-dissidia-accent2: #927d54;
 }
 body,
 header {
