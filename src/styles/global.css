@@ -28,3 +28,9 @@
 html {
   font-family: var(--font-serif);
 }
+
+.heading-md {
+  font-size: var(--text-4xl);
+  line-height: var(--leading-loose);
+  font-weight: var(--font-weight-extrabold);
+}
