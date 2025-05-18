@@ -24,3 +24,7 @@
   --bg-main: var(--color-zinc-50);
   --border-main: var(--color-zinc-900);
 }
+
+html {
+  font-family: var(--font-serif);
+}
