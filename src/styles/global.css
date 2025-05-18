@@ -39,3 +39,10 @@ html {
   line-height: var(--leading-loose);
   font-weight: var(--font-weight-extrabold);
 }
+.body-text {
+  color: var(--color-dissidia-black);
+  leading: 2;
+  letter-spacing: var(--tracking-wider);
+  font-weight: var(--font-weight-normal);
+  text-wrap: pretty;
+}
