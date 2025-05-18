@@ -18,7 +18,7 @@
   --bg-main: var(--color-zinc-50);
   --bg-muted: #eae9e1;
   --border-main: var(--color-zinc-900);
-  --color-dissidia-white: #f1f1fa;
+  --color-dissidia-white: hsl(240, 47.4%, 98%);
   --color-dissidia-black: #3f3d58;
   --color-dissidia-text: #1b1d4a;
   --color-dissidia-accent: #43ced0;
@@ -26,7 +26,7 @@
 }
 body,
 header {
-  background: #f9f9fb;
+  background: var(--color-dissidia-white);
 }
 footer {
   background: #3e3c43;
