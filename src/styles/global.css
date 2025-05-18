@@ -45,5 +45,5 @@ html {
   letter-spacing: var(--tracking-wide);
   font-weight: var(--font-weight-normal);
   text-wrap: balance;
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
 }
