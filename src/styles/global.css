@@ -44,6 +44,6 @@ html {
   line-height: var(--leading-2);
   letter-spacing: var(--tracking-wide);
   font-weight: var(--font-weight-normal);
-  text-wrap: var(--text-wrap);
+  text-wrap: balance;
   font-size: var(--text-base);
 }
