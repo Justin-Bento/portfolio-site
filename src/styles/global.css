@@ -41,7 +41,7 @@ html {
 }
 .body-text {
   color: var(--color-dissidia-black);
-  line-height: var(--leading-loose);
+  line-height: var(--leading-2);
   letter-spacing: var(--tracking-wide);
   font-weight: var(--font-weight-normal);
   text-wrap: var(--text-wrap);
