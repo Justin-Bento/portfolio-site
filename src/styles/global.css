@@ -55,4 +55,5 @@ html {
   font-style: italic;
   color: var(--color-dissidia-black);
   background: var(--bg-dissidia-white);
+  border: 1px solid var(--color-dissidia-black);
 }
