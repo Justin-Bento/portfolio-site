@@ -16,7 +16,7 @@ const fullYear = new Date().getFullYear();
           return (
             <a
               href={nav === "home" ? "/" : `/${nav.toLowerCase()}`}
-              class="text-zinc-400 hover:text-white capitalize"
+              class="hover:text-white capitalize"
             >
               {nav}
             </a>
@@ -95,7 +95,7 @@ const fullYear = new Date().getFullYear();
         </svg>
       </a>
     </div>
-    <p class="mt-10 text-start text-sm/6 text-zinc-400">
+    <p class="mt-10 text-start text-sm/6">
       &copy; {fullYear} Justin Bento, Inc. All rights reserved.
     </p>
   </div>
