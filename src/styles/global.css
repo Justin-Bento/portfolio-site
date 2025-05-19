@@ -61,3 +61,7 @@ html {
   transition-timing-function: theme(transitionTimingFunction.DEFAULT);
   transition-duration: theme(transitionDuration.DEFAULT);
 }
+.button:hover {
+  background-color: #9da2bf;
+  opacity: 70;
+}
