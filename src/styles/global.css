@@ -54,4 +54,5 @@ html {
   line-height: var(--leading-tight);
   font-style: italic;
   color: var(--color-dissidia-black);
+  background: var(--bg-dissidia-white);
 }
