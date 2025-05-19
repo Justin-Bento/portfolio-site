@@ -52,4 +52,5 @@ html {
   justify-items: center;
   padding: calc(var(--spacing) * 2) calc(var(--spacing) * 6);
   line-height: var(--leading-tight);
+  font-style: italic;
 }
