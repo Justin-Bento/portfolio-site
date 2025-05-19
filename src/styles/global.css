@@ -50,4 +50,5 @@ html {
 .button {
   display: inline-flex;
   justify-items: center;
+  padding: calc(var(--spacing) * 2) calc(var(--spacing) * 6);
 }
