@@ -7,11 +7,11 @@ description: "As a stationary enthusiast and current job hunter, my life revolve
 author: "Justin Bento"
 image:
   url: "/image/common-place-notebook.png"
-  alt: "An image of a robot stairng into space"
-tags: ["astro", "blogging", "learning in public"]
+  alt: "An image of a robot staring into space"
+tags: ["Astro", "blogging", "learning in public"]
 ---
 
-As a stationary enthusiast and current job hunter, my life revolves around three main things: job hunting, researching and learning new things, and programming. I have found a way to balance all three, and I'm excited to share my secret with you. Are you ready? Drumroll, please... It is pen and paper! Specifically, a system called a "commonplace notebook."
+As a stationary enthusiast and current job hunter, my life revolves around three main things: job hunting, researching and learning new things, and programming. I have found a way to balance all three, and I'm excited to share my secret with you. Are you ready? Drum-roll, please... It is pen and paper! Specifically, a system called a "commonplace notebook."
 
 > Here’s what google has to say: A commonplace book is a personal notebook or journal used to collect and organize information, ideas, quotes, and observations from various sources for future reference and reflection.
 

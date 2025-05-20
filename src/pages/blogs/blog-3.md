@@ -7,7 +7,7 @@ description: "Here are some things I learned after completing The Odin Projects 
 author: "Justin Bento"
 image:
   url: "/image/psp-3000-with-ark.jpg"
-  alt: "An image of a robot stairng into space"
+  alt: "An image of a robot staring into space"
 tags: ["astro", "blogging", "learning in public"]
 ---
 
@@ -17,4 +17,4 @@ While Humber technically offered a retake option through a separate mobile devel
 
 ## Why Bring This Up?
 
-After graduating I realized that my design skills where better than my coding skills after graduation and realized the odin project was the perfect place to fill in my gap. For those that do not know the odin project is a curated, open-source curriculum that aggregates the best online tutorials, blogs, and courses—all in one place—to teach full-stack web development in your free time. I chose to continue with it because it bridges the gap for self-taught learners, offering a structured, high-quality roadmap to becoming a developer without the cost of traditional bootcamps.
+After graduating I realized that my design skills where better than my coding skills after graduation and realized the odin project was the perfect place to fill in my gap. For those that do not know the Odin project is a curated, open-source curriculum that aggregates the best online tutorials, blogs, and courses—all in one place—to teach full-stack web development in your free time. I chose to continue with it because it bridges the gap for self-taught learners, offering a structured, high-quality road-map to becoming a developer without the cost of traditional boot-camps.
