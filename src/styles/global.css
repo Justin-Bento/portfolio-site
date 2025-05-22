@@ -69,4 +69,5 @@ html {
 .wrapper {
   max-width: 100ch;
   margin: 0rem auto;
+  padding: calc(var(--spacing) * 6);
 }
