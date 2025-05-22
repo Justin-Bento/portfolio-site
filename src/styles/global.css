@@ -67,4 +67,5 @@ html {
 }
 
 .wrapper {
+  max-width: 100ch;
 }
