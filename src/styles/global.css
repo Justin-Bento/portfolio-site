@@ -58,8 +58,8 @@ html {
   border: 1px solid var(--color-dissidia-black);
   border-radius: 9999px;
   transition-property: all;
-  transition-timing-function: theme(transitionTimingFunction.DEFAULT);
-  transition-duration: theme(transitionDuration.DEFAULT);
+  transition-timing-function: 150ms;
+  transition-duration: 150ms;
 }
 .button:hover {
   background-color: rgba(157, 162, 191, 0.5);
