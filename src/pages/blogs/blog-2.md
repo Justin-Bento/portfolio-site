@@ -23,7 +23,7 @@ After delving deep into the Common Place Notebook rabbit hole, I discovered that
 
 I began keeping a commonplace notebook while studying The Odin Project in the second quarter of 2024 to demonstrate that I am not just mindlessly scrolling through social media. But actually spending time learning new things and showing people that I am continuous learning new things. However, I struggled to effectively communicate my research and learning strategies as I never had a system until recently.
 
-Nowadays a chunck of my time is spent writing things on pen and paper and writing has been a great blessing. Why? I get to keep tabs physical timeline of things you researched, and wouldnt have to waste time re-reading all the topics, as I have a summary at the end to help me keep up to speed with all the topics.
+Nowadays a chunk of my time is spent writing things on pen and paper and writing has been a great blessing. Why? I get to keep tabs physical timeline of things you researched, and wouldn't have to waste time re-reading all the topics, as I have a summary at the end to help me keep up to speed with all the topics.
 
 So if you ever are on the fence of buying a notebook I would highly recommend making that purchase and looking into writing a Common Place Notebook for yourself and seeing where it leads you on your journey.
 
