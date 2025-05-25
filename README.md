@@ -1,10 +1,14 @@
-# Portfolio
+# Personal Site
 
-I am a Canadian citizen actively seeking opportunities as a Full Stack Developer, with a specialization in the JavaScript and Ruby on Rails ecosystems.
+Welcome to my portfolio website.
 
-In this portfolio, you'll find a selection of my most relevant work and gain insight into my journey toward becoming a professional Web Developer. I’ve highlighted 3–4 key projects that showcase my technical versatility, problem-solving skills, and hands-on development experience.
+I'm Justin Bento, a Canadian citizen actively seeking opportunities as a Full Stack Developer.
 
-This portfolio is specifically designed for hiring managers evaluating candidates for web development roles, offering a clear view of my capabilities and the value I can bring to your team.
+My technologies include Full Stack JavaScript and Ruby on Rails ecosystems.
+
+On this site, you'll find a selection of my most relevant work and learn about my journey to becoming a professional Web Developer. I've highlighted 3–4 key projects that showcase my technical versatility, problem-solving skills, and hands-on development experience.
+
+This portfolio is designed for hiring managers evaluating candidates for web development roles, and offers a clear view of my capabilities and the value I can bring to your team.
 
 ## Tech Stack
 
