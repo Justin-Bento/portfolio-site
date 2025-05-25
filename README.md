@@ -2,6 +2,12 @@
 
 Welcome to my portfolio. Here, you'll find my most relevant work and learn about my journey to becoming a Website Developer. On the website I’ve highlighted 3–4 key projects that demonstrate my diverse technical skills and development experience. This portfolio is designed for hiring managers who are evaluating candidates for web development roles.
 
+## Tech Stack
+
+**Client:** HTML5, CSS3, JavaScript, Tailwind CSS, Astro.js, Markdown
+
+**Server:** Node.js, PNPM
+
 ## Project Structure
 
 Here is an organized view of the routes within my website.
