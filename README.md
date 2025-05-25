@@ -10,6 +10,22 @@ On this site, you'll find a selection of my most relevant work and learn about m
 
 This portfolio is designed for hiring managers evaluating candidates for web development roles, and offers a clear view of my capabilities and the value I can bring to your team.
 
+## Features
+
+- Light/dark mode toggle
+- Mobile-first responsive layout
+- section with bio
+- Portfolio collection
+- Pagination support
+- Post tags support
+- Subscription form
+- View transitions
+- Tailwind CSS
+- SEO-friendly with canonical URLs and OpenGraph data
+- Sitemap support
+- RSS Feed support
+- Markdown & MDX support
+
 ## Tech Stack
 
 **Client:** HTML5, CSS3, JavaScript, Tailwind CSS, Astro.js, Markdown
