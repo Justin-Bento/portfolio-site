@@ -1,6 +1,10 @@
-# Justin Bento Portfolio
+# Portfolio
 
-Welcome to my portfolio. Here, you'll find my most relevant work and learn about my journey to becoming a Website Developer. On the website I’ve highlighted 3–4 key projects that demonstrate my diverse technical skills and development experience. This portfolio is designed for hiring managers who are evaluating candidates for web development roles.
+I am a Canadian citizen actively seeking opportunities as a Full Stack Developer, with a specialization in the JavaScript and Ruby on Rails ecosystems.
+
+In this portfolio, you'll find a selection of my most relevant work and gain insight into my journey toward becoming a professional Web Developer. I’ve highlighted 3–4 key projects that showcase my technical versatility, problem-solving skills, and hands-on development experience.
+
+This portfolio is specifically designed for hiring managers evaluating candidates for web development roles, offering a clear view of my capabilities and the value I can bring to your team.
 
 ## Tech Stack
 
