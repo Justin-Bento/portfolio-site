@@ -26,6 +26,7 @@
 }
 
 html {
+  line-height: 2;
   font-family: var(--font-serif);
 }
 .heading-lg {
