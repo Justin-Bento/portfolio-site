@@ -8,9 +8,17 @@
   font-display: swap;
   src: url("/fonts/Alegreya-VariableFont_wght.ttf") format("ttf");
 }
+@font-face {
+  font-family: "LeagueSpartan-VF";
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("/fonts/LeagueSpartan-VF.ttf") format("truetype");
+}
 
 @theme {
   --font-serif: "Alegreya", serif;
+  --font-sans: "LeagueSpartan-VF", sans-serif;
   --color-dissidia-muted: #9da2bf;
   --color-dissidia-white: hsl(240, 47.4%, 98%);
   --color-dissidia-black: hsl(244.4, 18.1%, 20%);
@@ -29,7 +37,7 @@
   line-height: 2;
 }
 html {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
 }
 .heading-lg {
   font-size: var(--text-5xl);

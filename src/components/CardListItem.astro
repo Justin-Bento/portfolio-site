@@ -36,7 +36,7 @@ const normalizedItem = {
   class="group relative overflow-hidden text-balance border bg-dissidia-muted/10 hover:bg-dissidia-muted/30 hover:border-dissidia-muted rounded-xl p-8 transition-all hover:cursor-pointer"
 >
   <h2
-    class="text-xl leading-[2] font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
+    class="text-xl leading-[2] font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
   >
     <a href={normalizedItem.url} class="group-hover:underline">
       {normalizedItem.frontmatter.title}
@@ -46,7 +46,7 @@ const normalizedItem = {
 
   {
     normalizedItem.frontmatter.description && (
-      <p class="font-serif leading-[2] tracking-wide">
+      <p class="leading-[2] tracking-wide">
         {normalizedItem.frontmatter.description}
       </p>
     )
@@ -59,10 +59,10 @@ const normalizedItem = {
         {show === "technologies" &&
         normalizedItem.frontmatter.technologies.length > 0 ? (
           <>
-            <p class="inline-block font-serif text-sm">Technologies →</p>
+            <p class="inline-block  text-sm">Technologies →</p>
             <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
               {normalizedItem.frontmatter.technologies.map((tech) => (
-                <li class="inline-block font-serif text-sm">{tech}</li>
+                <li class="inline-block  text-sm">{tech}</li>
               ))}
             </ul>
           </>
@@ -70,10 +70,10 @@ const normalizedItem = {
           show === "tags" &&
           normalizedItem.frontmatter.tags.length > 0 && (
             <>
-              <p class="inline-block font-serif text-sm">Tags →</p>
+              <p class="inline-block  text-sm">Tags →</p>
               <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
                 {normalizedItem.frontmatter.tags.map((tag) => (
-                  <li class="inline-block font-serif text-sm">{tag}</li>
+                  <li class="inline-block  text-sm">{tag}</li>
                 ))}
               </ul>
             </>

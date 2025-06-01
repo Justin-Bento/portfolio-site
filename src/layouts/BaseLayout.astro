@@ -16,10 +16,8 @@ const { frontmatter } = Astro.props;
   <body>
     <Header />
     <main class="max-w-[100ch] mx-auto px-4 py-5 sm:p-6 min-h-dvh my-16">
-      <article class="prose max-w-[100ch] [&>p]:leading-[2]">
-        <h1
-          class="font-serif text-4xl lg:text-5xl font-bold lg:tracking-tight mt-1 lg:leading-tight leading-[1.5] mb-0"
-        >
+      <article class="prose max-w-[100ch]">
+        <h1 class="text-4xl lg:text-5xl font-bold mt-1 mb-0">
           {frontmatter.title}
         </h1>
         <p>{frontmatter.description}</p>
