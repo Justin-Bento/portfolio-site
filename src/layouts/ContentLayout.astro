@@ -2,12 +2,13 @@
 import CardListItem from "../components/CardListItem.astro";
 import "../styles/global.css";
 const { title, supporting, items, show } = Astro.props;
+import { body } from "../styles/design-system";
 ---
 
 <h1 class="heading-lg mb-0">
   {title}
 </h1>
-<p class="body-text">
+<p class={body.md}>
   {supporting}
 </p>
 <ul class="grid grid-cols-1 mt-12 gap-12">

@@ -30,6 +30,7 @@ const normalizedItem = {
     tags: item.frontmatter.tags || [],
   },
 };
+import { body } from "../styles/design-system";
 ---
 
 <li
@@ -53,7 +54,7 @@ const normalizedItem = {
 
   {
     normalizedItem.frontmatter.description && (
-      <p class="text-pretty line-clamp-3">
+      <p class={body.md + "text-pretty line-clamp-3"}>
         {normalizedItem.frontmatter.description}
       </p>
     )
@@ -66,10 +67,10 @@ const normalizedItem = {
         {show === "technologies" &&
         normalizedItem.frontmatter.technologies.length > 0 ? (
           <>
-            <p class="inline-block  text-sm">Technologies →</p>
+            <p class={body.sm + "inline-block"}>Technologies →</p>
             <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
               {normalizedItem.frontmatter.technologies.map((tech) => (
-                <li class="inline-block  text-sm">{tech}</li>
+                <li class={body.sm + "inline-block"}>{tech}</li>
               ))}
             </ul>
           </>
@@ -77,10 +78,10 @@ const normalizedItem = {
           show === "tags" &&
           normalizedItem.frontmatter.tags.length > 0 && (
             <>
-              <p class="inline-block  text-sm">Tags →</p>
+              <p class={body.sm + "inline-block"}>Tags →</p>
               <ul class="list-none flex flex-wrap items-center space-x-4 capitalize">
                 {normalizedItem.frontmatter.tags.map((tag) => (
-                  <li class="inline-block  text-sm">{tag}</li>
+                  <li class={body.sm + "inline-block"}>{tag}</li>
                 ))}
               </ul>
             </>
