@@ -28,9 +28,9 @@
 }
 
 :root {
-  --text-main: var(--color-zinc-950);
-  --bg-main: var(--color-zinc-50);
-  --border-main: var(--color-zinc-900);
+  --text-main: var(--color-dissidia-black);
+  --bg-main: var(--color-dissidia-white);
+  --border-main: var(--color-dissidia-black);
 }
 
 * {
