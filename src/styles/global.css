@@ -34,7 +34,7 @@
 }
 
 * {
-  line-height: 2;
+  line-height: var(--leading-loose);
   letter-spacing: var(--tracking-wide);
 }
 html {
