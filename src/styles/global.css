@@ -44,7 +44,7 @@ html {
   font-size: var(--text-5xl);
   text-transform: var(--capitalize);
   font-weight: var(--font-weight-semibold);
-  line-height: 1.25;
+  line-height: var(--leading-snug);
 }
 .heading-md {
   font-size: var(--text-4xl);
