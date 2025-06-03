@@ -19,6 +19,7 @@
 @theme {
   --font-serif: "Alegreya", serif;
   --font-sans: NotoSans, sans-serif;
+  --color-dissidia-muted-hover: rgba(134, 152, 164, 0.2);
   --color-dissidia-muted: rgb(134, 152, 164);
   --color-dissidia-white: rgb(252, 252, 253);
   --color-dissidia-black: rgb(33, 42, 49);
@@ -68,14 +69,13 @@ html {
   color: var(--color-dissidia-black);
   background: var(--bg-dissidia-white);
   border: 1px solid var(--color-dissidia-black);
-  border-radius: 9999px;
+  border-radius: var(--rounded-full);
   transition-property: all;
   transition-timing-function: 150ms;
   transition-duration: 150ms;
 }
 .button:hover {
-  background-color: hsla(270, 17%, 60%, 0.267);
-  opacity: 30;
+  background-color: var(--color-dissidia-muted-hover);
   text-decoration: underline;
 }
 
