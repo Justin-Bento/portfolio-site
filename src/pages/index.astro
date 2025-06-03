@@ -2,7 +2,6 @@
 import CardListItem from "../components/CardListItem.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
-import { body } from "../styles/design-system";
 import "../styles/global.css";
 
 interface MarkdownFile {
@@ -41,7 +40,9 @@ const blogs = Object.values(
             Hi, my name is Justin Bento. <br />
             I am a Full-Stack Developer.
           </h1>
-          <p class={body.lg + "max-w-4xl text-balance mt-4"}>
+          <p
+            class="text-xl leading-loose text-balance tracking-wide max-w-4xl mt-4"
+          >
             I build web apps with Ruby and Rails, JavaScript, React, Astro &
             Tailwind CSS. Currently, I&#39;m focused on building accessible,
             human-centered products.
@@ -59,13 +60,13 @@ const blogs = Object.values(
             ><sup class="mr-2 text-dissidia-accent">#1</sup>About Me</span
           >
         </h2>
-        <div class="space-y-8">
+        <div class="space-y-8 text-md leading-loose text-balance tracking-wide">
           <img
             src="/image/justin-bento-playing-guitar.jpg"
             alt=""
             class="h-96 w-full rounded-xl object-cover object-center lg:float-right lg:aspect-square lg:w-96 lg:rounded-r-xl lg:pl-5"
           />
-          <p class={body.md}>
+          <p>
             Hello again. As you know, my name is Justin Bento, and I enjoy
             creating things that live on the internet. My interest in website
             development started back in 2016 when I decided to spend time by on
@@ -76,7 +77,7 @@ const blogs = Object.values(
             willingly browse and scan through code teaching myself a lot about
             graphic design alongside programming.
           </p>
-          <p class={body.md}>
+          <p>
             I enrolled in Humber College's Website Design and Development
             program, and here I learned how to build websites for a living.
             During my time here I learned a lot of things however I struggled to
@@ -88,7 +89,7 @@ const blogs = Object.values(
             internal system code so thousands of students could interact with
             the course.
           </p>
-          <p class={body.md}>
+          <p>
             Fast-forward to today, I am currently looking for work as a Full
             Stack Developer in Toronto, ON. I am constantly pushing myself to
             make educated recommendations that bring value to your company that
@@ -110,7 +111,7 @@ const blogs = Object.values(
             Some things I've Built.
           </span>
         </h2>
-        <p class={body.xl}>
+        <p class="text-xl leading-loose text-balance tracking-wide">
           Below are some projects I've created over the span of my career.
         </p>
         <ul class="grid grid-cols-1 gap-12 mt-6">
@@ -136,7 +137,7 @@ const blogs = Object.values(
             Stuff I want to Share.
           </span>
         </h2>
-        <p class={body.xl}>
+        <p class="text-xl leading-loose text-balance tracking-wide">
           I’m always continuing my education. Here are some topics I want to
           share.
         </p>
@@ -163,20 +164,20 @@ const blogs = Object.values(
             Get In Touch.
           </span>
         </h2>
-        <div class="space-y-6">
-          <p class={body.md}>
+        <div class="space-y-6 text-md leading-loose text-balance tracking-wide">
+          <p>
             Thank you for reaching out! Whether you have a question, a
             suggestion, or just want to share your thoughts, I am all ears. Feel
             free to get in touch through any of the methods below:
           </p>
-          <p class={body.md}>
+          <p>
             Email: Feel free to drop me an email at <a
               href=""
               class="underline text-dissidia-accent2"
               >bento.a.justin@gmail.com</a
             >, and I will do my best to respond asap.
           </p>
-          <p class={body.md}>
+          <p>
             Social Media: Connect with me on social media as well. Find me on
             <a
               href="https://soundcloud.com/bento-box-519166246"

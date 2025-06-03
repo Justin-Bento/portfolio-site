@@ -15,7 +15,7 @@ const navigation = ["home", "projects", "blogs"];
             <li class="relative isolate">
               <a
                 href={item === "home" ? "/" : `/${item.toLowerCase()}`}
-                class={`${body.sm} p-2 capitalize hover:underline`}
+                class={`text-sm leading-loose text-balance tracking-wide p-2 capitalize hover:underline`}
               >
                 {index}.&nbsp;{item}
                 <span class="absolute inset-0" />
@@ -28,7 +28,7 @@ const navigation = ["home", "projects", "blogs"];
     <div class="">
       <a
         href="https://github.com/Justin-Bento"
-        class={`${body.md} after:content-['_↗'] capitalize hover:underline`}
+        class="text-sm leading-loose text-balance tracking-wide after:content-['_↗'] capitalize hover:underline"
         >Github</a
       >
     </div>
