@@ -34,10 +34,6 @@
   --border-main: var(--color-dissidia-black);
 }
 
-* {
-  line-height: var(--leading-loose);
-  letter-spacing: var(--tracking-wide);
-}
 html {
   font-family: var(--font-sans);
 }
