@@ -19,12 +19,12 @@
 @theme {
   --font-serif: "Alegreya", serif;
   --font-sans: NotoSans, sans-serif;
-  --color-dissidia-muted: #8698a4;
-  --color-dissidia-white: hsl(214, 28%, 99%);
-  --color-dissidia-black: hsl(206, 19%, 16%);
-  --color-dissidia-text: #1b1d4a;
-  --color-dissidia-accent: #5ec789;
-  --color-dissidia-accent2: #927d54;
+  --color-dissidia-muted: rgb(134, 152, 164);
+  --color-dissidia-white: rgb(252, 252, 253);
+  --color-dissidia-black: rgb(33, 42, 49);
+  --color-dissidia-text: rgb(27, 29, 74);
+  --color-dissidia-accent: rgb(94, 199, 137);
+  --color-dissidia-accent2: rgb(146, 125, 84);
 }
 
 :root {
