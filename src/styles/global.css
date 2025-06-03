@@ -35,6 +35,7 @@
 
 * {
   line-height: 2;
+  letter-spacing: var(--tracking-wide);
 }
 html {
   font-family: var(--font-sans);
