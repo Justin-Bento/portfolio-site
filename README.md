@@ -10,6 +10,14 @@ On this website, you'll find a selection of my most relevant work and learn abou
 
 This portfolio is designed for hiring managers evaluating candidates for web development roles, and offers a clear view of my capabilities and the value I can bring to your team.
 
+- Date Created: Tue May 13 2025
+- Last Updated: Wed Jun 04 2025
+- Previous iterations: v1, v2,
+- Last Update: 0.1.12
+- Status: Working On Case Studies.
+- Live Link: [www.justin-bento.com](www.justin-bento.com)
+- Credits: [See full credits](#credits--inspiration)
+
 ## Features
 
 - Light/dark mode toggle
