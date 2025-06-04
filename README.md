@@ -46,3 +46,11 @@ Here is an organized view of the routes within my website.
 | `/articles/:id` | Article Details | More about topics I care about as a developer.                             |
 | `/experience`   | Experience      | My journey as a web developer - where I've been.                           |
 | `/contact`      | Contact         | Let's connect!                                                             |
+
+## Credits & Inspiration
+
+I would like to acknowledge and give credit to the following projects and creators, whose work inspired my design and shaped the vision for my website. Their efforts made it possible for me to build this site — thank you for your work:
+
+- [Brittany Chiang](https://v4.brittanychiang.com/)
+- [Just Good UI](https://justgoodui.com/) — especially the [Dante Theme](https://justgoodui.com/astro-themes/dante/)
+- **Phantom** by [HTML5 UP](https://html5up.net/)
