@@ -1,4 +1,4 @@
-# Personal Site
+# Personal Website
 
 Welcome to my portfolio website.
 
@@ -6,7 +6,7 @@ I'm Justin Bento, a Canadian citizen actively seeking opportunities as a Full St
 
 My technologies include Full Stack JavaScript and Ruby on Rails ecosystems.
 
-On this site, you'll find a selection of my most relevant work and learn about my journey to becoming a professional Web Developer. I've highlighted 3–4 key projects that showcase my technical versatility, problem-solving skills, and hands-on development experience.
+On this website, you'll find a selection of my most relevant work and learn about my journey to becoming a professional Web Developer. I've highlighted 3–4 key projects that showcase my technical versatility, problem-solving skills, and hands-on development experience.
 
 This portfolio is designed for hiring managers evaluating candidates for web development roles, and offers a clear view of my capabilities and the value I can bring to your team.
 
@@ -49,7 +49,7 @@ Here is an organized view of the routes within my website.
 
 ## Credits & Inspiration
 
-I would like to acknowledge and give credit to the following projects and creators, whose work inspired my design and shaped the vision for my website. Their efforts made it possible for me to build this site — thank you for your work:
+I would like to acknowledge and give credit to the following projects and creators, whose work inspired my design and shaped the vision for my website. Their efforts made it possible for me to build this website — thank you for your work:
 
 - [Brittany Chiang](https://v4.brittanychiang.com/)
 - [Just Good UI](https://justgoodui.com/) — especially the [Dante Theme](https://justgoodui.com/astro-themes/dante/)
