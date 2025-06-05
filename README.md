@@ -13,7 +13,7 @@ This portfolio is designed for hiring managers evaluating candidates for web dev
 - Date Created: Tue May 13 2025
 - Last Updated: Wed Jun 04 2025
 - Previous iterations: v1, v2,
-- Last Update: 0.3.12
+- Last Update: 1.3.12
 - Status: Working On Case Studies.
 - Live Link: [www.justin-bento.com](www.justin-bento.com)
 - Credits: [See full credits](#credits--inspiration)
