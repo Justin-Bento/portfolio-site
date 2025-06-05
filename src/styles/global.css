@@ -87,7 +87,9 @@ html.dark {
     .prose :where(h1, h2, h3, h4, h5, h6) {
         @apply font-serif font-medium;
     }
-
+    .prose :where(p) {
+        @apply leading-loose;
+    }
     .prose :where(code, strong) {
         @apply font-medium;
     }
