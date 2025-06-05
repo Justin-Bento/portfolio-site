@@ -101,8 +101,8 @@ const siteConfig: SiteConfig = {
         title: 'Hi There & Welcome to My Corner of the Web!',
         text: "I'm <i>Justin Bento</i>, a Full Stack Ruby on Rails and JavaScript Developer with professional experience at Humber College, now seeking exciting new opportunities. Welcome to my space, where I explore the worlds of software, cybersecurity, and the growth of curious minds. I build web applications using Ruby on Rails, JavaScript, React, Astro, and Tailwind CSS. Currently, my focus is on creating accessible, human-centered products. Feel free to explore some of my coding endeavors on <a href='https://github.com/Justin-Bento'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/justinbento/'>LinkedIn</a>.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/justin-bento-preview.webp',
+            alt: 'A person sitting standing in a recording studio behind a drumkit set.'
         },
         actions: [
             {
