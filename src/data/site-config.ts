@@ -99,7 +99,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "I'm <i>Justin Bento</i>, a Full Stack Ruby on Rails and JavaScript Developer with professional experience at Humber College, now seeking exciting new opportunities. Welcome to my space, where I explore the worlds of software, cybersecurity, and the growth of curious minds. I build web applications using Ruby on Rails, JavaScript, React, Astro, and Tailwind CSS. Currently, my focus is on creating accessible, human-centered products. Feel free to explore some of my coding endeavors on <a href='https://github.com/Justin-Bento'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/justinbento/'>LinkedIn</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
