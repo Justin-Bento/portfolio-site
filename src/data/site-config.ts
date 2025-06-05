@@ -75,12 +75,12 @@ const siteConfig: SiteConfig = {
             href: '/contact'
         },
         {
-            text: 'Terms',
-            href: '/terms'
+            text: 'Tags',
+            href: '/tags'
         },
         {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'Terms',
+            href: '/terms'
         }
     ],
     socialLinks: [
