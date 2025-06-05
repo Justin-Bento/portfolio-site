@@ -12,13 +12,13 @@ seo:
 
 **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ethan Donovan - Web Developer based in Estonia
+## Justin Bento - Web Developer based in Estonia
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I'm Justin Bento, a Full Stack website developer residing in the picturesque landscapes of [The 6](https://en.wikipedia.org/wiki/Estonia) also known as Toronto, Ontario, Canada. With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, **Ruby**, and frameworks such as **Astro.js**, **Next.js**, **React.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js (currently learning ruby) to have experience with database management systems like MongoDB.
 
 ## Innovation and Problem-Solving
 
@@ -30,7 +30,7 @@ Living in Estonia has not only influenced my appreciation for nature and culture
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements from cyber security to music production and more. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
 
 ## Collaboration and Communication
 
