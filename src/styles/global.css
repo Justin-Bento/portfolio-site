@@ -89,7 +89,7 @@ html.dark {
     }
 
     .prose a {
-        @apply underline font-normal decoration-1 dark:text-[#ada038] underline-offset-2 decoration-dashed hover:decoration-solid;
+        @apply underline font-normal decoration-1 text-[#1A7474] dark:text-[#ada038] underline-offset-2 decoration-dashed hover:decoration-solid;
     }
 
     .prose :where(h1, h2, h3, h4, h5, h6) {
