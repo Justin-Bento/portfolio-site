@@ -2,6 +2,22 @@
 
 Welcome to my corner of the internet. This personal website serves as a central hub to showcase my skills, experience, and work samples. It provides employers and collaborators with easy access to my professional journey.
 
+## Theme Features:
+
+- ✅ Dark and light color mode
+- ✅ Hero section with bio
+- ✅ Portfolio collection
+- ✅ Pagination support
+- ✅ Post tags support
+- ✅ Subscription form
+- ✅ View transitions
+- ✅ Tailwind CSS
+- ✅ Mobile-first responsive layout
+- ✅ SEO-friendly with canonical URLs and OpenGraph data
+- ✅ Sitemap support
+- ✅ RSS Feed support
+- ✅ Markdown & MDX support
+
 ## Acknowledgements
 
 Special thanks to the creators of these great resources:
