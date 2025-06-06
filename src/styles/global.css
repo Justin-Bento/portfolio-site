@@ -7,6 +7,14 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+@font-face {
+    font-family: 'Sora';
+    src: url('/fonts/Sora-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 999;
+    font-style: normal;
+    font-display: swap;
+}
+
 :root {
     --text-main: #2f2f2f;
     --bg-main: #f9f9fb;
@@ -53,7 +61,7 @@ html.dark {
 */
 
 @theme inline {
-    --font-sans: 'Inter Variable', sans-serif;
+    --font-sans: 'Sora', sans-serif;
     --font-serif: 'Newsreader Variable', serif;
     --text-color-main: var(--text-main);
     --background-color-main: var(--bg-main);
@@ -85,7 +93,7 @@ html.dark {
     }
 
     .prose :where(h1, h2, h3, h4, h5, h6) {
-        @apply font-serif font-medium;
+        @apply font-sans font-medium;
     }
     .prose :where(p) {
         @apply leading-loose;
