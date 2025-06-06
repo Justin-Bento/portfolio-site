@@ -1,64 +1,72 @@
-# Personal Website
+# Portfolio Website (v4)
 
-Welcome to my portfolio website.
-
-I'm Justin Bento, a Canadian citizen actively seeking opportunities as a Full Stack Developer.
-
-My technologies include Full Stack JavaScript and Ruby on Rails ecosystems.
-
-On this website, you'll find a selection of my most relevant work and learn about my journey to becoming a professional Web Developer. I've highlighted 3–4 key projects that showcase my technical versatility, problem-solving skills, and hands-on development experience.
-
-This portfolio is designed for hiring managers evaluating candidates for web development roles, and offers a clear view of my capabilities and the value I can bring to your team.
+Welcome to my corner of the internet. This personal website serves as a central hub to showcase my skills, experience, and work samples. It provides employers and collaborators with easy access to my professional journey.
 
 - Date Created: Tue May 13 2025
 - Last Updated: Wed Jun 04 2025
 - Previous iterations: v1, v2,
 - Last Update: 1.3.12
 - Status: Working On Case Studies.
-- Live Link: [www.justin-bento.com](www.justin-bento.com)
-- Credits: [See full credits](#credits--inspiration)
+- Live Link: www.justin-bento.com
+- Credits: See full credits
 
-## Features
+## Theme Features:
 
-- Light/dark mode toggle
-- Mobile-first responsive layout
-- section with bio
-- Portfolio collection
-- Pagination support
-- Post tags support
-- Subscription form
-- View transitions
-- Tailwind CSS
-- SEO-friendly with canonical URLs and OpenGraph data
-- Sitemap support
-- RSS Feed support
-- Markdown & MDX support
-
-## Tech Stack
-
-**Client:** HTML5, CSS3, JavaScript, Tailwind CSS, Astro.js, Markdown
-
-**Server:** Node.js, PNPM
+- ✅ Dark and light color mode
+- ✅ Hero section with bio
+- ✅ Portfolio collection
+- ✅ Pagination support
+- ✅ Post tags support
+- ✅ Subscription form
+- ✅ View transitions
+- ✅ Tailwind CSS
+- ✅ Mobile-first responsive layout
+- ✅ SEO-friendly with canonical URLs and OpenGraph data
+- ✅ Sitemap support
+- ✅ RSS Feed support
+- ✅ Markdown & MDX support
 
 ## Project Structure
 
-Here is an organized view of the routes within my website.
+Inside of Dante Astro theme, you'll see the following folders and files:
 
-| Route           | Name            | Overview                                                                   |
-| --------------- | --------------- | -------------------------------------------------------------------------- |
-| `/`             | Home            | Tells employers who I am and what I do, with a quick snippet of my career. |
-| `/about`        | About           | Shows I'm human - not a bot! My career and personal side.                  |
-| `/projects`     | Projects        | All the projects I've built during my time as a developer.                 |
-| `/projects/:id` | Project Details | Deep dives into each project showing off my skills.                        |
-| `/articles`     | Articles        | My personality and growth mindset - not just code!                         |
-| `/articles/:id` | Article Details | More about topics I care about as a developer.                             |
-| `/experience`   | Experience      | My journey as a web developer - where I've been.                           |
-| `/contact`      | Contact         | Let's connect!                                                             |
+```text
+├── public/
+├── src/
+│   ├── components/
+│   ├── content/
+│   ├── data/
+│   ├── icons/
+│   ├── layouts/
+│   ├── pages/
+│   ├── styles/
+│   └── utils/
+├── astro.config.mjs
+├── package.json
+├── README.md
+└── tsconfig.json
+```
 
-## Credits & Inspiration
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-I would like to acknowledge and give credit to the following projects and creators, whose work inspired my design and shaped the vision for my website. Their efforts made it possible for me to build this website — thank you for your work:
+There's nothing special about `src/components/`, but that's where we like to put any Astro (`.astro`) components.
 
-- [Brittany Chiang](https://v4.brittanychiang.com/)
-- [Just Good UI](https://justgoodui.com/) — especially the [Dante Theme](https://justgoodui.com/astro-themes/dante/)
-- **Phantom** by [HTML5 UP](https://html5up.net/)
+The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+
+Any static assets, like images, can be placed in the `public/` directory.
+
+## Acknowledgements
+
+Special thanks to the creators of these great resources:
+
+- **Dante Astro Theme by JustGoodUI** - This website uses a modified version of the Dante Astro Theme by JustGoodUI. The original theme is available at https://github.com/JustGoodUI/dante-astro-theme.
+
+- **Loading Screen Inspiration** – The loading animation and transition behavior were inspired by [Brittany Chiang’s v4 portfolio](https://github.com/bchiang7/v4), which features a beautifully crafted intro experience.
+
+- **Visual Style Inspiration** – Color palette and stylistic elements were influenced by the visual aesthetics of Final Fantasy Dissidia 012, developed by Square Enix.
+
+- Demo content generate with [Chat GPT](https://chat.openai.com/)
+
+- Images for demo content from [Unsplash](https://unsplash.com/)
+
+- [Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) is a free single author blog theme.
