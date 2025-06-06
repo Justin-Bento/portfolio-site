@@ -2,6 +2,14 @@
 
 Welcome to my corner of the internet. This personal website serves as a central hub to showcase my skills, experience, and work samples. It provides employers and collaborators with easy access to my professional journey.
 
+- Date Created: Tue May 13 2025
+- Last Updated: Wed Jun 04 2025
+- Previous iterations: v1, v2,
+- Last Update: 1.3.12
+- Status: Working On Case Studies.
+- Live Link: www.justin-bento.com
+- Credits: See full credits
+
 ## Theme Features:
 
 - ✅ Dark and light color mode
