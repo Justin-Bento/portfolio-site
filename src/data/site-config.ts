@@ -13,6 +13,8 @@ export type Hero = {
     title?: string;
     text?: string;
     image?: Image;
+    lightThemeImage?: Image;
+    darkThemeImage?: Image;
     actions?: Link[];
 };
 
@@ -99,6 +101,15 @@ const siteConfig: SiteConfig = {
         image: {
             src: '/justin-bento-preview.webp',
             alt: 'A person sitting standing in a recording studio behind a drumkit set.'
+        },
+        // Light theme spxsecific image
+        lightThemeImage: {
+            src: '/justin-bento-light.jpg',
+            alt: 'A person standing in a recording studio behind a drumkit set - light version'
+        },
+        darkThemeImage: {
+            src: '/justin-bento-dark.webp',
+            alt: 'A person standing in a recording studio behind a drumkit set - dark version'
         },
         actions: [
             {
