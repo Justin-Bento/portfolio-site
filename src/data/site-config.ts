@@ -107,6 +107,10 @@ const siteConfig: SiteConfig = {
             src: '/justin-bento-light.webp',
             alt: 'A person standing in a recording studio behind a drumkit set - light version'
         },
+        darkThemeImage: {
+            src: '/justin-bento-dark.webp',
+            alt: 'A person standing in a recording studio behind a drumkit set - dark version'
+        },
         actions: [
             {
                 text: 'Get in Touch',
