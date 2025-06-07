@@ -1,11 +1,11 @@
 ---
-title: 'Ensuring Cross-Browser Compatibility for a Seamless User Experience'
+title: 'Why Slowing Down Made Me a Faster Developer?'
 excerpt: A website that functions flawlessly across different browsers not only enhances user satisfaction but also broadens its reach.
-publishDate: 'October 7 2023'
+publishDate: 'May 28, 2025'
 tags:
-  - Web
-  - UX
-  - Web development
+  - Software Development
+  - Soft Skills
+  - Learning
 seo:
   image:
     src: '/post-4.jpg'
@@ -14,40 +14,26 @@ seo:
 
 ![Wavy lines on a dark background](/post-4.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+As I advanced in my career, I realized something painful: skipping foundational soft skills was the dumbest mistake I made early on, and now I was paying the price.
 
-In the dynamic landscape of the internet, where users access websites through a myriad of browsers and devices, ensuring cross-browser compatibility is crucial for delivering a seamless user experience. A website that functions flawlessly across different browsers not only enhances user satisfaction but also broadens its reach. Here are some key strategies to ensure your web project thrives on diversity and provides a consistent experience for all users:
+When I entered the real world of software development, gaping holes in my knowledge surfaced. I had surface-level understanding that left me struggling with basic terminology, speaking code fluently, and applying theory to real problems. I constantly felt like an imposter—and looking back, I was. This wasn't just a knowledge gap; it was a mindset flaw. I'd confused "moving fast" with "moving forward." Now I know that foundations aren't a stage to rush through.
 
-### 1. Test Across Multiple Browsers and Versions:
+The reason this happened was because I skipped basic soft skills while learning web development created bad habits that caused this setback. I used to pride myself on grinding through marathon coding sessions for hours on end, then realized this approach was counterproductive—my productivity would inevitably drop over time. This forced me to adapt and work within my brain's natural limits.
 
-Before launching your website, thoroughly test it on popular browsers such as Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, and Opera. Additionally, consider testing on various versions of these browsers to identify and address compatibility issues that may arise.
+In this article, I want to share the habits that helped me develop the right attitudes for learning, researching, and collaborating—the soft skills that actually transformed my workflow.
 
-### 2. Responsive Design:
+### What Soft Skills Actually Worked?
 
-Adopt a responsive design approach to ensure your website adapts to different screen sizes and resolutions. Utilize flexible grids and layouts, CSS media queries, and fluid images to create a visually appealing and functional experience across desktops, laptops, tablets, and smartphones.
+I used to pride myself on grinding for hours. Then I realized marathoning coding sessions was bad your productivity drops overtime. It forced me to work with my brain’s limits, by spending time writing out tasks before hand, spending time googling questions, and then finally completing them in the allocated time slot. Each number will represent a slot time using the Pomodoro Technique:
 
-### 3. Graceful Degradation and Progressive Enhancement:
+1. <b>Rubber Duck Debugging</b>: This debugging method involves articulating problems in spoken or written natural language. When approaching a new problem, I spend the first pomodoro session asking myself debugging-specific questions: What is this code supposed to do? What's actually happening? Where might the problem be? I work through these questions mentally, then write out my analysis and review it before moving forward.
 
-Implement graceful degradation and progressive enhancement techniques to accommodate varying levels of browser capabilities. Graceful degradation involves building a website with advanced features that may not be supported by older browsers but still ensuring a basic, functional experience. Progressive enhancement, on the other hand, starts with a fundamental version and progressively adds features for modern browsers.
+2. <b>Pseudo-code Planning</b>: In the second pomodoro session, I write pseudo-code as my blueprint. This is an informal way of writing out the logic of a program using plain English mixed with basic programming concepts—it's not actual code that runs on a computer. This step prevents me from jumping straight into coding without a clear plan, which used to lead to those unproductive marathon sessions where I'd code myself into corners.
 
-### 4. Vendor Prefixes and Standard Compliance:
+3. <b>Research and Preparation Strategies</b>: Before touching any code, I dedicate time to researching similar problems and gathering resources. This includes checking documentation, looking up relevant Stack Overflow discussions, and bookmarking useful references. By front-loading this research, I avoid the time sink of constantly context-switching between coding and googling mid-flow.
 
-While utilizing cutting-edge CSS and JavaScript features, be mindful of vendor prefixes. Prefixes like `-webkit-` or `-moz-` are often necessary for experimental or browser-specific features. However, it's crucial to implement standardized versions of these features once they become widely supported.
+4. <b>Coding and Implementation</b>: Only after completing the planning phases do I begin actual coding. With a clear roadmap from my pseudo-code and research already done, I can focus purely on implementation. This structured approach has eliminated those frustrating sessions where I'd write code for hours only to realize I was solving the wrong problem.
 
-### 5. Regularly Update Third-Party Libraries and Frameworks:
+### The irony in all of this?
 
-If your website relies on third-party libraries or frameworks, ensure they are up-to-date. Developers frequently release updates to address compatibility issues and improve performance. Staying current with these updates helps maintain compatibility across various browsers.
-
-### 6. Browser-Specific CSS and JavaScript:
-
-Identify browser-specific issues and use conditional CSS and JavaScript to address them. This technique allows you to apply specific styles or scripts tailored to particular browsers, ensuring a consistent and optimized experience for each.
-
-### 7. User-Agent Detection:
-
-Employ user-agent detection to identify the browser and device a user is using. While this method should be used sparingly, it can be helpful for implementing specific optimizations or workarounds for known issues with certain browsers.
-
-### 8. Regular Testing and Monitoring:
-
-Even after the initial launch, periodically test your website on different browsers and devices. Browser updates and changes can introduce new compatibility challenges. Regular monitoring helps you identify and address issues promptly, maintaining a seamless user experience over time.
-
-In conclusion, achieving cross-browser compatibility is an ongoing commitment that requires careful planning, testing, and adaptation. By prioritizing these strategies, you can ensure that your website provides a consistent and enjoyable experience for users, regardless of the browser they choose to use. Embracing diversity in the digital realm ultimately leads to a broader audience and increased user satisfaction.
+Learning all of these things made me realize shortcuts are a privilege, not a right. The only time you’ve earned the right to take shortcuts is when you’ve mastered the long way first. When fundamentals become second nature, ‘tricks’ transform into tools—but skip the groundwork, and those same shortcuts become traps. You’ll cut corners you don’t understand, only to drown in complexity you can’t untangle.
