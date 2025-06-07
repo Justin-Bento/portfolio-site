@@ -5,7 +5,7 @@ Welcome to my corner of the internet. This personal website serves as a central 
 - Date Created: Tue May 13 2025
 - Last Updated: Wed Jun 04 2025
 - Previous iterations: v1, v2,
-- Last Update: 1.3.12
+- Last Update: 1.4.0
 - Status: Working On Case Studies.
 - Live Link: www.justin-bento.com
 - Credits: See full credits
