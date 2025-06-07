@@ -1,7 +1,7 @@
 ---
-title: Communication and Collaboration for Front-End Developers
+title: Re-Building My Personal Website
 excerpt: Front-end development is not just about writing code; it's also about working seamlessly with others to create outstanding user experiences.
-publishDate: 'October 6 2023'
+publishDate: 'May 17, 2025'
 tags:
   - Web
   - UX
@@ -14,48 +14,48 @@ seo:
 
 ![Beach ocean shore](/post-3.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+If you know me, you’ve heard the joke. I’m constantly updating my website. So, what version is this current website? Believe it or not, it’s technically Version 2. I had hoped this iteration would be the breakthrough, but surprise: it became a bigger setback than I expected. Turns out, making something you care about is never as simple as it seems.
 
-Front-end development is not just about writing code; it's also about working seamlessly with others to create outstanding user experiences. Effective communication and collaboration are essential skills for front-end developers to succeed in today's dynamic and interdependent tech industry. In this post, we'll explore why these skills matter and provide practical tips for front-end developers looking to excel in these areas.
+## What encouraged this change?
 
-## The Significance of Communication and Collaboration
+Networking, it was networking that helped me. Let me explain, as I have been going to more networking events inside Toronto, I asked people if they would rate my current website and would purchase them a beer at the next event as a thank you.
 
-1. **Cross-Functional Teams:** Front-end development is rarely a solitary endeavor. You'll often collaborate with designers, back-end developers, project managers, and other stakeholders. Effective communication ensures that everyone is on the same page and working toward a common goal.
+A lot of people had nothing to say about it, and this raised a red flag. Why? I noticed people took 5 seconds to scan my website and said nothing was wrong except for one person .
 
-2. **User-Centric Focus:** Front-end developers play a crucial role in shaping the user experience. Clear communication with designers and user researchers is essential to understand user needs and deliver an intuitive interface.
+Here is what he had to say:
 
-3. **Continuous Learning:** Staying updated in the rapidly evolving world of web development requires engaging with the community, reading documentation, and sharing knowledge with others. Effective communication facilitates this process.
+Your website design is great. However, your content is lacking, when I took time reading through your website it does not have a message.
 
-## Tips for Effective Communication
+> What are you trying to be?
 
-1. **Active Listening:** Pay close attention to what others are saying. Understanding their perspectives and concerns is the first step to effective communication.
+While this person did not say that word for word, that was his general feedback. I do not know why but that stuck with me. The next day I chose to look at the website the next day and really spent time reviewing the website word. I had that same realization, and noticed he was right.
 
-2. **Ask Questions:** Don't hesitate to ask for clarification if something is unclear. This helps avoid misunderstandings and ensures you're on the right track.
+## Identifying the Problems
 
-3. **Use Clear and Concise Language:** Avoid jargon and technical terms when speaking with non-technical stakeholders. Explain complex concepts in simple, understandable terms.
+1. **Inconsistent Professional Narrative:** I did not pay close attention to what I was saying, and it showed. There was no "aha" moment that communicated, "This person is a software developer. If I struggled to understand my own portfolio, how could anyone else explain what I do for a living.
 
-4. **Documentation:** Keep detailed records of project decisions and discussions. This helps in case of disputes and provides a valuable reference.
+2. **No Visual Presentation:** There was no purpose for my v2 portfolio. Causing people to ask for clarification as to why I wanted to become a developer.
 
-5. **Regular Updates:** Keep your team informed about your progress. Share updates on what you've accomplished and any challenges you've encountered.
+3. **Performance Problems:** Slow loading times due to my tech stack choices bloated software, uncessary tech dept and painful content updates.
 
-6. **Feedback:** Be open to feedback from others, whether it's about your code, your design choices, or your communication style. Constructive criticism is a valuable tool for growth.
+## Key Improvements Planned for My Website:
 
-## Tips for Effective Collaboration
+- Clarify the "5 W's" (Who, What, When, Where, Why) on the landing page to immediately communicate my value.
 
-1. **Establish a Workflow:** Define a clear workflow and responsibilities within your team. Tools like project management software and version control systems can help streamline collaboration.
+- Maintain a cohesive theme focused on me becoming a software developer.
 
-2. **Design Reviews:** Regularly meet with designers and other team members to review designs and discuss how to implement them effectively.
+- Encourage engagement through blog content and projects.
 
-3. **Code Reviews:** Collaborate with other developers through code reviews. This ensures code quality, identifies issues early, and fosters knowledge sharing.
+- Publish articles with to showcase personality, and technical skills.
 
-4. **Empathy:** Put yourself in the shoes of other team members. Understand their constraints, priorities, and challenges.
+- Highlighting both design and development work with case studies and code example to demonstrate process, not just final products.
 
-5. **Conflict Resolution:** Conflicts can arise, but approach them with a problem-solving mindset. Seek compromises and solutions that benefit the project.
+- Show employers how I learn through experimentation and trial and error.
 
-6. **Celebrate Achievements:** Recognize and celebrate both small and large achievements with your team. This builds morale and a positive collaborative environment.
+## How long will this take?
 
-## Building a Collaborative Culture
+Ultimately, I’m giving myself a 1-month deadline to launch the redesigned website. To streamline the process, I’ll use a template for the core design freeing up time to focus on high-impact content and functionality that reflects my skills and personality.
 
-Ultimately, effective communication and collaboration are not just individual skills; they're also cultural aspects of your development team. Encourage a culture of openness, transparency, and continuous improvement. As a front-end developer, you can play a pivotal role in fostering this culture by leading through example and actively participating in team discussions and initiatives.
+## Where can I contact you?
 
-In the world of front-end development, where innovation and user experience are paramount, the ability to communicate and collaborate effectively is a game-changer. By honing these skills, you'll not only improve the quality of your work but also contribute to the success of your projects and your career as a front-end developer.
+Github and LinkedIn are the best places as of now. My Github profile, is the best place for people to view my code, and projects. Linkedin is the place where I am open to messages and connecting with new people.
