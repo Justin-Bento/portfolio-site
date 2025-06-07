@@ -14,6 +14,7 @@ export type Hero = {
     text?: string;
     image?: Image;
     lightThemeimage?: Image;
+    darkThemeimage?: Image;
     actions?: Link[];
 };
 
