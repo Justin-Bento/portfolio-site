@@ -1,6 +1,6 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
+title: 'Evolve Camps'
+description: Evolve Camps is a mobile app that specializes in integrated parking management. Its goal is to enable Humber College students to pay for parking tickets, processing and revenue control, active time log, and earn virtual rewards for adopting environmentally conscious habits.
 publishDate: 'Jan 02 2024'
 seo:
   image:

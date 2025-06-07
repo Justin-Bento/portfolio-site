@@ -1,6 +1,6 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
+title: 'ParkSmart: Connivent Parking App for Humber College'
+description: ParkSmart is a mobile app that specializes in integrated parking management. Its goal is to enable Humber College students to pay for parking tickets, processing and revenue control, active time log, and earn virtual rewards for adopting environmentally conscious habits.
 publishDate: 'Oct 2 2023'
 isFeatured: true
 seo:
