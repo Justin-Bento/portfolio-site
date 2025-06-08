@@ -1,6 +1,6 @@
 ---
-title: Portfolio Website v3
-description: Portfolio Website v3 Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+title: Personal Website v3
+description: Personal Website v3 Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
 publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
@@ -13,7 +13,7 @@ seo:
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+Justin Bento's Personal Website is a comprehensive developer portfolio that is designed to empower employer's decisions that Justin is a professional developer, that loves all things related to website. By providing blogs, case studies, learning, and tag tracking, the dashboard offers a seamless experience for people who want to know more about Justin Bento and explain his perspective of becoming a developer.
 
 ## Objectives
 
