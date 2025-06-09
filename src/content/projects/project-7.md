@@ -1,6 +1,10 @@
 ---
-title: Personal Website v3
+title: Re-Building My Personal Website
 description: Personal Website v3 Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+tags:
+  - UX_Case_Study
+  - Modding
+  - PlayStation Portable
 publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
@@ -10,53 +14,67 @@ seo:
 
 ![Project preview](/project-7.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Project Summary:
 
-**Project Overview:**
-Justin Bento's Personal Website is a comprehensive developer portfolio that is designed to empower employer's decisions that Justin is a professional developer, that loves all things related to website. By providing blogs, case studies, learning, and tag tracking, the dashboard offers a seamless experience for people who want to know more about Justin Bento and explain his perspective of becoming a developer.
+Justin Bento's Website is a comprehensive developer portfolio that is designed to empower employer's decisions. By providing Justin to write blogs, case studies, learning, and tag tracking, the personal website offers a seamless experience for people who want to know more about Justin Bento while enabling justin to share his perspective of becoming a developer.
 
-## Objectives
+## The Challenge
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+After eight months of job hunting for Website Developer based positions, Justin Bento found himself stuck in a frustrating cycle: submitting resumes, receiving email rejections, and rarely making it to interviews. It wasn’t until a conversation with someone at Task that he received a pivotal piece of feedback:
 
-## Features
+> What is the purpose of your website?
 
-1. **Multi-Exchange Integration:**
+Justin took a step back and critically re-read his portfolio site. While the UI was clean and modern, it lacked depth. It looked polished but felt empty. “It’s just plastic,” he realized. There was no substance behind the visuals.
 
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
+Determined to change that, he gave himself one month to rebuild his portfolio from the ground up. But as he began, more issues came to light:
 
-2. **Portfolio Analytics:**
+1. <b>Visually Bland Layout</b>: The design followed trends that didn’t fit the purpose of a developer portfolio. It lacked personality and a clear message.
 
-- Users can analyze their portfolio's performance through interactive charts and graphs.
-- The dashboard offers insights into historical performance, asset allocation, and profit/loss over time.
+2. <b>Painful Content Updates:</b> Using Sanity CMS for basic edits created unnecessary complexity and sometimes confused him whenever he wanted to make separate layouts for case studies.
 
-3. **Risk Management Tools:**
+3. <b>Performance Bottlenecks:</b> Poor tech stack choices led to slow load times and a clunky user experience. The website was bloated with complexity for basic tasks.
 
-- Advanced risk management tools help users assess the volatility and potential risks associated with their cryptocurrency investments.
-- Users receive alerts for significant market fluctuations or changes in their portfolio value.
+4. <b>Unfocused Narrative:</b> The content lacked cohesion. It never clearly answer the question, “Who is Justin Bento, and what does he do?s”. it was like reading a conversation to an imaginary friend.
 
-4. **Automated Transaction Tracking:**
+To make matters worse, he noticed frequent grammar mistakes and an inconsistent tone in his writing. These small details added up, making the site feel incomplete. This incompleteness showed lack any professionalism and harmmed Justin more than helped him.
 
-- The dashboard automatically tracks and records users' cryptocurrency transactions, simplifying the process of updating and managing portfolios.
-- Users can categorize transactions, add notes, and maintain a comprehensive transaction history.
+## The Outcome
 
-5. **News and Market Insights:**
+What seemed like minor cracks in my website combined to form a pothole that slowed everything down. This negative impact ultimately caused employers to hesitate, and move to a better road. As my first impression discouraged recruiters from moving forward with hiring.
 
-- A dedicated section provides real-time news and market insights relevant to users' cryptocurrency holdings.
-- Users can stay informed about market trends, regulatory developments, and news affecting their investment decisions.
+Steps Justin Took to Improve His Portfolio:
 
-## Technology Stack
+### Using a Theme
 
-- Frontend: React for a responsive and interactive user interface.
-- Backend: Django for server-side logic and API integration.
-- Database: PostgreSQL for efficient storage and retrieval of portfolio and market data.
-- API Integration: Integration with cryptocurrency exchange APIs for real-time market data.
+To streamline development and focus on content I chose to use the Dante theme from Just Good UI. This decision reduced development time and allowed me to deliver a polished, functional website faster without sacrificing quality.
 
-## Outcome
+![Project preview](/dante-preview.jpg)
 
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
+### Customizing The Interface's Experience
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+The redesign drew inspiration from Dissidia: Final Fantasy, specifically the Goddesses of Harmony and Chaos from the PSP game. Light mode reflects the Goddess of Harmony with soft, ethereal colors, while dark mode channels the Goddess of Chaos through bold, contrasting tones.
+
+<div class="grid grid-cols-1 lg:grid-cols-2">
+  <img src="/Dissidia012.jpg" alt="Project preview" class="h-64 w-full object-cover"/>
+  <img src="/Dissidia012_Dark.jpg" alt="Project preview" class="h-64 w-full object-cover"/>
+</div>
+
+### Improving The Content Experience
+
+To improve my writing and storytelling, I committed to regularly publishing articles on LinkedIn. While writing LinkedIn articles, I noticed frequent grammar mistakes and inconsistencies in his writing. This unexpected challenge led to a surprising discovery: I was farsighted, which made it difficult to spot small errors on screen.
+
+After correcting his vision with getting glasses, Justin’s writing improved dramatically. He was able to edit more effectively, communicate ideas more clearly, and present himself with greater confidence online. This seemingly small but crucial adjustment had a significant positive impact on how his content was perceived.
+
+![Project preview](/hero.jpeg)
+
+## The Result / Impact
+
+- Faster Development: Leveraging the Dante theme reduced development time by 30%, allowing the site to launch ahead of schedule without compromising functionality.
+
+- Stronger Visual Identity: The Dissidia: Final Fantasy–inspired redesign created an immediate visual and emotional impact. The split UI, featuring themes of light and chaos, introduced a clear narrative and a stronger sense of identity that was missing from the original site.
+
+- Improved Writing and Personal Branding: Writing consistently on LinkedIn helped Justin identify issues with writing accuracy. After correcting my farsightedness, my writing became clearer and more professional. This improved the quality of my articles and helped strengthen my personal brand.
+
+## Key Takeaways
+
+This project taught me the value of combining thoughtful design with clear communication, and I’m excited to apply these lessons to future challenges as I continue growing as a Website Designer and Developer.
