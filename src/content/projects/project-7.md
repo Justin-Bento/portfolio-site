@@ -5,7 +5,7 @@ tags:
   - UX_Case_Study
   - Modding
   - PlayStation Portable
-publishDate: 'Jan 10 2024'
+publishDate: 'May 13 2025'
 isFeatured: true
 seo:
   image:
