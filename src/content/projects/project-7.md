@@ -36,7 +36,7 @@ Determined to change that, he gave himself one month to rebuild his portfolio fr
 
 4. <b>Unfocused Narrative:</b> The content lacked cohesion. It never clearly answer the question, “Who is Justin Bento, and what does he do?s”. it was like reading a conversation to an imaginary friend.
 
-To make matters worse, he noticed frequent grammar mistakes and an inconsistent tone in his writing. These small details added up, making the site feel incomplete. This incompleteness showed lack any professionalism and harmmed Justin more than helped him.
+To make matters worse, he noticed frequent grammar mistakes and an inconsistent tone in his writing. These small details added up, making the site feel incomplete. This incompleteness showed lack any professionalism and harmed Justin more than helped him.
 
 ## The Outcome
 
