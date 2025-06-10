@@ -1,7 +1,7 @@
 ---
 title: 'Evolve Camps'
 description: Evolve Camps is a mobile app that specializes in integrated parking management. Its goal is to enable Humber College students to pay for parking tickets, processing and revenue control, active time log, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+publishDate: 'April 15 2020'
 seo:
   image:
     src: '/project-1.jpg'
