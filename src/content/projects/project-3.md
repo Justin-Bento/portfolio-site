@@ -1,6 +1,6 @@
 ---
-title: 'Urban Greens Antigua'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
+title: 'Urban Greens Antigua: Showcase Website'
+description: Urban Greens Antigua is a showcase website dedicated to promoting the company’s high-quality microgreens. The site focuses on providing detailed information about the products and the company’s sustainable growing practices.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
@@ -10,55 +10,117 @@ seo:
 
 ![Project preview](/project-3.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Project Overview:
 
-**Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+Urban Greens Antigua is a mobile-first design showcase website designed to promote the company’s high-quality microgreens. The site highlights product visuals, nutritional benefits, and the company’s commitment to sustainable, local agriculture. It also reflects the founder's passion and the brand’s pride in their locally grown produce.
 
-## Objectives
+## What Needed to Be Solved?
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+After discussing the project with the client, four core challenges were identified:
 
-## Features
+1. <b>Designing an Interface From Scratch:</b>
+   Create a clean, mobile-friendly website that educates users about microgreens—emphasizing their appearance, nutrition, and health benefits.
 
-1. **AI-Powered Recipe Recommendations:**
+2. <b>Developing Website Functionality with Limited Experience:</b>
+   As a recent college graduate, I faced a learning curve that made some tasks more time-consuming. However, this process accelerated my growth as I built core features using modern tools and frameworks.
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+3. <b>Work Around Delivery Limitations:</b>
+   Due to the lack of postal codes in Antigua and Barbuda, traditional e-commerce wasn't viable. The site instead focused on educating users and facilitating offline, local ordering.
 
-2. **Ingredient Scanner and Inventory Management:**
+4. <b>Enabling Easy Content Management:</b>
+   The client needed to update content regularly without technical support. A headless CMS was implemented to allow non-technical edits to text and images.
 
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
+Additional Design and Technical Considerations:
 
-3. **Step-by-Step Cooking Guide:**
+- Mobile-First Responsive Design:
+  Most users accessed the site on mobile, so performance and layout were optimized for smaller screens.
 
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
+- Optimizing for Low-Bandwidth Connections:
+  The site was designed to be lightweight and fast, considering infrastructure challenges in the region.
 
-4. **Nutritional Insights and Meal Planning:**
+- Understanding the Company’s Origin & Story:
+  Crafting an authentic design meant understanding the company's values, mission, and local relevance.
 
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
+- Learning New Technologies on the Fly:
+  Several frameworks were new to me at the time, requiring rapid learning and adaptation.
 
-5. **Voice-Activated Assistance:**
+- Communicating with a Non-Technical Client:
+  Technical decisions were explained in accessible language to keep the process transparent and collaborative.
 
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
+- Localization & Regional Relevance:
+  Content and structure were tailored to the local audience in Antigua and Barbuda.
 
-## Technology Stack
+## What Was Achieved?
 
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
+1. **Mobile-Optimized User Experience**  
+   Delivered a smooth, responsive design optimized for mobile and touch interfaces.
 
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
+2. **Educational Product Presentation**  
+   Designed sections that clearly explained microgreens' health benefits and uses.
+
+3. **CMS Integration with Sanity.io**  
+   Enabled the client to update images, product descriptions, and text independently.
+
+4. **Offline Ordering Support**  
+   Adapted the site to work without a traditional shopping cart or postal code-based checkout system.
+
+## Technology Stack (Updated for 2025)
+
+### Frontend
+
+- <b>Next.js</b> –
+  React-based framework with built-in routing, server-side rendering (SSR), and static site generation (SSG).
+- <b>React.js</b> -
+  JavaScript library for building interactive UIs.
+- <b>Tailwind CSS</b> –
+  Utility-first CSS framework for fast and responsive styling.
+- <b>JavaScript / TypeScript</b> –
+  Core logic and optional static typing for improved development experience.
+- <b>React Router (in earlier versions)</b> –
+  Used for client-side navigation prior to adopting Next.js's built-in routing.
+- <b>HTML & CSS</b> –
+  Foundation for markup and custom styling.
+
+### Backend / Content Layer
+
+- <b>Sanity.io</b> –
+  Headless CMS for structured content management.
+- <b>Sanity Studio</b> –
+  Customizable editor built with React.
+- <b>GROQ</b> –
+  Sanity's flexible query language.
+- <b>Portable Text</b> –
+  Rich content format supported by Sanity.
+
+### Content Delivery
+
+- <b>Sanity Content Lake </b>–
+  Real-time, cloud-hosted backend for structured content.
+- <b>Sanity API </b>–
+  Used with `@sanity/client` to fetch dynamic data.
+- <b>Image Optimization </b>–
+  Handled using `@sanity/image-url` in combination with Next.js’s `<Image /> `component for performance.
+
+### Database
+
+<b>None</b> – The site does not use a traditional database; content is managed entirely through Sanity as a headless CMS.
+
+### Deployment / Hosting
+
+- <b>Vercel</b> –
+  Hosting platform with CI/CD support, ideal for deploying static or dynamic Next.js applications.
+- <b>Sanity Managed Hosting</b> –
+  For the CMS backend and studio.
+
+### Optional Add-ons
+
+- <b>Preview Mode</b> –
+  Enables live previews of unpublished content via Next.js and Sanity integration.
+- <b>SEO Management</b> –
+  Handled with next/head or next-seo for meta tags, Open Graph, and search engine optimization.
 
 ## Outcome
 
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
+The Urban Greens Antigua website has been live and serving the community for 5+ years, offering a stable, informative platform for promoting healthy, local produce.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- Live Preview https://www.urbangreensantigua.com/
