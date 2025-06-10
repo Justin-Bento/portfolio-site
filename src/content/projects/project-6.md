@@ -1,7 +1,7 @@
 ---
-title: Marker
+title: The Lifeline Canada Foundation
 description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
-publishDate: 'Dec 28 2023'
+publishDate: 'July 13 2024'
 seo:
   image:
     src: '/project-6.jpg'
