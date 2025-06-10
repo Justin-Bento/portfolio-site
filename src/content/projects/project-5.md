@@ -1,5 +1,5 @@
 ---
-title: 'The Lifeline Canada Foundation'
+title: 'Believe Support Services'
 description: The Lifeline Canada Foundation is an innovative online platform that transcends traditional art exhibition spaces.
 publishDate: 'Oct 25 2023'
 isFeatured: true
