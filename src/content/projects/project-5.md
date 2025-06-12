@@ -10,8 +10,9 @@ seo:
 
 ![Project preview](/project-5.jpg)
 
-**Project Overview:**
-PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces. This web application is dedicated to showcasing and celebrating pixel art in the form of Non-Fungible Tokens (NFTs), providing artists with a digital canvas to display their unique creations while ensuring secure ownership through blockchain technology.
+## Project Overview:
+
+Believe Support Services is a company that helps individuals with complex needs live more independent, supported, and fulfilling lives. This website design and development project showcases my final concept. While the design was well-received, it was never implemented due to a combination of factors, the organization used Wix, and I was working as a custom developer.
 
 ## Objectives
 
