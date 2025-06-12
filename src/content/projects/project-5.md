@@ -58,4 +58,8 @@ Note: Although I left the company before implementation, I completed the core de
 
 ## Outcome
 
-PixelPerfect Art Gallery has successfully created a digital haven for pixel art enthusiasts, providing a secure and engaging platform for artists and collectors alike. The integration of blockchain technology ensures transparency and authenticity in the world of digital art, fostering a vibrant community that appreciates the uniqueness and creativity of pixel art NFTs.
+During the project, there were communication challenges that impacted the workflow. Despite completing seven design revisions, the feedback process was unclear, which made it difficult to align expectations and move the project forward. Although the project was not implemented during my time there, I delivered extensive design and documentation that can support future development.
+
+## Lessons Learned:
+
+This project taught me the importance of clear and open communication in collaborative work. Navigating multiple rounds of feedback without clear guidance highlighted the need for establishing transparent feedback loops early on. It also reinforced my ability to adapt to challenging situations while maintaining professionalism and delivering quality work.
