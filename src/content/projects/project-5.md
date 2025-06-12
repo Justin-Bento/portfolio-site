@@ -16,38 +16,53 @@ Believe Support Services is a company that helps individuals with complex needs 
 
 ## Objectives
 
-1. Design a website from scratch.
-2. Develop a wix website.
-3. Create a system that enabled them to organize events.
+Since this project occurred three years ago, I don’t have the full details of the requirements. At the time, I was working as a computer technician for the company, and website design and development were additional responsibilities assigned to me. I was not provided with specific instructions regarding the type of website or its features.
+
+Given this, I approached the project by:
+
+- Designing a website from scratch based of the type of services they offered. Event's and planning
+- Developing the website using modern technologies.
+- Launching the website.
 
 Note: Although I left the company before implementation, I completed the core design work and provided documentation that helped guide the remaining development. However, most of the documentation and design work was completed, and the company went on to utilize my branding guidelines and visual direction.
 
 ## Features
 
-1. **NFT Art Exhibition:**
+Since the initial project requirements were somewhat vague and lacked detailed guidance, I opted to maintain the company’s existing core structure and branding. This approach ensured consistency with their established identity while allowing room for flexibility in refining the website’s features as more clarity emerged.
 
-- PixelPerfect features a curated exhibition of pixel art NFTs, showcasing a diverse range of styles, themes, and techniques.
-- Users can explore and appreciate the intricate details of each digital artwork in a visually stunning online gallery.
+By focusing on foundational, widely accepted website features centered around event planning and organizing, I aimed to create a user-friendly and accessible experience, that encourages sharing concepts such as collaboration, community involvement, and transparency.
 
-2. **Blockchain Authentication:**
+### Creating A Visual Guide
 
-- Each pixel art piece is tokenized as an NFT on a blockchain, ensuring authenticity, provenance, and secure ownership.
-- Users can view the blockchain records to verify the origin and history of the digital artworks.
+- Style Tile
+- Mood-board
+- Design System
 
-3. **Virtual Art Auctions:**
+Note: I am unable to share the full design system documentation as it belongs to the company. However, I can provide moodboards and style tiles to give the audience an overview of the design guidelines.
 
-- PixelPerfect hosts virtual art auctions, allowing users to bid on and acquire exclusive pixel art NFTs.
-- The auction platform provides a dynamic and engaging environment for art enthusiasts and collectors.
+### About Us
 
-4. **Community Collaboration Spaces:**
+A dedicated page that introduces the company’s mission, vision, and background. Using “About Us” aligns with user expectations and fosters trust and transparency.
 
-- Dedicated community spaces allow artists to connect, collaborate, and showcase their creative process.
-- Users can discuss techniques, share insights, and even collaborate on pixel art projects within the PixelPerfect community.
+### Services
 
-5. **Interactive Pixel Art Creation Workshop:**
+A clear and concise overview of the support programs, accommodations, and resources offered. This title is straightforward and widely understood.
 
-- PixelPerfect provides a virtual workshop where users can create their own pixel art and potentially tokenize their creations as NFTs.
-- Artists can share their works with the community or submit them for consideration in future exhibitions.
+### Events
+
+A section showcasing upcoming workshops, seminars, or community gatherings. Separating events from applications improves user navigation.
+
+### Application / Program Enrollment
+
+A distinct page or section that allows users to apply for programs or services. Clear labeling here improves accessibility and reduces confusion.
+
+### FAQ (Frequently Asked Questions)
+
+A compact section addressing common inquiries to streamline user support and reduce repetitive questions.
+
+### Contact Us
+
+A comprehensive contact page featuring a form, phone numbers, email, and physical address. The label “Contact Us” is universally recognized and encourages engagement.
 
 ## Technology Stack
 
@@ -58,8 +73,8 @@ Note: Although I left the company before implementation, I completed the core de
 
 ## Outcome
 
-During the project, there were communication challenges that impacted the workflow. Despite completing seven design revisions, the feedback process was unclear, which made it difficult to align expectations and move the project forward. Although the project was not implemented during my time there, I delivered extensive design and documentation that can support future development.
+Communication challenges affected workflow during the project. Despite completing seven design revisions, unclear feedback made aligning expectations difficult. Although the project was not launched during my tenure, I delivered comprehensive design and documentation to support future development.
 
 ## Lessons Learned:
 
-This project taught me the importance of clear and open communication in collaborative work. Navigating multiple rounds of feedback without clear guidance highlighted the need for establishing transparent feedback loops early on. It also reinforced my ability to adapt to challenging situations while maintaining professionalism and delivering quality work.
+This project underscored the importance of clear, open communication in collaborative projects. Navigating multiple rounds of ambiguous feedback highlighted the necessity of establishing transparent feedback loops early on. It also strengthened my adaptability and professionalism in challenging situations while delivering quality work.
