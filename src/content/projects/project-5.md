@@ -14,6 +14,20 @@ seo:
 
 Believe Support Services is a company that helps individuals with complex needs live more independent, supported, and fulfilling lives. This website design and development project showcases my final concept. While the design was well-received, it was never implemented due to a combination of factors, the organization used Wix, and I was working as a custom developer.
 
+## Project Details
+
+- **Type of Work:** Part-time
+- **Time Frame:** Unknown
+- **GitHub Link:** [github.com/Justin-Bento/believe-support-services](https://github.com/Justin-Bento/believe-support-services)
+- **Demo Link:** [believesupportservices.vercel.app](https://believesupportservices.vercel.app)
+- **Role:** Designer, Developer, Computer Technician, Researcher
+- **Duration:** Aug 2023 – May 2024
+- **Status:** Completed
+- **Team Size:** 1
+- **Target Audience:** Canadians with complex needs
+- **Challenges:** Limited communication between stakeholders
+- **Outcome:** Established website design system; company used it as a foundation for their own site
+
 ## Objectives
 
 Since this project occurred three years ago, I don’t have the full details of the requirements. At the time, I was working as a computer technician for the company, and website design and development were additional responsibilities assigned to me. I was not provided with specific instructions regarding the type of website or its features.
