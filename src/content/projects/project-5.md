@@ -51,10 +51,10 @@ Note: Although I left the company before implementation, I completed the core de
 
 ## Technology Stack
 
-- Frontend: Angular for a dynamic and responsive user interface.
-- Backend: Node.js for handling server-side logic and API integration.
-- Database: Ethereum blockchain for storing NFT ownership and transaction details.
-- Smart Contracts: Solidity for developing blockchain smart contracts.
+- Frontend: Next.js 15, React, Tailwind CSS, ESLint, Turbopack, - Prettier, portabletext/react, shadcn/ui
+- Backend: Node.js with PNPM package manager
+- Database: Sanity Content Lake
+- Content Management System: Sanity.io
 
 ## Outcome
 
