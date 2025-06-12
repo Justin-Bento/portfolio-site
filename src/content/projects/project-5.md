@@ -16,9 +16,11 @@ Believe Support Services is a company that helps individuals with complex needs 
 
 ## Objectives
 
-1. Create an immersive online gallery experience specifically tailored for pixel art enthusiasts and NFT collectors.
-2. Utilize blockchain technology to authenticate and secure ownership of digital artworks, ensuring a transparent and tamper-proof art marketplace.
-3. Foster a community of digital artists and art collectors, providing a platform for collaboration, appreciation, and exchange.
+1. Design a website from scratch.
+2. Develop a wix website.
+3. Create a system that enabled them to organize events.
+
+Note: Although I left the company before implementation, I completed the core design work and provided documentation that helped guide the remaining development. However, most of the documentation and design work was completed, and the company went on to utilize my branding guidelines and visual direction.
 
 ## Features
 
@@ -57,5 +59,3 @@ Believe Support Services is a company that helps individuals with complex needs 
 ## Outcome
 
 PixelPerfect Art Gallery has successfully created a digital haven for pixel art enthusiasts, providing a secure and engaging platform for artists and collectors alike. The integration of blockchain technology ensures transparency and authenticity in the world of digital art, fostering a vibrant community that appreciates the uniqueness and creativity of pixel art NFTs.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
