@@ -66,25 +66,39 @@ Note: I am unable to share the full design system documentation as it belongs to
 
 A dedicated page that introduces the company’s mission, vision, and background. Using “About Us” aligns with user expectations and fosters trust and transparency.
 
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
+
 ### Services
 
 A clear and concise overview of the support programs, accommodations, and resources offered. This title is straightforward and widely understood.
+
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
 
 ### Events
 
 A section showcasing upcoming workshops, seminars, or community gatherings. Separating events from applications improves user navigation.
 
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
+
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
+
 ### Application / Program Enrollment
 
 A distinct page or section that allows users to apply for programs or services. Clear labeling here improves accessibility and reduces confusion.
+
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
 
 ### FAQ (Frequently Asked Questions)
 
 A compact section addressing common inquiries to streamline user support and reduce repetitive questions.
 
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
+
 ### Contact Us
 
 A comprehensive contact page featuring a form, phone numbers, email, and physical address. The label “Contact Us” is universally recognized and encourages engagement.
+
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
 
 ## Technology Stack
 
@@ -96,6 +110,8 @@ A comprehensive contact page featuring a form, phone numbers, email, and physica
 ## Outcome
 
 Communication challenges affected workflow during the project. Despite completing seven design revisions, unclear feedback made aligning expectations difficult. Although the project was not launched during my tenure, I delivered comprehensive design and documentation to support future development.
+
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
 
 ## Lessons Learned:
 
