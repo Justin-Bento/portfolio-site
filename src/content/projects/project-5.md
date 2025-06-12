@@ -46,11 +46,19 @@ Since the initial project requirements were somewhat vague and lacked detailed g
 
 By focusing on foundational, widely accepted website features centered around event planning and organizing, I aimed to create a user-friendly and accessible experience, that encourages sharing concepts such as collaboration, community involvement, and transparency.
 
-### Creating A Visual Guide
+### Creating a Visual Guide
 
-- Style Tile
-- Mood-board
-- Design System
+- Created a Style Tile to help guide clients and establish a shared understanding of the brand’s look and feel.
+
+<!--   ![Style Tile example](/path-to-your-style-tile-image.jpg)  -->
+
+- Utilized a Moodboard to communicate design concepts, ideas, and the overall mood or emotion of the project.
+
+<!--   ![Moodboard example](/path-to-your-style-tile-image.jpg)  -->
+
+- Developed a comprehensive design system and established website design guidelines to ensure consistency and scalability.
+
+<!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
 
 Note: I am unable to share the full design system documentation as it belongs to the company. However, I can provide moodboards and style tiles to give the audience an overview of the design guidelines.
 
