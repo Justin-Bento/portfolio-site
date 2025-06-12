@@ -9,53 +9,73 @@ seo:
 
 ![Project preview](/project-6.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Project Overview:
 
-**Project Overview:**
-FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes traditional workout routines by combining physical exercise with immersive gameplay. This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+A friend of mine introduced me to a company called The LifeLine Canada Foundation over email. The company’s CEO was looking for a companion app to complement their website. The LifeLine App is an online resource aimed at raising awareness of mental health issues and building mental health resilience for Canadians.
+
+This mobile application encourages users to reduce the stigma surrounding mental health conditions and promotes evidence-based resources and programs with integrity, respect, and inclusion.
+
+## Project Details:
+
+- Type of Work: Volunteering
+- Time frame: Periodic Check-ins
+- Link To Github: None
+- Link To Demo: [https://thelifelinecanada.ca/lifeline-app/](https://thelifelinecanada.ca/lifeline-app/)
+- Project Role: Researcher, Designer, Collaborator
+- Project Duration: Aug 2021 – Nov 2023
+- Project Status: In Development
+- Team Size: 2
+- Target Audience: Canadians affected by mental health issues
+- Challenges: Limited mobile development experience, outsourced coding
+- Outcome: Established app foundation; ongoing development by external team
 
 ## Objectives
 
-1. Develop a fitness app that leverages augmented reality to make workouts more enjoyable and interactive.
-2. Integrate real-world locations and landmarks into the game, turning everyday environments into exciting adventure settings.
-3. Motivate users to stay active and maintain a consistent fitness routine by blending physical activity with a captivating storyline.
+1. Research top-performing mental health apps to identify successful features and user engagement strategies.
+2. Explore accessibility options to ensure the app is usable for individuals who are hard of hearing or have vision impairments.
+3. Develop presentation concepts for the app's user interface and user experience.
+
+Timeline: 1 month
 
 ## Features
 
-1. **Augmented Reality Workouts:**
+This section is based on research from popular mental health apps. Here are some consistent patterns that emerged:
 
-- FitQuest utilizes AR technology to overlay game elements onto the real-world environment, creating an immersive and dynamic workout experience.
-- Users engage in exercises that align with the game's storyline while interacting with virtual elements superimposed on their surroundings.
+### 2 Types of Navigation Used
 
-2. **Interactive Storyline and Challenges:**
+<b>Flat Menu Structure</b>
 
-- The app features an adventure-driven storyline where users embark on quests and missions to complete fitness challenges.
-- Challenges include cardio exercises, strength training, and flexibility workouts, seamlessly integrated into the game's narrative.
+A large, immersive menu that takes up the full screen. Common in onboarding flows or when users first open the app. It's simple, uncluttered, and good for guiding users to core areas without distraction.
 
-3. **Real-World Landmarks Integration:**
+<b>Bottom Tab Navigation</b>
 
-- FitQuest incorporates real-world landmarks and locations as key elements in the game, turning parks, streets, and other environments into virtual fitness arenas.
-- Users explore these locations while completing fitness challenges and unlocking new levels.
+A persistent navigation bar typically found at the bottom of the screen. Allows quick switching between primary sections (e.g., Home, Resources, Journal, Profile). It's user-friendly and familiar to most mobile users.
 
-4. **Multiplayer Mode and Team Challenges:**
+### Card Based Interfaces
 
-- Users can connect with friends or join teams to participate in multiplayer challenges.
-- Team-based missions encourage collaboration and friendly competition, enhancing the social aspect of fitness.
+The app uses card-based interfaces to organize content into visually distinct, easily scannable sections. Each card highlights a specific piece of information or feature. Visual cues such as shadows, borders, or icons help indicate which elements are clickable and interactive.
 
-5. **Fitness Tracking and Progress Monitoring:**
+### Base Design System
 
-- The app includes a comprehensive fitness tracking system that monitors users' progress, calories burned, and achievements.
-- Users can set personalized fitness goals and track their improvement over time.
+The app’s base design system was created to ensure consistency, accessibility, and ease of use throughout the interface. It includes standardized components such as color palettes, typography, button styles, and spacing guidelines that align with the project’s goals of inclusively and clarity.
 
 ## Technology Stack
 
-- Frontend: Unity for AR game development.
-- Backend: Node.js for handling server-side logic and real-time data synchronization.
-- Database: MongoDB for storing user profiles, fitness data, and game progress.
-- AR Integration: ARCore (Android) and ARKit (iOS) for augmented reality features.
+- Design: Figma – used for UI/UX design and prototyping.
+- Documentation: Google Docs – for planning, notes, and collaborative writing.
+- Frontend: React Native with Expo – for building cross-platform mobile applications efficiently.
+- Backend: Node.js – handles server-side logic and supports real-time data synchronization.
+- Database: MongoDB – stores data such as charities, online chat messages, and other app content.
+
+**Note**: This technology stack represented the ideal setup for the project. However, due to my limited experience with mobile development at the time, I made the decision to outsource the implementation to an external development team. I remained involved in overseeing the process, ensuring the app aligned with the original design and functional goals.
 
 ## Outcome
 
-FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
+The overall outline of the application was completed, providing a solid structural framework. However, many key interactive elements and user engagement features were still missing. This included functionalities such as dynamic user inputs, real-time feedback, and seamless navigation flows that are essential for an intuitive and engaging user experience.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- As the timeline was short I focused on prioritizing core features and documentation to ensure a clear handoff to the core design team.
+- After I accepted a job at Humber College, I was unable to continue actively working on the project. However, I continued to check in with the owner periodically and assisted her with the hiring process for app development, and did so without hesitation.
+
+## Lessons Learned
+
+This project taught me valuable lessons about mobile app design, development, collaboration with external teams, and the importance of clear documentation for seamless handoffs. While my direct involvement ended, I remain committed to supporting the project’s success through volunteering and periodic check-ins.
