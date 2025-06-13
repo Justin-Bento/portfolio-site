@@ -12,11 +12,11 @@ seo:
 
 ## Project Overview:
 
-Believe Support Services is a company that helps individuals with complex needs live more independent, supported, and fulfilling lives. This website design and development project showcases my final concept. While the design was well-received, it was never implemented due to a combination of factors, the organization used Wix, and I was working as a custom developer.
+Believe Support Services is a company that helps individuals with complex needs live independent, supported, and fulfilling lives. This website design and development project showcases my final concept. While the design was well-received, it was never implemented due to a combination of factors, the organization used Wix, and I was working as a custom developer.
 
 ## Project Details
 
-- **Type of Work:** Part-time
+- **Type of Work:** Part-time (Contract)
 - **Time Frame:** Unknown
 - **GitHub Link:** [github.com/Justin-Bento/believe-support-services](https://github.com/Justin-Bento/believe-support-services)
 - **Demo Link:** [believesupportservices.vercel.app](https://believesupportservices.vercel.app)
@@ -25,42 +25,44 @@ Believe Support Services is a company that helps individuals with complex needs 
 - **Status:** Completed
 - **Team Size:** 1
 - **Target Audience:** Canadians with complex needs
-- **Challenges:** Limited communication between stakeholders
+- **Challenges:** Limited communication between stakeholders.
 - **Outcome:** Established website design system; company used it as a foundation for their own site
 
 ## Objectives
 
-Since this project occurred three years ago, I don’t have the full details of the requirements. At the time, I was working as a computer technician for the company, and website design and development were additional responsibilities assigned to me. I was not provided with specific instructions regarding the type of website or its features.
+As this project occurred three years ago, I don’t have the full details of the requirements. At the time, I was working as a computer technician for the company, and website design and development were additional responsibilities assigned to me based on my job requirements as a Computer Technician. I was not provided with specific instructions regarding the website type or features. This lack of clarity led to miscommunication between me and the clients.
 
 Given this, I approached the project by:
 
-- Designing a website from scratch based of the type of services they offered. Event's and planning
-- Developing the website using modern technologies.
-- Launching the website.
+- Built a Starter Website: Created an events and planning site as a base, then adjusted it based on client feedback.
 
-Note: Although I left the company before implementation, I completed the core design work and provided documentation that helped guide the remaining development. However, most of the documentation and design work was completed, and the company went on to utilize my branding guidelines and visual direction.
+- Used Modern Tools: Developed the site with up-to-date technology for better performance.
+
+- Launched the Final Product: Tested and published the website for client use.
+
+Note: I completed the core design work and provided documentation that helped guide the design aspect of the projects. However, most of the development for the concept was done in my free time as I left the company. Thankfully the company went on to utilize my branding guidelines and visual direction.
 
 ## Features
 
-Since the initial project requirements were somewhat vague and lacked detailed guidance, I opted to maintain the company’s existing core structure and branding. This approach ensured consistency with their established identity while allowing room for flexibility in refining the website’s features as more clarity emerged.
+Since the initial project requirements lacked guidance, I opted to maintain the company’s existing core structure and branding. This approach ensured consistency with their established identity while allowing room for flexibility in refining the website’s features as more clarity emerged.
 
 By focusing on foundational, widely accepted website features centered around event planning and organizing, I aimed to create a user-friendly and accessible experience, that encourages sharing concepts such as collaboration, community involvement, and transparency.
 
-### Creating a Visual Guide
+### Creating a Visual Guide Through Storytelling.
 
-- Created a Style Tile to help guide clients and establish a shared understanding of the brand’s look and feel.
-
-<!--   ![Style Tile example](/path-to-your-style-tile-image.jpg)  -->
-
-- Utilized a Moodboard to communicate design concepts, ideas, and the overall mood or emotion of the project.
+- Utilized a Moodboard to communicate design concepts, ideas, and the overall emotion for the project. Doing this help set the type of energy I believed to share to the companies target audience.
 
 <!--   ![Moodboard example](/path-to-your-style-tile-image.jpg)  -->
 
-- Developed a comprehensive design system and established website design guidelines to ensure consistency and scalability.
+- Created a Style Tile to help guide clients and establish a shared understanding of the brand’s visuals, energy, and emotions. This enabled me to help visualize the Energy across branding and the companies website.
+
+<!--   ![Style Tile example](/path-to-your-style-tile-image.jpg)  -->
+
+- Ensuring a consistent theme throughout the interface. Most of my time was spent writing a comprehensive document consistent set of fonts, colors, widget decoration and best practices to ensure users have an consistent experience that scales.
 
 <!--   ![Design system example](/path-to-your-style-tile-image.jpg)  -->
 
-Note: I am unable to share the full design system documentation as it belongs to the company. However, I can provide moodboards and style tiles to give the audience an overview of the design guidelines.
+Note: I am unable to share the full design system documentation as it belongs to the company. I am showcasing a sample document.
 
 ### About Us
 
@@ -104,8 +106,8 @@ A comprehensive contact page featuring a form, phone numbers, email, and physica
 
 - Frontend: Next.js 15, React, Tailwind CSS, ESLint, Turbopack, - Prettier, portabletext/react, shadcn/ui
 - Backend: Node.js with PNPM package manager
-- Database: Sanity Content Lake
-- Content Management System: Sanity.io
+- Database: JAMstack with WIX
+- Content Management System: WIX
 
 ## Outcome
 
@@ -115,4 +117,4 @@ Communication challenges affected workflow during the project. Despite completin
 
 ## Lessons Learned:
 
-This project underscored the importance of clear, open communication in collaborative projects. Navigating multiple rounds of ambiguous feedback highlighted the necessity of establishing transparent feedback loops early on. It also strengthened my adaptability and professionalism in challenging situations while delivering quality work.
+Thankfully I was able to create a concept during my free time, to showcase the possibilities. But, this project underscored the importance of clear, open communication in collaborative projects. Navigating multiple rounds of ambiguous feedback highlighted the necessity of establishing transparent feedback loops early on. It also strengthened my adaptability and professionalism in challenging situations while delivering quality work.

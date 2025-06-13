@@ -19,15 +19,15 @@ This mobile application encourages users to reduce the stigma surrounding mental
 
 - Type of Work: Volunteering
 - Time frame: Periodic Check-ins
-- Link To Github: None
+- Link To Github: Outsourced Development for Application.
 - Link To Demo: [https://thelifelinecanada.ca/lifeline-app/](https://thelifelinecanada.ca/lifeline-app/)
 - Project Role: Researcher, Designer, Collaborator
 - Project Duration: Aug 2021 – Nov 2023
 - Project Status: In Development
-- Team Size: 2
-- Target Audience: Canadians affected by mental health issues
-- Challenges: Limited mobile development experience, outsourced coding
-- Outcome: Established app foundation; ongoing development by external team
+- Team Size: 1
+- Target Audience: Canadians affected by mental health issues.
+- Challenges: Limited experience with mobile development, and the project scope was too extensive for an individual.
+- Outcome: Established the mobile application foundation for design and content organization on mobile displays.
 
 ## Objectives
 
@@ -39,7 +39,7 @@ Timeline: 1 month
 
 ## Features
 
-This section is based on research from popular mental health apps. Here are some consistent patterns that emerged:
+Here are some consistent patterns that emerged when researching popular mental health apps:
 
 ### 2 Types of Navigation Used
 
@@ -58,6 +58,14 @@ The app uses card-based interfaces to organize content into visually distinct, e
 ### Base Design System
 
 The app’s base design system was created to ensure consistency, accessibility, and ease of use throughout the interface. It includes standardized components such as color palettes, typography, button styles, and spacing guidelines that align with the project’s goals of inclusively and clarity.
+
+consistent set of fonts, colors, widget decoration
+
+Reusing components
+
+## Content Layout
+
+### Andreoid
 
 ## Technology Stack
 
