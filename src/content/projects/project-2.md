@@ -10,43 +10,55 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+<span class="text-dissidia-cosmos dark:text-dissidia-chaos">Note:</span> This case study was created for a User Experience Design course in Humber College's Website Design & Development program. Evolve Camps is a real company that allowed us to use their problems to demonstrating UX methodologies for camp transition challenges.
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+## Project Overview
+
+Evolve Camps was a mobile application designed to ease the transition for children attending summer camp by empowering parents and camp counselors with engaging, gamified tools to help them send their kids to camp. The app focuses on building camp-friendly habits, reducing pre-camp anxiety, and fostering excitement, while ensuring kids arrive prepared, confident, and ready for success.
+
+By incorporating reward systems, interactive checklists, and progress tracking, Evolve Camps turns preparation into a fun, collaborative experience. Parents and counselors can work together to reinforce positive behaviors (like independence, teamwork, or packing skills), while kids feel motivated through achievements and visual progress.
+
+<b>Key Goals:</b>
+
+- Reduce stress for parents and kids during the pre-camp transition.
+
+- Gamify skill-building (e.g., responsibility, adaptability) to increase engagement.
+
+- Strengthen communication between parents, camp staff, and campers.
+
+- Provide counselors with insights into each child’s readiness.
+
+## Project Details
+
+- Type of Work: Final Project for User-Experience Design
+- Type Of Product: Mobile Application
+- Github Code: None
+- Figma Demonstration: None at the moment.
+- Project Role: Application Interface Designer
+- Team Size: 3
+- Project Role: Application Interface Designer
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+1. Research competitors within the to assesses their competitors to identify their strengths, weaknesses, and strategies.
+
+2. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+
+3. Design a mobile app that organizes content in a way to motivate parents to adopt sustainable camping practices to help counsellors.
+
+4. Create a basic theme for the application to ensure the design follows accessible guidelines on Android and IOS mobile platform.
+
+5. Create an interactive prototype showcasing the application.
 
 ## Features
 
-1. **EcoScore and Challenges:**
+1. <b>Creating a research design document.</b>
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+2. <b>Designing The </b>
 
-2. **Personalized Eco-Goals:**
+3. <b></b>
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
-
-3. **Green Rewards Marketplace:**
-
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
-
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+4. <b></b>
 
 ## Technology Stack
 
