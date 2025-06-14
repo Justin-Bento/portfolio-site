@@ -68,6 +68,7 @@ html.dark {
     --background-color-muted: var(--bg-muted);
     --border-color-main: var(--border-main);
     --color-dissidia-cosmos: #1a7474;
+    --color-dissidia-chaos: #ada038;
 }
 
 @layer utilities {
@@ -90,7 +91,7 @@ html.dark {
     }
 
     .prose a {
-        @apply underline font-normal decoration-1 text-dissidia-cosmos dark:text-[#ada038] underline-offset-2 decoration-dashed hover:decoration-solid;
+        @apply underline font-normal decoration-1 text-dissidia-cosmos dark:text-dissidia-chaos underline-offset-2 decoration-dashed hover:decoration-solid;
     }
     prose :where(code) {
         color: var(--text-dissidia-cosmos);
