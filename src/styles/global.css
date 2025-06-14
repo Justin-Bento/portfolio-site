@@ -1,4 +1,4 @@
-@import '@fontsource-variable/inter' layer(base);
+@import '@fontsource-variable/sora' layer(base);
 @import '@fontsource-variable/newsreader' layer(base);
 @import '@fontsource-variable/newsreader/wght-italic.css' layer(base);
 
@@ -6,14 +6,6 @@
 @plugin '@tailwindcss/typography';
 
 @custom-variant dark (&:where(.dark, .dark *));
-
-@font-face {
-    font-family: 'Sora';
-    src: url('/fonts/Sora-VariableFont_wght.ttf') format('truetype');
-    font-weight: 100 999;
-    font-style: normal;
-    font-display: swap;
-}
 
 :root {
     --text-main: #0a0a0a;
