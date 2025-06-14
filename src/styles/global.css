@@ -93,9 +93,6 @@ html.dark {
     .prose a {
         @apply underline font-normal decoration-1 text-dissidia-cosmos dark:text-dissidia-chaos underline-offset-2 decoration-dashed hover:decoration-solid;
     }
-    prose :where(code) {
-        color: var(--text-dissidia-cosmos);
-    }
 
     .prose :where(h1, h2, h3, h4, h5, h6) {
         @apply font-sans font-medium leading-loose;
