@@ -1,5 +1,5 @@
 ---
-title: Re-Building My Personal Website
+title: The Third Iteration of My Personal Website
 description: Personal Website v3 Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
 tags:
   - UX_Case_Study
