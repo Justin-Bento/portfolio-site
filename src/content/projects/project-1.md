@@ -1,7 +1,7 @@
 ---
 title: 'Agent Webb'
 description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+publishDate: 'Oct 19 2019'
 seo:
   image:
     src: '/project-4.jpg'
