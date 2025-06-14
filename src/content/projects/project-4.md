@@ -9,10 +9,13 @@ seo:
 
 ![Project preview](/project-4.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Project Overview:
 
-**Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Agent Webb is a personal real estate website designed for an independent real estate agent. The platform serves as a multifunctional digital hub, combining an information center, documentation repository, professional portfolio, and property showcase to enhance client engagement and streamline property sales.
+
+This project was my first full-scale website development endeavor during my studies in web design and development. Originally planned as a collaborative effort, I took on full ownership of the design and development process, gaining hands-on experience in both frontend and backend implementation. While external factors led to the project’s discontinuation, the experience provided valuable insights into client communication, independent problem-solving, and end-to-end web development.
+
+## Project Details
 
 ## Objectives
 
@@ -20,42 +23,61 @@ NeuralPlaylist is a cutting-edge web application that redefines music discovery 
 2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
 3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
 
-## Features
+Key Features & Functionalities
 
-1. **Biometric Mood Analysis:**
+- Information Hub
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+  - Agent bio, credentials, and contact details
 
-2. **Personalized Playlists:**
+  - Blog section for market insights and real estate trends
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+- Documentation Center
 
-3. **Context-Aware Recommendations:**
+  - Secure client portal for contracts and transaction documents
 
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
+  - FAQ section for common real estate processes
 
-4. **Collaborative Playlists:**
+- Professional Portfolio
 
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
+  - Past transactions and client testimonials
 
-5. **Real-Time Feedback Integration:**
+  - Case studies of sold properties
 
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
+- Property Showcase
+
+  - Filterable listings with high-quality images
+
+  - Lead capture forms for inquiries
+    s
+
+## Key Takeaways
+
+- Developed full-stack proficiency by independently handling design and development.
+
+- Strengthened problem-solving skills in real-time debugging and UX optimization.
+
+- Recognized the importance of clear project scope and client alignment in freelance work.
 
 ## Technology Stack
 
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
+Old Technology Stack 2019:
+
+```
+- Frontend: Vue.js and Vite for a dynamic and responsive user interface.
+- Backend: Node.js, Express.js for handling server-side logic and API integration.
 - Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
+- AI Integration: None as AI was not invented during this time.
+```
+
+Current Technology Stack as of 2025:
+
+```
+- Frontend: Next.js 14 (App Router)
+- CMS: Sanity Studio with custom schemas
+- Styling: Tailwind CSS + tailwind-merge for conditional styles
+- Typesafety: TypeScript + Sanity’s auto-generated types
+```
 
 ## Outcome
 
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Though the project did not reach final deployment, the experience was instrumental in building my technical skills and understanding of real-world web development challenges. Moving forward, I aim to apply these lessons to future projects with even greater efficiency and client-focused execution
