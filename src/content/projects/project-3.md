@@ -1,126 +1,64 @@
 ---
-title: 'Urban Greens Antigua: Showcase Website'
-description: Urban Greens Antigua is a showcase website dedicated to promoting the company’s high-quality microgreens. The site focuses on providing detailed information about the products and the company’s sustainable growing practices.
-publishDate: 'Oct 12 2023'
+title: 'ParkSmart: Connivent Parking App for Humber College'
+description: ParkSmart is a mobile app that specializes in integrated parking management. Its goal is to enable Humber College students to pay for parking tickets, processing and revenue control, active time log, and earn virtual rewards for adopting environmentally conscious habits.
+publishDate: 'Oct 2 2023'
 isFeatured: true
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/project-2.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-3.jpg)
+![Project preview](/project-2.jpg)
 
-## Project Overview:
+**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-Urban Greens Antigua is a mobile-first design showcase website designed to promote the company’s high-quality microgreens. The site highlights product visuals, nutritional benefits, and the company’s commitment to sustainable, local agriculture. It also reflects the founder's passion and the brand’s pride in their locally grown produce.
+**Project Overview:**
+TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
 
-## What Needed to Be Solved?
+> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
 
-After discussing the project with the client, four core challenges were identified:
+## Objectives
 
-1. <b>Designing an Interface From Scratch:</b>
-   Create a clean, mobile-friendly website that educates users about microgreens—emphasizing their appearance, nutrition, and health benefits.
+1. Create a visually stunning and user-friendly website that captures the essence of time travel.
+2. Integrate interactive elements to engage users and make the experience memorable.
+3. Develop a responsive design to ensure a seamless user experience across various devices.
 
-2. <b>Developing Website Functionality with Limited Experience:</b>
-   As a recent college graduate, I faced a learning curve that made some tasks more time-consuming. However, this process accelerated my growth as I built core features using modern tools and frameworks.
+## Features
 
-3. <b>Work Around Delivery Limitations:</b>
-   Due to the lack of postal codes in Antigua and Barbuda, traditional e-commerce wasn't viable. The site instead focused on educating users and facilitating offline, local ordering.
+1. **Dynamic Destination Timelines:**
 
-4. <b>Enabling Easy Content Management:</b>
-   The client needed to update content regularly without technical support. A headless CMS was implemented to allow non-technical edits to text and images.
+- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
+- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
 
-Additional Design and Technical Considerations:
+2. **Interactive Historical Events:**
 
-- Mobile-First Responsive Design:
-  Most users accessed the site on mobile, so performance and layout were optimized for smaller screens.
+- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
+- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
 
-- Optimizing for Low-Bandwidth Connections:
-  The site was designed to be lightweight and fast, considering infrastructure challenges in the region.
+3. **Personalized Time Travel Planner:**
 
-- Understanding the Company’s Origin & Story:
-  Crafting an authentic design meant understanding the company's values, mission, and local relevance.
+- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
+- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
 
-- Learning New Technologies on the Fly:
-  Several frameworks were new to me at the time, requiring rapid learning and adaptation.
+4. **Time-Port Virtual Reality Experience:**
 
-- Communicating with a Non-Technical Client:
-  Technical decisions were explained in accessible language to keep the process transparent and collaborative.
+- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
 
-- Localization & Regional Relevance:
-  Content and structure were tailored to the local audience in Antigua and Barbuda.
+5. **Chronicle Explorer Blog:**
 
-## What Was Achieved?
+- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
+- Users can engage with the content, comment, and share their own historical insights.
 
-1. **Mobile-Optimized User Experience**  
-   Delivered a smooth, responsive design optimized for mobile and touch interfaces.
+## Technology Stack
 
-2. **Educational Product Presentation**  
-   Designed sections that clearly explained microgreens' health benefits and uses.
-
-3. **CMS Integration with Sanity.io**  
-   Enabled the client to update images, product descriptions, and text independently.
-
-4. **Offline Ordering Support**  
-   Adapted the site to work without a traditional shopping cart or postal code-based checkout system.
-
-## Technology Stack (Updated for 2025)
-
-### Frontend
-
-- <b>Next.js</b> –
-  React-based framework with built-in routing, server-side rendering (SSR), and static site generation (SSG).
-- <b>React.js</b> -
-  JavaScript library for building interactive UIs.
-- <b>Tailwind CSS</b> –
-  Utility-first CSS framework for fast and responsive styling.
-- <b>JavaScript / TypeScript</b> –
-  Core logic and optional static typing for improved development experience.
-- <b>React Router (in earlier versions)</b> –
-  Used for client-side navigation prior to adopting Next.js's built-in routing.
-- <b>HTML & CSS</b> –
-  Foundation for markup and custom styling.
-
-### Backend / Content Layer
-
-- <b>Sanity.io</b> –
-  Headless CMS for structured content management.
-- <b>Sanity Studio</b> –
-  Customizable editor built with React.
-- <b>GROQ</b> –
-  Sanity's flexible query language.
-- <b>Portable Text</b> –
-  Rich content format supported by Sanity.
-
-### Content Delivery
-
-- <b>Sanity Content Lake </b>–
-  Real-time, cloud-hosted backend for structured content.
-- <b>Sanity API </b>–
-  Used with `@sanity/client` to fetch dynamic data.
-- <b>Image Optimization </b>–
-  Handled using `@sanity/image-url` in combination with Next.js’s `<Image /> `component for performance.
-
-### Database
-
-<b>None</b> – The site does not use a traditional database; content is managed entirely through Sanity as a headless CMS.
-
-### Deployment / Hosting
-
-- <b>Vercel</b> –
-  Hosting platform with CI/CD support, ideal for deploying static or dynamic Next.js applications.
-- <b>Sanity Managed Hosting</b> –
-  For the CMS backend and studio.
-
-### Optional Add-ons
-
-- <b>Preview Mode</b> –
-  Enables live previews of unpublished content via Next.js and Sanity integration.
-- <b>SEO Management</b> –
-  Handled with next/head or next-seo for meta tags, Open Graph, and search engine optimization.
+- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
+- **Backend:** Node.js for handling server-side logic and API integration.
+- **Database:** MongoDB for efficient storage and retrieval of historical data.
+- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
 
 ## Outcome
 
-The Urban Greens Antigua website has been live and serving the community for 5+ years, offering a stable, informative platform for promoting healthy, local produce.
+The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
 
-- Live Preview https://www.urbangreensantigua.com/
+**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
