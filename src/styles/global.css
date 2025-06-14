@@ -21,7 +21,7 @@ html.dark {
 }
 
 @theme inline {
-    --font-sans: 'Sora', sans-serif;
+    --font-sans: 'Sora Variable', sans-serif;
     --font-serif: 'Newsreader Variable', serif;
     --text-color-main: var(--text-main);
     --background-color-main: var(--bg-main);
