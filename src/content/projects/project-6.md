@@ -57,13 +57,21 @@ The app uses card-based interfaces to organize content into visually distinct, e
 
 ### Base Design System
 
-The app’s base design system was created to ensure consistency, accessibility, and ease of use throughout the interface. It includes standardized components such as color palettes, typography, button styles, and spacing guidelines that align with the project’s goals of inclusively and clarity.
+With the overall experience panned out this marks the beginning of our User Interface. By using a consistent set of fonts, colors, and widget styles, and by reusing components wherever possible, the design system promotes efficiency and a cohesive user experience. Here starts of the beginning of the Visuals for of the designed to align with the project’s goals.
 
-consistent set of fonts, colors, widget decoration
+#### Color
 
-Reusing components
+Color we chose to include was Pink and Purple integrity, respect and inclusion.
 
-## Content Layout
+Light mode was a simple mono-chromatic color scheme what uses a light pink.
+
+For dark mode the use black with purple
+
+#### Typography
+
+#### Iconography
+
+#### UI Elements
 
 ## Technology Stack
 
@@ -75,12 +83,26 @@ Reusing components
 
 **Note**: This technology stack represented the ideal setup for the project. However, due to my limited experience with mobile development at the time, I made the decision to outsource the implementation to an external development team. I remained involved in overseeing the process, ensuring the app aligned with the original design and functional goals.
 
+## Final Design
+
+<div class="grid grid-cols-2 gap-4">
+  <img src="/The_LifeLine_Canada_Foundation/lifelineApp_light_mode.png" alt=""/>
+    <img src="/The_LifeLine_Canada_Foundation/lifelineApp_dark_mode.png" alt=""/>
+</div>
+
+Interact with the project → Coming Soon
+
+See the project in action → Coming Soon
+
 ## Outcome
 
 The overall outline of the application was completed, providing a solid structural framework. However, many key interactive elements and user engagement features were still missing. This included functionalities such as dynamic user inputs, real-time feedback, and seamless navigation flows that are essential for an intuitive and engaging user experience.
 
 - As the timeline was short I focused on prioritizing core features and documentation to ensure a clear handoff to the core design team.
-- After I accepted a job at Humber College, I was unable to continue actively working on the project. However, I continued to check in with the owner periodically and assisted her with the hiring process for app development, and did so without hesitation.
+
+- After I accepted a job at Humber College, I was unable to continue actively working on the project. Fortunately, she was able to find someone else to complete the remaining features.
+
+- During my free time, I periodically checked in with the CEO and assisted her with side-quests such as the hiring process for app development and more.
 
 ## Lessons Learned
 
