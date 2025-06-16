@@ -65,8 +65,6 @@ Reusing components
 
 ## Content Layout
 
-### Andreoid
-
 ## Technology Stack
 
 - Design: Figma – used for UI/UX design and prototyping.
