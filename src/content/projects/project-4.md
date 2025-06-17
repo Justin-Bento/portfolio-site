@@ -14,6 +14,19 @@ seo:
 
 Urban Greens Antigua is a mobile-first design showcase website designed to promote the company’s high-quality microgreens. The site highlights product visuals, nutritional benefits, and the company’s commitment to sustainable, local agriculture. It also reflects the founder's passion and the brand’s pride in their locally grown produce.
 
+## Project Details
+
+- **Type of Work:** Part-time (Contract)
+- **Type of Website:** Product Showcase
+- **Time Frame:** Unknown
+- **GitHub Link:** [github.com/Justin-Bento/believe-support-services](https://github.com/Justin-Bento/believe-support-services)
+- **Demo Link:** [believesupportservices.vercel.app](https://believesupportservices.vercel.app)
+- **Role:** Designer, Developer, Computer Technician, Researcher
+- **Duration:** Aug 2023 – May 2024
+- **Status:** Completed
+- **Team Size:** 1
+- **Target Audience:** Chefs & Culinary Professionals, Health-Conscious Consumers, Home Gardeners / DIY Growers.
+
 ## What Needed to Be Solved?
 
 After discussing the project with the client, four core challenges were identified:
