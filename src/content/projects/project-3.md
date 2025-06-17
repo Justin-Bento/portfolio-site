@@ -1,6 +1,6 @@
 ---
 title: 'ParkSmart'
-description: ParkSmart is a connivent parking App for Humber College. Its goal is to enable Humber College students to pay for parking tickets, processing and revenue control, active time log, and earn virtual rewards for adopting environmentally conscious habits.
+description: ParkSmart is a parking app for Humber College that helps students pay for parking tickets, manage processing and revenue control, track active time logs.
 publishDate: 'Oct 2 2023'
 isFeatured: true
 seo:

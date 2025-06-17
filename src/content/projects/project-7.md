@@ -1,5 +1,5 @@
 ---
-title: Personala Website
+title: Personal Website
 description: Personal Website v3 Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
 tags:
   - UX_Case_Study

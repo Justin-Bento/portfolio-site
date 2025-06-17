@@ -1,6 +1,6 @@
 ---
 title: 'Believe Support Services'
-description: The Lifeline Canada Foundation is an innovative online platform that transcends traditional art exhibition spaces.
+description: The Believe Support Services website is an event planning platform that showcases camps and programs for individuals with complex needs. It highlights services that support independent living and help participants lead fulfilling lives.
 publishDate: 'Oct 25 2023'
 isFeatured: true
 seo:

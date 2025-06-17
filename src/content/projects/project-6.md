@@ -1,6 +1,6 @@
 ---
 title: The Lifeline Canada Foundation
-description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+description: The LifeLine App is an informational platform dedicated to supporting suicide prevention efforts across Canada. It raises awareness of risk factors, provides access to online resources, and promotes local programs that build mental health resilience for all.
 publishDate: 'July 13 2024'
 seo:
   image:

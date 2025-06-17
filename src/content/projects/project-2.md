@@ -1,6 +1,6 @@
 ---
 title: 'Evolve Camps'
-description: Evolve Camps is a mobile app that specializes in integrated parking management. Its goal is to enable Humber College students to pay for parking tickets, processing and revenue control, active time log, and earn virtual rewards for adopting environmentally conscious habits.
+description: The Evolve Camps mobile application empowers parents and camp counselors with engaging tools to help parents receive updates and stay informed about their children during their time at camp.
 publishDate: 'April 15 2020'
 seo:
   image:
@@ -10,11 +10,11 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-<span class="text-dissidia-cosmos dark:text-dissidia-chaos">Note:</span> This case study was created for a User Experience Design course in Humber College's Website Design & Development program. Evolve Camps is a real company that allowed us to use their problems to demonstrating UX methodologies for camp transition challenges.
+<span class="text-dissidia-cosmos dark:text-dissidia-chaos">Note:</span> This case study was created for a User Experience Design course in Humber College's Website Design & Development program. Evolve Camps is a company that allowed us to use their problems to demonstrating UX methodologies for camp transition challenges.
 
 ## Project Overview
 
-Evolve Camps was a mobile application designed to ease the transition for children attending summer camp by empowering parents and camp counselors with engaging, gamified tools to help them send their kids to camp. The app focuses on building camp-friendly habits, reducing pre-camp anxiety, and fostering excitement, while ensuring kids arrive prepared, confident, and ready for success.
+Evolve Camps was a mobile application designed to ease the transition for children attending summer camp by empowering parents and camp counselors with engaging, tools to help them send their kids to camp. The app focuses on building camp-friendly habits, reducing pre-camp anxiety, and fostering excitement, while ensuring kids arrive prepared, confident, and ready for success.
 
 By incorporating reward systems, interactive checklists, and progress tracking, Evolve Camps turns preparation into a fun, collaborative experience. Parents and counselors can work together to reinforce positive behaviors (like independence, teamwork, or packing skills), while kids feel motivated through achievements and visual progress.
 
