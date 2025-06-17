@@ -1,6 +1,6 @@
 ---
 title: Personal Website
-description: Personal Website v3 Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+description: Personal Website is a developer portfolio that offers a seamless experience for people who want to know more about Justin Bento while enabling justin to share his perspective.
 tags:
   - UX_Case_Study
   - Modding
