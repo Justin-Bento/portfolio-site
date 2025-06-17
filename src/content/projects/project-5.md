@@ -17,6 +17,7 @@ Believe Support Services is a company that helps individuals with complex needs 
 ## Project Details
 
 - **Type of Work:** Part-time (Contract)
+- **Type of Website:** Event Planning
 - **Time Frame:** Unknown
 - **GitHub Link:** [github.com/Justin-Bento/believe-support-services](https://github.com/Justin-Bento/believe-support-services)
 - **Demo Link:** [believesupportservices.vercel.app](https://believesupportservices.vercel.app)
