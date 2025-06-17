@@ -26,8 +26,6 @@ Believe Support Services is a company that helps individuals with complex needs 
 - **Status:** Completed
 - **Team Size:** 1
 - **Target Audience:** Canadians with complex needs
-- **Challenges:** Limited communication between stakeholders.
-- **Outcome:** Established website design system; company used it as a foundation for their own site
 
 ## Objectives
 

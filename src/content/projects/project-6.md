@@ -26,8 +26,6 @@ This mobile application encourages users to reduce the stigma surrounding mental
 - Project Status: In Development
 - Team Size: 1
 - Target Audience: Canadians affected by mental health issues.
-- Challenges: Limited experience with mobile development, and the project scope was too extensive for an individual.
-- Outcome: Established the mobile application foundation for design and content organization on mobile displays.
 
 ## Objectives
 
