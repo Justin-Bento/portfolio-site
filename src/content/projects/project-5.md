@@ -1,6 +1,6 @@
 ---
 title: 'Believe Support Services'
-description: The Believe Support Services website is an event planning platform that showcases camps and programs for individuals with complex needs. It highlights services that support independent living and help participants lead fulfilling lives.
+description: An event website that provides information about camps and programs for individuals with complex needs. It outlines available services, includes testimonials and shows how the company works with participants and their families.
 publishDate: 'Oct 25 2023'
 isFeatured: true
 seo:

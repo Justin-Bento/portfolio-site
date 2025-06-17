@@ -1,6 +1,6 @@
 ---
 title: 'Urban Greens Antigua'
-description: Urban Greens Antigua is a showcases high-quality microgreens for sale. The site focuses on providing detailed information about the products.
+description: A showcase website that displays their high-quality microgreens for sale. The website provides detailed product information to help customers learn about available varieties.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:

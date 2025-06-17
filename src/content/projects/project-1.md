@@ -1,6 +1,6 @@
 ---
 title: 'Agent Webb'
-description: A personal real estate website designed for an independent real estate agent. The platform serves as a multifunctional digital hub that combines an information center, documentation repository, and professional portfolio to streamline client communication and showcase listings.
+description: A consulting website designed for an independent real estate agent. The platform serves as a digital hub that combines an information center, documentation repository, and professional portfolio to streamline client communication and showcase listings.
 publishDate: 'Oct 19 2019'
 seo:
   image:
