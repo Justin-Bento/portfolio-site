@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm <i>Justin Bento</i>, a Full Stack Ruby on Rails and JavaScript Developer with professional experience at Humber College, now seeking exciting new opportunities. Welcome to my space, where I explore the worlds of software, cybersecurity, and the growth of curious minds. I build web applications using Ruby on Rails, JavaScript, React, Astro, and Tailwind CSS. Currently, my focus is on creating accessible, human-centered products. Feel free to explore some of my coding endeavors on <a href='https://github.com/Justin-Bento'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/justinbento/'>LinkedIn</a>.",
+        text: 'I’m *Justin Bento*, a Full Stack Ruby on Rails and JavaScript developer based in Toronto, Ontario, Canada. I am currently seeking new opportunities and have previously worked at Humber College as well as volunteered with The LifeLine Canada Foundation. I am passionate about creating websites that that have a clear mission to keep users front and centre. The tools I commonly use include Ruby on Rails, React, Astro, and Tailwind CSS. On my website, you will find a collection of client projects with case studies, along with articles on software development, cybersecurity, and other topics I am exploring. Please feel free to browse my work on my website, review my code on [GitHub](https://github.com/Justin-Bento) or connect with me on [LinkedIn](https://www.linkedin.com/in/justinbento/).',
         image: {
             src: '/justin-bento-preview.webp',
             alt: 'A person sitting standing in a recording studio behind a drumkit set.'
