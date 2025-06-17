@@ -18,6 +18,7 @@ This mobile application encourages users to reduce the stigma surrounding mental
 ## Project Details:
 
 - Type of Work: Volunteering
+- Type of Website: Application
 - Time frame: Periodic Check-ins
 - Link To Github: Outsourced Development for Application.
 - Link To Demo: [https://thelifelinecanada.ca/lifeline-app/](https://thelifelinecanada.ca/lifeline-app/)
