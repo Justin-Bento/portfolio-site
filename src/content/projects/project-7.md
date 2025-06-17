@@ -18,6 +18,19 @@ seo:
 
 Justin Bento's Website is a comprehensive developer portfolio that is designed to empower employer's decisions. By providing Justin to write blogs, case studies, learning, and tag tracking, the personal website offers a seamless experience for people who want to know more about Justin Bento while enabling justin to share his perspective of becoming a developer.
 
+## Project Details:
+
+- Type of Work: Project-Based
+- Type of Website: Portfolio
+- Time frame: Periodic Check-ins
+- Link To Github: [github.com/Justin-Bento](https://github.com/Justin-Bento)
+- Link To Demo: [https://www.justin-bento.com/](https://www.justin-bento.com/)
+- Project Role: Designer, Developer
+- Project Duration: May 2025 – June 2025
+- Project Status: Production
+- Team Size: 1
+- Target Audience: Hiring managers, recruiters, and team leads.
+
 ## The Challenge
 
 After eight months of job hunting for Website Developer based positions, Justin Bento found himself stuck in a frustrating cycle: submitting resumes, receiving email rejections, and rarely making it to interviews. It wasn’t until a conversation with someone at Task that he received a pivotal piece of feedback:
