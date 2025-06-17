@@ -14,7 +14,7 @@ seo:
 
 ![Project preview](/project-7.jpg)
 
-## Project Summary:
+## Project Overview:
 
 Justin Bento's Website is a comprehensive developer portfolio that is designed to empower employer's decisions. By providing Justin to write blogs, case studies, learning, and tag tracking, the personal website offers a seamless experience for people who want to know more about Justin Bento while enabling justin to share his perspective of becoming a developer.
 
