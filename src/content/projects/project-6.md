@@ -64,7 +64,11 @@ Color we chose to include was Pink and Purple integrity, respect and inclusion.
 
 Light mode was a simple mono-chromatic color scheme what uses a light pink.
 
+![Project preview](/public/The_LifeLine_Canada_Foundation/StyleTile_v1.png)
+
 For dark mode the use black with purple
+
+![Project preview](/public/The_LifeLine_Canada_Foundation/StyleTile_v1_dark.png)
 
 #### Typography
 
