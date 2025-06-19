@@ -2,6 +2,7 @@
 title: Behind the Scenes of Turning My PSP Into Something New!
 excerpt: This article shares my journey of reviving and modifying my PlayStation Portable, while highlighting why I enjoy taking on hands-on projects outside of my professional field.
 publishDate: ' May 17, 2025'
+isFeatured: true
 tags:
   - Retro Gaming
   - Modding

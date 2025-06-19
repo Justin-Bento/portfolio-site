@@ -2,8 +2,9 @@
 title: 'How I Stopped Drowning in Scattered Ideas?'
 excerpt: 'Create a post on essential security practices for web developers. Cover topics such as secure coding, HTTPS implementation, and protection against common web vulnerabilities.'
 publishDate: 'October 8 2023'
+isFeatured: true
 tags:
-  - Security
+  - Learning
   - Web
 seo:
   image:

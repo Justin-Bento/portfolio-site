@@ -2,6 +2,7 @@
 title: 'Why Slowing Down Made Me a Faster Developer?'
 excerpt: A website that functions flawlessly across different browsers not only enhances user satisfaction but also broadens its reach.
 publishDate: 'May 28, 2025'
+isFeatured: true
 tags:
   - Software Development
   - Soft Skills
