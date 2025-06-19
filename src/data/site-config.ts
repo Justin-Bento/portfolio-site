@@ -102,7 +102,7 @@ const siteConfig: SiteConfig = {
             src: '/justin-bento-preview.webp',
             alt: 'A person sitting standing in a recording studio behind a drumkit set.'
         },
-        // Light theme spxsecific image
+        // Light theme specific image
         lightThemeImage: {
             src: '/justin-bento-light.jpg',
             alt: 'A person standing in a recording studio behind a drumkit set - light version'
