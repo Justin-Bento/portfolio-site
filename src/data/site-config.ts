@@ -41,7 +41,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://www.justin-bento.com/',
     title: 'Justin Bento',
     subtitle: 'Full Stack Website Developer',
     description: 'This is a portfolio website for Justin Bento. It serves as a central hub to showcase his skills, experience, and work samples.',
