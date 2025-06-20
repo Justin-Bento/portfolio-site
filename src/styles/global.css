@@ -1,5 +1,5 @@
-@import '@fontsource-variable/sora' layer(base);
-@import '@fontsource-variable/newsreader' layer(base);
+@import '@fontsource-variable/ibm-plex-sans' layer(base);
+@import '@fontsource/ibm-plex-serif' layer(base);
 @import '@fontsource-variable/newsreader/wght-italic.css' layer(base);
 
 @import 'tailwindcss';
@@ -21,8 +21,8 @@ html.dark {
 }
 
 @theme inline {
-    --font-sans: 'Sora Variable', sans-serif;
-    --font-serif: 'Newsreader Variable', serif;
+    --font-sans: 'IBM Plex Sans Variable', sans-serif;
+    --font-serif: 'IBM Plex Serif', serif;
     --text-color-main: var(--text-main);
     --background-color-main: var(--bg-main);
     --background-color-muted: var(--bg-muted);
