@@ -46,8 +46,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'Full Stack Website Developer',
     description: 'This is a portfolio website for Justin Bento. It serves as a central hub to showcase his skills, experience, and work samples.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/justin-bento-dark.webp',
+        alt: 'Justin Bento - Astro.js and Tailwind CSS Portfolio'
     },
     headerNavLinks: [
         {
