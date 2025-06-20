@@ -105,11 +105,11 @@ const siteConfig: SiteConfig = {
         // Light theme specific image
         lightThemeImage: {
             src: '/justin-bento-light.jpg',
-            alt: 'This is a self-portrait photograph of Justin Bento'
+            alt: 'This is a self-portrait photograph of Justin Bento.'
         },
         darkThemeImage: {
             src: '/justin-bento-dark.webp',
-            alt: 'This is a self-portrait photograph of Justin Bento playing guitar in a studio'
+            alt: 'This is a self-portrait photograph of Justin Bento playing guitar in a studio.'
         },
         actions: [
             {
