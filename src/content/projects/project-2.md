@@ -22,7 +22,7 @@ By incorporating reward systems, interactive checklists, and progress tracking, 
 
 - Reduce stress for parents and kids during the pre-camp transition.
 
-- Gamify skill-building (e.g., responsibility, adaptability) to increase engagement.
+- Motivational design, that encourages skill-building (e.g., responsibility, adaptability) to increase engagement.
 
 - Strengthen communication between parents, camp staff, and campers.
 
