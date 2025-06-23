@@ -54,18 +54,18 @@ By incorporating reward systems, interactive checklists, and progress tracking, 
 
 1. <b>Creating a research design document.</b>
 
-2. <b>Designing The </b>
+2. <b>Organizing The Content For Camp:</b>
 
-3. <b></b>
+3. <b>Creating an outline for the Design System.</b>
 
-4. <b></b>
+4. <b>Showcasing The Application</b>
 
 ## Technology Stack
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
+- Front-End: React Native using Expo GO.
+- Back-End: Firebase for data synchronization and auth.
 - Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+- AI Integration: None AI was not available during this time.
 
 ## Outcome
 
