@@ -67,6 +67,47 @@ By incorporating reward systems, interactive checklists, and progress tracking, 
 - Database: Firestore for scalable and flexible data storage.
 - AI Integration: None AI was not available during this time.
 
+## Creating a Style Guide
+
+I was tasked with updating the visual identity of our application without creating a new design system. As our foundation for this design was using default guidelines for Android and IOS platforms.This prompted me to make a style guide focused on visual updates only ensure the application looked consistent across most devices.
+
+### Color System Update
+
+- Simplified the palette to 5 core colors + 3 neutrals
+- Introduced accessible contrast adjustments,
+- Enabled support for dark and light mode design.
+
+![alt text](ColorStyles_Evolve_Camps_Design_System.png)
+
+Note: Colors are commonly defined in RGB format in mobile development because it aligns with how digital screens display color and is widely supported across platforms.
+
+### Typography Refresh
+
+- Recalibrated font sizes for better hierarchy.
+- Changed default fonts to a custom one called Public Sans.
+- Tuned spacing and letterforms for accessibility
+- Unified label and body text usage
+
+![alt text](../../../public/Evolve_Camps/Typography.png)
+
+Public Sans was selected for its overall clarity and legibility, which includes distinguishable character shapes such as the lowercase 'i' and uppercase 'I'. These features contribute to improved readability, especially for users with visual or cognitive challenges.
+
+### Component Styling
+
+- Standardized corner radius across all interactive elements
+- Reduced shadow use for flatter, modern feel
+- Unified input field visuals to improve clarity
+
+### Iconography
+
+- Replaced filled icons with outlined versions for consistency
+- Designed 5 new icons for core actions not covered by Material
+
+### Layout & Spacing
+
+- Rationalized vertical spacing to a base-12 scale
+- Adjusted margins and paddings on all top-level views
+
 ## Outcome
 
 EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
