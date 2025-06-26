@@ -14,7 +14,7 @@ seo:
 
 Software subscriptions keep getting more expensive, and too often, I found myself paying for features I didn’t need. Eventually, I got tired of feeling locked into tools that weren’t working for me. That’s when I started exploring Free and Open-Source Software (FOSS).
 
-What Is Free and Open-Source Software (FOSS)?
+## What Is Free and Open-Source Software (FOSS)?
 
 FOSS (Free and Open-Source Software) is an umbrella term that includes both Free Software and Open-Source Software. It refers to any software distributed under terms that allow users to freely use, modify, and redistribute the software as they see fit.
 
@@ -25,7 +25,7 @@ To qualify as FOSS, software must grant the following four essential freedoms:
 3. The freedom to redistribute copies to help others.
 4. The freedom to distribute copies of your modified versions to others.
 
-Why did I make the switch?
+## Why did I make the switch?
 
 Over time, software companies kept adding features I didn’t need. While some of the new AI tools were impressive, they made platforms feel bloated and distracting. For my personal use, I didn’t need all those “smart” features, I just needed tools that let me get things done.
 
@@ -33,7 +33,7 @@ What pushed me further was how often interfaces changed. Just as I’d settle in
 
 Everything I’ve mentioned so far is just the surface. I wanted to highlight the core frustrations that led me to make a change. That’s why I switched to Free and Open-Source Software (FOSS) tools because they better fit my needs without the extra noise.
 
-Here are some of the tools I’ve switched to:
+### Some of the tools I’ve switched to:
 
 - LibreOffice – A simple document editor, spreadsheet, and presentation software.
 - GIMP – Short for GNU Image Manipulation Program, used for photo editing and manipulation.
