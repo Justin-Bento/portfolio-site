@@ -20,10 +20,10 @@ FOSS (Free and Open-Source Software) is an umbrella term that includes both Free
 
 To qualify as FOSS, software must grant the following four essential freedoms:
 
-    The freedom to run the program for any purpose.
-    The freedom to study how the program works and modify it to suit your needs.
-    The freedom to redistribute copies to help others.
-    The freedom to distribute copies of your modified versions to others.
+1. The freedom to run the program for any purpose.
+2. The freedom to study how the program works and modify it to suit your needs.
+3. The freedom to redistribute copies to help others.
+4. The freedom to distribute copies of your modified versions to others.
 
 Why did I make the switch?
 
