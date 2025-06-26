@@ -35,14 +35,14 @@ Everything I’ve mentioned so far is just the surface. I wanted to highlight th
 
 ### Some of the tools I’ve switched to:
 
-- LibreOffice – A simple document editor, spreadsheet, and presentation software.
-- GIMP – Short for GNU Image Manipulation Program, used for photo editing and manipulation.
-- Inkscape – For vector-based graphics and illustrations.
-- Mozilla Firefox – A privacy-focused web browser.
-- Jitsi Meet – An open-source video conferencing tool.
-- Bitwarden – A secure password manager.
-- Audacity and Reaper – Music production and recording software.
-- Mozilla Thunderbird – An email client.
+- [LibreOffice](https://www.libreoffice.org/) – A simple document editor, spreadsheet, and presentation software.
+- [GIMP](https://www.gimp.org/) – Short for GNU Image Manipulation Program, used for photo editing and manipulation.
+- [Inkscape](https://inkscape.org/) – For vector-based graphics and illustrations.
+- [Firefox](https://www.mozilla.org/en-CA/firefox/new/?utm_campaign=SET_DEFAULT_BROWSER) – A privacy-focused web browser.
+- [Jitsi Meet](https://meet.jit.si/) – An open-source video conferencing tool.
+- [Bitwarden](https://bitwarden.com/) – A secure password manager.
+- [Audacity](https://www.audacityteam.org/) and Reaper – Music production and recording software.
+- [Thunderbird](https://www.thunderbird.net/en-CA/) – An email client.
 
 Now, I’m not saying it’s perfect. I still pay for some tools, but I’ve cut out the ones I didn’t truly need. The biggest trade-off was convenience, and yes, that took some adjustment. But for me, it was worth it. When I made the switch, I finally felt in control of my software, without worrying about losing access just because I stopped paying for a license. Switching to FOSS tools has been one of the best tech decisions I’ve made for personal usage.
 
