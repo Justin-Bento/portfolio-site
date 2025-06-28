@@ -10,4 +10,4 @@ seo:
 
 ![Alt text for image](/justin-bento-dark.webp)
 
-## Justin Bento - Full Stack Developer based in Canada
+## Justin Bento - Full Stack Developer based in Toronto.
