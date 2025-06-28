@@ -19,3 +19,9 @@ My journey in software development began in 2021 after completing the Multimedia
 As I've gotten better at programming my focus now is to on create code and products that are easy to maintain, and intuitive to use. Thanks to this mindset, I landed opportunities at the LifeLine Canada Foundation and Humber College. There, I gained hands-on experience and expanded my skills working across the stack, from designing accessible interfaces for mobile and desktop, to coding front-end components, and connecting and querying relational databases at scale.
 
 Having recently completed a contract role at Humber College and finishing my volunteer position, I’m now seeking a new opportunity where I can contribute to a collaborative team, learn what your company needs, and grow.
+
+If you’re looking for a dedicated developer eager to learn and grow, let’s talk!
+
+📧 [contact@justin-bento.com](mailto:contact@justin-bento.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/justinbento/)  
+💼 [GitHub Portfolio](https://github.com/Justin-Bento)
