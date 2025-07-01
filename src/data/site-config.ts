@@ -91,8 +91,8 @@ const siteConfig: SiteConfig = {
             href: 'https://www.linkedin.com/in/justinbento/'
         },
         {
-            text: 'SoundCloud',
-            href: 'https://on.soundcloud.com/1ofQFETLwvvcIe1Uh6'
+            text: 'Email',
+            href: 'mailto:contact@justin-bento.com'
         }
     ],
     hero: {
