@@ -7,7 +7,7 @@ Welcome to my corner of the internet. This personal website serves as a central 
 - Previous iterations: v1, v2,
 - Last Update: 1.5.0
 - Status: Working On Case Studies.
-- Live Link: www.justin-bento.com
+- Live Link: [www.justin-bento.com](https://www.justin-bento.com/)
 - Credits: See full credits
 
 ## Theme Features:
