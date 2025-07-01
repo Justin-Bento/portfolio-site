@@ -11,4 +11,4 @@ _Email:_
 You can send an email to [contact@justin-bento.com](mailto:contact@justin-bento.com), and I'll do my best to respond.
 
 _Social Media:_
-Connect with me on social media as well. Find me on [GitHub](https://github.com/Justin-Bento), [LinkedIn](https://www.linkedin.com/in/justinbento/), or [SoundCloud](https://soundcloud.com/bento-box-519166246).
+Connect with me using the social media links at the bottom of the page.
