@@ -17,7 +17,7 @@ Today I started my journey of reading a book called, “Cracking The Coding Inte
 
 So far, I have experience in front-end design and development. Now, my focus is on mastering back-end fundamentals, algorithms, system design, and database architecture to become a well-rounded Full-Stack Ruby on Rails Developer.
 
-## How Am I Tackling This Daunting Programming Book?
+### How Am I Tackling This Daunting Programming Book?
 
 As someone still discovering my learning style, self-studying has become increasingly challenging as topics grow more complex and time-consuming. But despite the hurdles, I haven’t given up.
 
