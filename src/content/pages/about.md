@@ -4,11 +4,11 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/justin-bento-dark.webp'
+    src: '/public/Social-Media-ProfilePicture.jpeg'
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/justin-bento-dark.webp)
+![Alt text for image](/Social-Media-ProfilePicture.jpeg)
 
 ## Justin Bento - Full Stack Developer based in Toronto.
 
