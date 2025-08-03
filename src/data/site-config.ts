@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: 'Hi, I’m Justin Bento, a Full-Stack Developer based in Toronto, Ontario, Canada. I am passionate about solving problems for companies while keeping the users happy and engaged with your platform. The tools I work with include and are not limited to HTML, CSS (+Tailwind CSS), JavaScript, TypeScript, React.js Next.js Astro.js, Ruby and Ruby on Rails. On my website, you will find a collection of projects, case studies, and articles that have been completed in the past, or find topics that peak my interest. iPlease feel free to browse my work on my website, review my code on [GitHub](https://github.com/Justin-Bento) or connect with me on [LinkedIn](https://www.linkedin.com/in/justinbento/).',
+        text: 'Hi, I’m Justin Bento, a Full-Stack Developer based in Toronto, Ontario, Canada. I am passionate about solving problems for companies while keeping the users happy and engaged with your platform. The tools I work with include and are not limited to HTML, CSS (+Tailwind CSS), JavaScript, TypeScript, React.js Next.js Astro.js, Ruby and Ruby on Rails. On my website, you will find a collection of projects, case studies, and articles that have been completed in the past, or find topics that peak my interest. Please feel free to browse my work on my website, review my code on [GitHub](https://github.com/Justin-Bento) or connect with me on [LinkedIn](https://www.linkedin.com/in/justinbento/).',
         image: {
             src: '/Social-Media-ProfilePicture.jpeg',
             alt: 'A person sitting standing in a recording studio behind a drumkit set.'
