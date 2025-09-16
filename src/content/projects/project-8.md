@@ -108,28 +108,34 @@ What people said was that the logic was good so far, but now we had to find a wa
 
 ## The Final Solution
 
-def caesar_cipher(plain_text, shift)
-	reset = shift % 26
-	shifted = plain_text.chars.map { |char|
-		if char.ord >= 65 && char.ord <= 90 ## Uppercase Letters
-			if char.ord + reset > 90
-				char.ord + reset - 26
-			else
-				char.ord + reset
-			end
-		elsif char.ord >= 97 && char.ord <= 122 ## Lowercase Letters
-			if char.ord + reset > 122
-				char.ord + reset - 26
-			else
-				char.ord + reset
-			end
-		else
-			char.ord
-		end
-	}
-	shifted.map { |ascii_value| ascii_value.chr }.join
-end
+After spending some time programming and trying to understand the AI fluff. Things didn't go well - for me. During my time attending a Mob Programming session I had to re-write the entire code base as the previous logic didn't make sense to anyone. The goal with this programming group was to make code that people can understand while ensuring the code was readable.
 
+After spending the time during a Mob Programming Session here's the final output.
+
+```
+01. def caesar_cipher(plain_text, shift)
+02.	  reset = shift % 26
+03. 	shifted = plain_text.chars.map { |char|
+04. 		if char.ord >= 65 && char.ord <= 90 ## Uppercase Letters
+05. 			if char.ord + reset > 90
+06. 				char.ord + reset - 26
+07. 			else
+08. 				char.ord + reset
+09.			end
+10.		elsif char.ord >= 97 && char.ord <= 122 ## Lowercase Letters
+11.			if char.ord + reset > 122
+12.				char.ord + reset - 26
+13.			else
+14.				char.ord + reset
+15.			end
+16.		else
+17.			char.ord
+18.		end
+19.	}
+20.	  shifted.map { |ascii_value| ascii_value.chr }.join
+21. end
+
+```
 ## Breaking Down the Final Solution
 
 [YOU NEED TO COMPLETE THIS SECTION - What did you want to explain here?]
