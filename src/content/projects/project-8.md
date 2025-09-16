@@ -155,7 +155,10 @@ Thanks to the power of collaborative programming, we solved the problem together
 
 ## Key Takeaways
 
-[YOU NEED TO EXPAND THIS SECTION - What else did you learn beyond git commits?]
+Thanks to this shift cipher project and the support from the people at Mapel Coding, I realized that I need to continue developing my soft skills as a software developer. What does that mean in practice? For me, it was the recognition that I had been difficult to work with in the past, largely because I hadn’t had much experience collaborating with others.This project showed me that I grow and learn much faster when I work alongside other people, rather than trying to figure everything out on my own.
 
-- Writing descriptive and accurate git commits
-- [Add more takeaways here - what did you learn about problem-solving? Community? Ruby?]
+Here are some improvements I plan to focus on in the near future:
+
+- Strengthening my writing skills so I can clearly express problems without barriers.
+- Letting go of my controlling tendencies by learning to go with the flow and stepping in only when necessary.
+- Shifting away from learning in isolation and making a conscious effort to learn from others and understand their perspectives.
