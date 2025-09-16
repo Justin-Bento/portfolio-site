@@ -138,16 +138,20 @@ After spending the time during a Mob Programming Session here's the final output
 ```
 ## Breaking Down the Final Solution
 
-[YOU NEED TO COMPLETE THIS SECTION - What did you want to explain here?]
+After attending a mob programming session, I finally managed to solve the problem thanks to the amazing people at Mapel Coding. On YYYY/MM/DD, I shared the project with the group and everyone agreed to spend some time working through it together. The goal was to first discuss the logic in person before touching the code. Here’s a high-level overview of what we covered when walking through the sample output:
 
-Let's walk through what happens when we call caesar_cipher("Hello", 3):
+Example: `caesar_cipher("Hello", 3)`:
 
-1. reset = shift % 26 - This ensures our shift stays within the alphabet (26 letters)
-2. We convert the string to individual characters with .chars
-3. For each character, we check if it's uppercase (65-90), lowercase (97-122), or neither.
-4. We shift the ASCII value by the reset amount.
-5. If shifting goes past Z (90) or z (122), we wrap around by subtracting 26.
-6. Finally, we convert back to characters and join them into a stringa.
+1. `reset = shift % 26` — ensures the shift stays within the alphabet (26 letters).
+2. Convert the string into individual characters with .chars.
+3. For each character, check if it’s uppercase (65–90), lowercase (97–122), or neither.
+4. Shift the ASCII value by the reset amount.
+5. If shifting goes past Z (90) or z (122), wrap around by subtracting 26.
+6. Convert the new ASCII values back into characters and join them into a string.
+
+At first glance, this might sound straightforward — and to some extent it was — but my limited knowledge of Ruby meant a lot of time was spent ensuring I was using the right methods for the task. For a seasoned Ruby developer, this would likely have been much simpler, but I’m still learning.
+
+Thanks to the power of collaborative programming, we solved the problem together within the session timeframe (4 pm to 6 pm). The bigger challenge for me came afterward: figuring out how to clearly explain the logic in writing. After some careful review and study, I was able to push through that hurdle as well.
 
 ## Key Takeaways
 
