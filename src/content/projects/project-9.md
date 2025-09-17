@@ -188,3 +188,11 @@ After overcoming the technical challenges and setting up the CMS, the website wa
 
 
 The client now has a professional, easy-to-manage website that reflects their services and brand identity, without the burden of needing a developer for every small update.
+
+## Key Takeaways
+
+Every project comes with its own challenges, and this one was no exception. From migrating outdated packages to setting up a content management system with limited documentation, I gained valuable hands-on experience in troubleshooting and adapting code to meet modern standards.
+
+One key lesson I learned was the importance of flexibility when working with clients. In this case, the client became less responsive towards the end of the project, which made it difficult to gather feedback and finalize additional features. To address this, I focused on delivering a solution that was simple, self-sufficient, and easy to maintain.
+
+By preparing documentation and recording walkthroughs, I ensured the client could manage the website independently—even if they were too busy to stay actively involved at the end of the process.
