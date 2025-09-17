@@ -18,9 +18,9 @@ seo:
 
 During my job search, I realized that sitting idle wasn’t helping me grow. I wanted to challenge myself by taking on a project for free as a website developer. My goal was to sharpen my communication skills, build confidence in explaining technical concepts, and see how much I had improved since working on the Maple Coding project and attending Shopify Developer sessions on Sundays.
 
-Over the summer, I posted on Reddit offering to create a free website for anyone interested. That’s how I connected with the client for this project. They were enthusiastic from the very beginning and eager to establish an official online presence for their business. Their company, Dr. Pressure, is a pressure washing business based in Vancouver, BC, and the project turned out to be a great fit.
+Over the summer, I posted on Reddit offering to create a free website for anyone interested. That’s how I connected with the client for this project. They were enthusiastic from the very beginning and eager to establish an official online presence for their business. Their company, Dr. Pressure, is a pressure washing business based in Vancouver, BC.
 
-From the start, I was upfront with the client: I would be using a template and customizing it to reflect their brand. They had no issue with this approach—they simply wanted a professional, functioning website. Their clear and enthusiastic communication made it easy to collaborate, and we quickly moved our professional discussions to email so I could keep a proper record and track the project timeline.
+From the start, I was upfront with the client: I would be using a template and customizing it to reflect their brand. They had no issue with this approach—they simply wanted a professional, functioning website that is tailoured to their demands. Their clear and enthusiastic communication made it easy to collaborate, and we quickly moved our discussions to email.
 
 This case study will walk through the process of building the website, the challenges faced, and the key lessons I took away from the project.
 
@@ -49,3 +49,41 @@ Things I was not responsible for:
 After a week, the client returned the signed documents. Although these documents were not legally binding, their purpose was to formally acknowledge the project and establish a mutual understanding of responsibilities, ensuring accountability on both sides.
 
 Thanks to [LibreOffice](https://www.libreoffice.org/) (a free, open-source tool), I was able to draft and share them easily.
+
+## Picking The Right Template
+
+One of the first major decisions in this project was selecting the right platform and template for the client’s website. My goal was to balance performance, cost, and ease of use so the client could manage their website independently after launch.
+
+I researched several options and presented the pros and cons to the client. While platforms like WordPress or Shopify offer extensive features, they also bring added complexity, higher hosting costs, and ongoing maintenance. Since the client only needed a showcase website with minimal content updates, these platforms would have been excessive.
+
+Instead, I selected Astro.js, a lightweight and highly performant framework. It provided exactly what the project required: a fast, scalable, and affordable solution that integrates smoothly with a content management system. This ensured the client could update their website without incurring ongoing development or hosting fees.
+
+By making this decision, I was able to deliver a solution that aligned with the client’s goals while also being mindful of long-term sustainability and boundaries around my role. My responsibility was to help them launch successfully, not to commit to indefinite maintenance — and Astro.js provided the right balance.
+
+The template came down to three templates:
+
+### Data Nova:
+
+Free Astro theme specially designed for Business, Marketing, SaaS and Startup websites.
+
+![Data Nova Template](/dr-pressure/data-nova-template.webp)
+
+### ScrewFast
+
+Free Astro theme specially designed for Business, Marketing, SaaS and Startup websites.
+
+![ScrewFast Template](/dr-pressure/screw-fast-template.png)
+
+### Stone:
+
+Free Astro theme specially designed for Business, Marketing, SaaS and Startup websites.
+
+![Stone Template](/dr-pressure/astrojs-stone.png)
+
+After two weeks of waiting for the client’s response, he finally made a decision and chose the Stone Template. We went with this template because of its beautiful design and responsive nature — it ticked all the boxes and had everything we were looking for.
+
+That is the end of part one of the design phase.
+
+The next part of the design phase was to pick out the fonts Inter Variable.
+
+The color was gray and baby blue for it's soft and friendly approach.
