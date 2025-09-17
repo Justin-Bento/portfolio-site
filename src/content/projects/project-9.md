@@ -23,3 +23,29 @@ Over the summer, I posted on Reddit offering to create a free website for anyone
 From the start, I was upfront with the client: I would be using a template and customizing it to reflect their brand. They had no issue with this approach—they simply wanted a professional, functioning website. Their clear and enthusiastic communication made it easy to collaborate, and we quickly moved our professional discussions to email so I could keep a proper record and track the project timeline.
 
 This case study will walk through the process of building the website, the challenges faced, and the key lessons I took away from the project.
+
+## Understadning The Challenge
+
+Onboarding for a website project can be challenging, especially when it comes to aligning expectations. My main goal was to be very clear about my design and development process.
+
+The goal was simple:
+
+**Support clear communication throughout the project ensuring we stay on track**.
+
+To support this idea throughout the project timeline, I created two key documents: a project brief and a code of conduct. These shaped the process moving forward and kept both sides aligned. This approach helped me set expectations early, minimize the risk of miscommunication, and ensure that client feedback was tied to clear project goals rather than personal preference.
+
+Here where some things I was responsible for:
+
+- **Updating the code/template** → shows technical competence.
+- **Tailoring to client expectations** → shows you can customize rather than just copy-paste.
+- **Creating sample content** → demonstrates initiative while making clear it’s not final.
+
+Things I was not responsible for:
+
+- **Content curation** → that’s the client’s job (or a copywriter’s).
+- **Graphic design outside the website** → keeps your role clear, prevents scope creep.
+- **Ongoing deployment/maintenance** → unless explicitly agreed on, that’s outside the one-off project.
+
+After a week, the client returned the signed documents. Although these documents were not legally binding, their purpose was to formally acknowledge the project and establish a mutual understanding of responsibilities, ensuring accountability on both sides.
+
+Thanks to [LibreOffice](https://www.libreoffice.org/) (a free, open-source tool), I was able to draft and share them easily.
