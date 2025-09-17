@@ -169,3 +169,22 @@ Once these issues were resolved, the site was live and fully functional, ready f
 As the project approached its conclusion, the client did not request any additional services. My focus shifted to ensuring they felt confident managing the website independently, particularly when updating content such as testimonials and other key sections.
 
 To support this, I prepared a short screen recording demonstrating the update process and paired it with clear, step-by-step documentation. I also sent a friendly email explaining how to connect to and manage their Vercel-hosted website. This way, the client could easily make updates on their own, or schedule a call with me if needed, without feeling overwhelmed.
+
+
+## Project Showcase
+
+After overcoming the technical challenges and setting up the CMS, the website was ready to go live. The final product reflected the client’s vision while also being modern, responsive, and easy to manage.
+
+### Key Features
+
+- **Responsive Design** – optimized for desktop, tablet, and mobile.
+- **Dynamic Content** – integrated with Keystatic, allowing the client to update content without touching the code.
+- **Performance Optimized** – leveraging Astro.js’s speed and Vercel’s hosting.
+- **Scalable Setup** – packages and dependencies fully updated, making the project easier to maintain in the long term.
+
+### Final Look
+
+- Live Demo Link -> [https://drpressure.vercel.app/](https://drpressure.vercel.app/)
+
+
+The client now has a professional, easy-to-manage website that reflects their services and brand identity, without the burden of needing a developer for every small update.
