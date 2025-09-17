@@ -104,3 +104,68 @@ I used the eyedropper tool in Chrome’s Inspect Element to extract the followin
 My goal was to use all of these colours found on this image alone and then apply them to the astro.js stone template getting it away from the dull gray look and tailoring it to the client.
 
 I applied the same method to the typography, using existing elements from the card and translating them into the website. This process required careful attention to hierarchy and readability to ensure the site felt unique to the client, rather than looking like another default template anyone could use.
+
+## Developing The Website
+
+At this stage, we were close to completing the project, but there were still a lot of hiccups—something that’s natural in web development.
+
+### 1. Understanding The Code
+
+Since this project was based on someone else’s code, I first forked the codebase and cloned a copy onto my local system. I then explored the project to understand how everything was connected. The code was in a fixed state, meaning the website was not designed to integrate with a content management system.
+
+This made sense to me, and I wanted to handle it in a way that would let the client work on the website without having to worry about hiring another developer.
+
+After a deep dive, I finally understood how everything was integrated by following the Astro.js tutorials and the React.js component setup.
+
+### 2. Updating The Packages & Dependencies
+
+Everything looked good at first, but issues quickly arose when I started adding packages. Many of the existing resources were outdated, and the package versions were inconsistent across the project. The problem became unavoidable when I tried installing the latest version of Tailwind CSS, among other packages. At first, it seemed simple—just run `pnpm update`—but that didn’t work, which was concerning.
+
+To fix this, I had to completely remove the existing Astro version from the `package.json`, perform a fresh install of Astro.js, and then carefully reinstall the component code, styles, and other project elements.
+
+It was a time-consuming process, but necessary to bring the project up to date and ensure everything worked correctly.
+
+### 3. Setting Up and Using Keystatic Content Management System
+
+Since the code was not originally mine and the documentation for Keystatic was limited, linking the website to the content management system presented a challenge. Specifically, I needed to determine whether to create separate instances for each element on the webpage or if a single connection would suffice. With guidance from the team at Maple Coding, we confirmed that each element required its own instance.
+
+For example, consider the `<h1>` tag at the top of the website.
+
+Before:
+
+````
+<h1 class="tracknig-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
+  Professional Pressure Washing Across Vancouver Island!
+</h1>
+````
+
+After linking to Keystatic:
+
+```
+<h1class="tracknig-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
+  {page?.missionHeadline}
+</h1>
+```
+
+This change means that instead of hardcoding the headline directly into the HTML, the content now comes dynamically from the Keystatic content management system. This allows the client to update the headline through the CMS without touching the code, making the website more flexible and easier to maintain.
+
+### 4. Launching & Setting Up Hosting For The Website
+
+For deployment, I chose **Vercel** because of its seamless integration with Astro.js and its ability to handle continuous deployment directly from GitHub. This meant that every time I pushed changes to the repository, the live website would automatically update without needing any manual steps.
+
+The setup process involved:
+
+- Linking the GitHub repository to Vercel.
+- Configuring the build settings for Astro.js.
+- Adding environment variables required by Keystatic.
+- Running test builds to ensure everything rendered correctly in production.
+
+One of the main challenges was making sure the CMS-linked content displayed properly after deployment. Some of the paths and assets that worked locally needed to be adjusted for the production environment. After troubleshooting and tweaking the configuration, I was able to get everything working as expected.
+
+Once these issues were resolved, the site was live and fully functional, ready for the client to use and update as needed.
+
+### 5. Training The Client Through Documentation
+
+As the project approached its conclusion, the client did not request any additional services. My focus shifted to ensuring they felt confident managing the website independently, particularly when updating content such as testimonials and other key sections.
+
+To support this, I prepared a short screen recording demonstrating the update process and paired it with clear, step-by-step documentation. I also sent a friendly email explaining how to connect to and manage their Vercel-hosted website. This way, the client could easily make updates on their own, or schedule a call with me if needed, without feeling overwhelmed.
