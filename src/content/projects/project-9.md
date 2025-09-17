@@ -82,8 +82,25 @@ Free Astro theme specially designed for Business, Marketing, SaaS and Startup we
 
 After two weeks of waiting for the client’s response, he finally made a decision and chose the Stone Template. We went with this template because of its beautiful design and responsive nature — it ticked all the boxes and had everything we were looking for.
 
-That is the end of part one of the design phase.
+That is the end of part one of picking the template.
 
-The next part of the design phase was to pick out the fonts Inter Variable.
+## Designing The Website
 
-The color was gray and baby blue for it's soft and friendly approach.
+The next phase of the website was simple it the goal was to customize the tepmlate to make sure it fit the companies branding guidelines. It was hard for me to digest the infromation correctly as there was no offical design documentation just a pdf of the current business card. SO what I did was use the eye-dropper tool on the business card that was sent to me and used another tool to  give me additional colour codes.
+
+For example:
+
+![Stone Template](/dr-pressure/dr-pressure-full-logo.png)
+
+I used the eyedropper tool in Chrome’s Inspect Element to extract the following color codes directly from the image:
+
+- `#045179` — Background color
+- `#effaff` — Bottom text color
+- `#e3bc6c` — Border around the **“Dr. Pressure”** text
+- `#676664` — Gray from the pants of the icon
+- `#000000` — Black border around the pressure washer and pump
+- `#fec49f` — Skin tone of the person
+
+My goal was to use all of these colours found on this image alone and then apply them to the astro.js stone template getting it away from the dull gray look and tailoring it to the client.
+
+I applied the same method to the typography, using existing elements from the card and translating them into the website. This process required careful attention to hierarchy and readability to ensure the site felt unique to the client, rather than looking like another default template anyone could use.
