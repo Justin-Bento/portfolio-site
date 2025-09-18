@@ -73,16 +73,16 @@ const siteConfig: SiteConfig = {
             href: '/about'
         },
         {
+            text: 'Acknowledgements',
+            href: '/acknowledgements'
+        },
+        {
             text: 'Tags',
             href: '/tags'
         },
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Acknowledgements',
-            href: '/acknowledgements'
         }
     ],
     socialLinks: [
