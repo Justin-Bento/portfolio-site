@@ -20,11 +20,11 @@ During my job search, I realized that sitting idle wasn’t helping me grow. I w
 
 Over the summer, I posted on Reddit offering to create a free website for anyone interested. That’s how I connected with the client for this project. They were enthusiastic from the very beginning and eager to establish an official online presence for their business. Their company, Dr. Pressure, is a pressure washing business based in Vancouver, BC.
 
-From the start, I was upfront with the client: I would be using a template and customizing it to reflect their brand. They had no issue with this approach—they simply wanted a professional, functioning website that is tailoured to their demands. Their clear and enthusiastic communication made it easy to collaborate, and we quickly moved our discussions to email.
+From the start, I was upfront with the client: I would be using a template and customizing it to reflect their brand. They had no issue with this approach—they simply wanted a professional, functioning website that is tailored to their demands. Their clear and enthusiastic communication made it easy to collaborate, and we quickly moved our discussions to email.
 
 This case study will walk through the process of building the website, the challenges faced, and the key lessons I took away from the project.
 
-## Understadning The Challenge
+## Understanding The Challenge
 
 Onboarding for a website project can be challenging, especially when it comes to aligning expectations. My main goal was to be very clear about my design and development process.
 
@@ -86,7 +86,7 @@ That is the end of part one of picking the template.
 
 ## Designing The Website
 
-The next phase of the website was simple it the goal was to customize the tepmlate to make sure it fit the companies branding guidelines. It was hard for me to digest the infromation correctly as there was no offical design documentation just a pdf of the current business card. SO what I did was use the eye-dropper tool on the business card that was sent to me and used another tool to  give me additional colour codes.
+The next phase of the website was simple it the goal was to customize the template to make sure it fit the companies branding guidelines. It was hard for me to digest the information correctly as there was no official design documentation just a pdf of the current business card. SO what I did was use the eye-dropper tool on the business card that was sent to me and used another tool to  give me additional color codes.
 
 For example:
 
@@ -101,7 +101,7 @@ I used the eyedropper tool in Chrome’s Inspect Element to extract the followin
 - `#000000` — Black border around the pressure washer and pump
 - `#fec49f` — Skin tone of the person
 
-My goal was to use all of these colours found on this image alone and then apply them to the astro.js stone template getting it away from the dull gray look and tailoring it to the client.
+My goal was to use all of these colors found on this image alone and then apply them to the astro.js stone template getting it away from the dull gray look and tailoring it to the client.
 
 I applied the same method to the typography, using existing elements from the card and translating them into the website. This process required careful attention to hierarchy and readability to ensure the site felt unique to the client, rather than looking like another default template anyone could use.
 
@@ -134,7 +134,7 @@ For example, consider the `<h1>` tag at the top of the website.
 Before:
 
 ````
-<h1 class="tracknig-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
+<h1 class="tracking-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
   Professional Pressure Washing Across Vancouver Island!
 </h1>
 ````
@@ -142,7 +142,7 @@ Before:
 After linking to Keystatic:
 
 ```
-<h1class="tracknig-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
+<h1class="tracking-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
   {page?.missionHeadline}
 </h1>
 ```
