@@ -117,8 +117,8 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Learn More About Me',
+                href: '/about'
             }
         ]
     },
