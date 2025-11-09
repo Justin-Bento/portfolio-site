@@ -7,21 +7,12 @@ seo:
     src: '/public/Social-Media-ProfilePicture.jpeg'
     alt: A person sitting at a desk in front of a computer
 ---
+Growing up, I never imagined I’d end up here. For a long time, I lacked the confidence to see where I wanted to go, but one decision after another led me to where I am today. Now, with a stronger sense of purpose, I know my goal has always been to become a Software Engineer.
 
-![Alt text for image](/Social-Media-ProfilePicture.jpeg)
+It took me a long time to reach this point. I was lost, confused, and never had the chance to be my own guiding star. Choosing this path was my decision alone, and now it’s my job alone to face the good, the bad, and the ugly that come with it. No more short cuts, no more half-done work. 
 
-## Justin Bento - Full Stack Developer based in Toronto.
+Without a degree, the road’s been tough. Volunteering and doing side projects helped, but I knew it wasn’t enough — I wasn’t fully committed. To change that, I’m now studying at George Brown College in their Transition to Post-Secondary Education program to prepare myself for university and get my degree in Software Engineering. 
 
-Hi, I’m Justin Bento. I build full-stack web applications using tools like HTML, CSS, JavaScript, React, Astro.js, Tailwind CSS, Ruby on Rails, and PostgreSQL to create efficient digital products.
+I didn’t find this path alone. Thanks to the support of COSTI, they shared valuable resources, helped me build confidence, and guided me through this career transition. Now, with a clearer head and renewed focus, my goal is to keep pushing forward, earn my degree, and finally call myself a Software Engineer. 
 
-My journey in software development began in 2021 after completing the Multimedia Design and Development program at Humber College. After switching careers, I kept learning to code through The Odin Project because I understand that software development requires continuous practice and adaptation to build real skill over time. This has enabled me to apply my skills to [real-world projects](/projects) and to assist me in developing my previous design concepts into functional products.
-
-As I've gotten better at programming my focus now is to on create code and products that are easy to maintain, and intuitive to use. Thanks to this mindset, I landed opportunities at the LifeLine Canada Foundation and Humber College. There, I gained hands-on experience and expanded my skills working across the stack, from designing accessible interfaces for mobile and desktop, to coding front-end components, and connecting and querying relational databases at scale.
-
-Having recently completed a contract role at Humber College and finishing my volunteer position, I’m now seeking a new opportunity where I can contribute to a collaborative team, learn what your company needs, and grow.
-
-If you’re looking for a dedicated developer eager to learn and grow, let’s talk!
-
-📧 [contact@justin-bento.com](mailto:contact@justin-bento.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/justinbento/)  
-💼 [GitHub Portfolio](https://github.com/Justin-Bento)
+From there, I hope to land an internship where I can keep growing and contribute meaningfully to real projects, then transition into a full-time role and call myself a professional.
