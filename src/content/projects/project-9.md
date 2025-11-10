@@ -1,6 +1,6 @@
 ---
 title: 'Dr. Pressure'
-description: While job hunting, I took on a freelance project with a Vancouver-based company to design and build their website from Toronto. This experience challenged me to communicate effectively with a client I never met in person, manage expectations independently, and deliver a professional product in a fully remote environment.
+description: A pressure-washing business based in Vancouver, BC, specializing in driveways, home exteriors, moss removal, patios, decks, and other outdoor areas. I volenteered to research templates that fit their needs and then tailor the chosen template to best represent the company.
 tags:
   - ClientCommuication
   - RemoteWork

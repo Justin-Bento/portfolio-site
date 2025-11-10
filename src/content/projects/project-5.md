@@ -1,6 +1,6 @@
 ---
 title: 'Believe Support Services'
-description: An event website that provides information about camps and programs for individuals with complex needs. It outlines available services, includes testimonials and shows how the company works with participants and their families.
+description: Is a special home for for kids with dissablities that need 24/7 support. Their job is to help provide a wide variety of programs were designed to encourage individuals with complex needs build life skills, participate in recreational activities, and be part of social groups.
 publishDate: 'Oct 25 2023'
 isFeatured: true
 seo:

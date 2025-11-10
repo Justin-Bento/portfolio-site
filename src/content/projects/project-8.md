@@ -1,6 +1,6 @@
 ---
 title: 'Project: Caesar Cipher'
-description: This article explains my plan for working through the project Cesar Cipher. As well as the the steps I took to completed the project with the solution.
+description: The caesar cipher aka a shift cipher is the first project set of projects provided by The Odin Project to new developers understand basic encryption techniques and practice implementing algorithms.
 tags:
   - IntroToProgramming
   - TheOdinProject
