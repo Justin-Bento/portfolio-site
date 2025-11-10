@@ -4,9 +4,9 @@ description: 'ParkSmart is a parking app designed for Humber College. It allows 
 publishDate: 'Oct 2 2023'
 isFeatured: true
 tags:
-  - 'Education'
   - 'Mobile Application'
   - 'School Assignment'
+  - 'Software Projects'
 seo:
   image:
     src: '/project-2.jpg'

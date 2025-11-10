@@ -4,7 +4,7 @@ description: A pressure-washing business based in Vancouver, BC, specializing in
 tags:
   - 'Client'
   - 'Website Design and Development'
-  - 'Software Project'
+  - 'Software Projects'
 publishDate: 2025-08-25
 isFeatured: true
 seo:

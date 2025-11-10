@@ -4,8 +4,8 @@ description: The LifeLine App is an informational platform dedicated to supporti
 publishDate: 'July 13 2024'
 tags:
   - 'Volenteering'
-  - 'Software Projects'
   - 'Mobile Application'
+  - 'Software Projects'
 seo:
   image:
     src: '/project-6.jpg'
