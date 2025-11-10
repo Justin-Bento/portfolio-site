@@ -3,6 +3,10 @@ title: 'Believe Support Services'
 description: Is a special home for for kids with dissablities that need 24/7 support. Their job is to help provide a wide variety of programs were designed to encourage individuals with complex needs build life skills, participate in recreational activities, and be part of social groups.
 publishDate: 'Oct 25 2023'
 isFeatured: true
+tags:
+  - 'Volenteering'
+  - 'Software Projects'
+  - 'Website Design and DEvelopment'
 seo:
   image:
     src: '/project-5.jpg'

@@ -2,6 +2,10 @@
 title: 'Agent Webb'
 description: A consulting website designed for an independent real estate agent. The platform serves as a digital hub that combines an information center, documentation repository, and professional portfolio to streamline client communication and showcase listings.
 publishDate: 'Oct 19 2019'
+tags:
+  - 'Client'
+  - 'Website Design and Development'
+  - 'Software Proejct'
 seo:
   image:
     src: '/project-4.jpg'
@@ -26,25 +30,21 @@ This project was my first full-scale website development endeavor during my stud
 Key Features & Functionalities
 
 - Information Hub
-
   - Agent bio, credentials, and contact details
 
   - Blog section for market insights and real estate trends
 
 - Documentation Center
-
   - Secure client portal for contracts and transaction documents
 
   - FAQ section for common real estate processes
 
 - Professional Portfolio
-
   - Past transactions and client testimonials
 
   - Case studies of sold properties
 
 - Property Showcase
-
   - Filterable listings with high-quality images
 
   - Lead capture forms for inquiries

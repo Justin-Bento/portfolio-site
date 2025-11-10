@@ -2,9 +2,8 @@
 title: 'Project: Caesar Cipher'
 description: The caesar cipher aka a shift cipher is the first project set of projects provided by The Odin Project to new developers understand basic encryption techniques and practice implementing algorithms.
 tags:
-  - IntroToProgramming
-  - TheOdinProject
-  - Cryptography
+  - 'The Odin Project'
+  - 'Software Projects'
 publishDate: 2025-08-06
 isFeatured: true
 seo:
@@ -136,6 +135,7 @@ After spending the time during a Mob Programming Session here's the final output
 21. end
 
 ```
+
 ## Breaking Down the Final Solution
 
 After attending a mob programming session, I finally managed to solve the problem thanks to the amazing people at Mapel Coding. On YYYY/MM/DD, I shared the project with the group and everyone agreed to spend some time working through it together. The goal was to first discuss the logic in person before touching the code. Here’s a high-level overview of what we covered when walking through the sample output:
