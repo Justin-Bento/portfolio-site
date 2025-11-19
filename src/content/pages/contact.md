@@ -11,4 +11,4 @@ If you want to chat about design, software engineering or other topics you can f
 
 My goal as a Front-End Designer is to bridge design and development. For professional inquiries regarding design consulting, development work, or collaboration opportunities, please email me with a clear subject line starting with "Work:" or "Volunteer:" followed by the topic (example: "Work: Website Redesign Project").
 
-Otherwise, thanks for stopping by and browsing my site — it really means a lot!
+Thanks for stopping by — Cheers!
