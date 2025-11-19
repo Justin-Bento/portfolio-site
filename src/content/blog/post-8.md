@@ -4,8 +4,9 @@ excerpt: Sharing my experience moving away from paid software for personal usage
 publishDate: 'June 26 2025'
 isFeatured: true
 tags:
-  - Web
-  - Web development
+  - "Software"
+  - "Open Source"
+  - "Website Development"
 seo:
   image:
     src: '/Posts/post-8-seoImage.png'

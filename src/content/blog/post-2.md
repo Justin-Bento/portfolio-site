@@ -3,10 +3,8 @@ title: Lessons Learned from My First Completed Notebook
 excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
 publishDate: 'May 9, 2025'
 tags:
-  - Commonplace
-  - Writing
-  - Research
-  - Learning
+  - "Exploration"
+  - "Reflection"
 seo:
   image:
     src: '/post-2.jpg'

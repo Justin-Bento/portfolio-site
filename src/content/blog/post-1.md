@@ -4,9 +4,8 @@ excerpt: This article shares my journey of reviving and modifying my PlayStation
 publishDate: ' May 17, 2025'
 isFeatured: true
 tags:
-  - Retro Gaming
-  - Modding
-  - PlayStation Portable
+  - "Exploration"
+  - "Reflection"
 seo:
   image:
     src: '/post-1.jpg'

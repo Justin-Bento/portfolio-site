@@ -4,8 +4,9 @@ excerpt: Slow-loading websites can frustrate users, affect search engine ranking
 publishDate: 'October 12 2023'
 isFeatured: true
 tags:
-  - Web
-  - Web development
+  - "Exploration"
+  - "Reflection"
+  - "Website Development"
 seo:
   image:
     src: '/post-9.jpg'

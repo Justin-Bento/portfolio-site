@@ -5,8 +5,9 @@ excerpt: This article discusses how I will read through "Cracking the Coding Int
 publishDate: July 3, 2025
 isFeatured: true
 tags:
-  - SoftwareDevelopment
-  - LearnInPublic
+  - "Software Development"
+  - "Book Review"
+  - "Exploration"
 seo:
   image:
     src: '/Posts/post-9_cracking_the_coding_interview_book_placement_Article_Image.JPG'

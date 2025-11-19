@@ -5,10 +5,10 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Hey there!
 
-_Email:_
-You can send an email to [contact@justin-bento.com](mailto:contact@justin-bento.com), and I'll do my best to respond.
+If you want to chat and talk about open source, technology, and other topics you can catch me at local events like: [TorontoJS](https://torontojs.com/), [Mob Programming](https://www.meetup.com/maple-code/events/311816290/), [TorontoRuby](https://toronto-ruby.com/), [TASK](https://www.task.to/).
 
-_Social Media:_
-Connect with me using the social media links at the bottom of the page.
+For freelancing inquiries, including design consultancy, development projects, or other assignments, please email me with a clear subject line starting with “Work” or “Volunteer”. For example: "Work Opportunity: [Topic]".
+
+Otherwise, thanks for stopping by and browsing my site — it really means a lot!
