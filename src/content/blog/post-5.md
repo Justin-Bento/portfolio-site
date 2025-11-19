@@ -4,8 +4,8 @@ excerpt: 'Create a post on essential security practices for web developers. Cove
 publishDate: 'October 8 2023'
 isFeatured: true
 tags:
-  - Learning
-  - Web
+  - "Exploration"
+  - "Reflection"
 seo:
   image:
     src: '/post-5.jpg'

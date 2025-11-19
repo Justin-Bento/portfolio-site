@@ -3,9 +3,9 @@ title: Re-Building My Personal Website
 excerpt: Front-end development is not just about writing code; it's also about working seamlessly with others to create outstanding user experiences.
 publishDate: 'May 17, 2025'
 tags:
-  - Web
-  - UX
-  - Web development
+  - "Website Design"
+  - "Website Development"
+  - "Personal Project"
 seo:
   image:
     src: '/post-3.jpg'
