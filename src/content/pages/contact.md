@@ -7,7 +7,7 @@ seo:
 
 Hey there!
 
-If you want to chat about design, software engineering or other topics you can catch me at local events like: [TorontoJS](https://torontojs.com/), [Mob Programming](https://www.meetup.com/maple-code/events/311816290/), [TorontoRuby](https://toronto-ruby.com/), [TASK](https://www.task.to/).
+If you want to chat about design, software engineering or other topics you can find me at local events like: [TorontoJS](https://torontojs.com/), [Mob Programming](https://www.meetup.com/maple-code/events/311816290/), [TorontoRuby](https://toronto-ruby.com/), [TASK](https://www.task.to/).
 
 For freelancing inquiries, including design consultancy, development projects, or other assignments, please email me with a clear subject line starting with “Work” or “Volunteer”. For example: "Work Opportunity: [Topic]".
 
