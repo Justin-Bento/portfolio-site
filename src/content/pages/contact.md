@@ -9,6 +9,6 @@ Hey there!
 
 If you want to chat about design, software engineering or other topics you can find me at local events like: [TorontoJS](https://torontojs.com/), [Mob Programming](https://www.meetup.com/maple-code/events/311816290/), [TorontoRuby](https://toronto-ruby.com/), [TASK](https://www.task.to/).
 
-For freelancing inquiries, including design consultancy, development projects, or other assignments, please email me with a clear subject line starting with “Work” or “Volunteer”. For example: "Work Opportunity: [Topic]".
+My goal as a Front-End Designer is to bridge design and development. For professional inquiries regarding design consulting, development work, or collaboration opportunities, please email me with a clear subject line starting with "Work:" or "Volunteer:" followed by the topic (example: "Work: Website Redesign Project").
 
 Otherwise, thanks for stopping by and browsing my site — it really means a lot!
