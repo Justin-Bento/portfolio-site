@@ -2,6 +2,10 @@
 title: 'Evolve Camps'
 description: The Evolve Camps mobile application helps parents and camp counselors, by sending real-time updates to parents, so they can stay informed about their children during their time at camp.
 publishDate: 'April 15 2020'
+tags:
+  - 'Mobile Application'
+  - 'School Assignment'
+  - 'Software Projects'
 seo:
   image:
     src: '/project-1.jpg'

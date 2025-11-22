@@ -2,9 +2,9 @@
 title: 'Dr. Pressure'
 description: A pressure-washing business based in Vancouver, BC, specializing in driveways, home exteriors, moss removal, patios, decks, and other outdoor areas. I volenteered to research templates that fit their needs and then tailor the chosen template to best represent the company.
 tags:
-  - ClientCommuication
-  - RemoteWork
-  - FreelanceProject
+  - 'Client'
+  - 'Website Design and Development'
+  - 'Software Projects'
 publishDate: 2025-08-25
 isFeatured: true
 seo:
@@ -86,7 +86,7 @@ That is the end of part one of picking the template.
 
 ## Designing The Website
 
-The next phase of the website was simple it the goal was to customize the template to make sure it fit the companies branding guidelines. It was hard for me to digest the information correctly as there was no official design documentation just a pdf of the current business card. SO what I did was use the eye-dropper tool on the business card that was sent to me and used another tool to  give me additional color codes.
+The next phase of the website was simple it the goal was to customize the template to make sure it fit the companies branding guidelines. It was hard for me to digest the information correctly as there was no official design documentation just a pdf of the current business card. SO what I did was use the eye-dropper tool on the business card that was sent to me and used another tool to give me additional color codes.
 
 For example:
 
@@ -133,11 +133,11 @@ For example, consider the `<h1>` tag at the top of the website.
 
 Before:
 
-````
+```
 <h1 class="tracking-wide text-4xl leading-[1.15] font-[600] tracking-tight text-balance capitalize sm:text-5xl lg:text-6xl">
   Professional Pressure Washing Across Vancouver Island!
 </h1>
-````
+```
 
 After linking to Keystatic:
 
@@ -170,7 +170,6 @@ As the project approached its conclusion, the client did not request any additio
 
 To support this, I prepared a short screen recording demonstrating the update process and paired it with clear, step-by-step documentation. I also sent a friendly email explaining how to connect to and manage their Vercel-hosted website. This way, the client could easily make updates on their own, or schedule a call with me if needed, without feeling overwhelmed.
 
-
 ## Project Showcase
 
 After overcoming the technical challenges and setting up the CMS, the website was ready to go live. The final product reflected the client’s vision while also being modern, responsive, and easy to manage.
@@ -186,7 +185,6 @@ After overcoming the technical challenges and setting up the CMS, the website wa
 
 - Github Code -> [https://github.com/Justin-Bento/drpressure](https://github.com/Justin-Bento/drpressure)
 - Live Demo Link -> [https://drpressure.vercel.app/](https://drpressure.vercel.app/)
-
 
 The client now has a professional, easy-to-manage website that reflects their services and brand identity, without the burden of needing a developer for every small update.
 

@@ -2,9 +2,9 @@
 title: Personal Website
 description: Personal Website is a developer portfolio that offers a seamless experience for people who want to know more about Justin Bento while enabling justin to share his perspective.
 tags:
-  - UX_Case_Study
-  - Modding
-  - PlayStation Portable
+  - 'The Odin Project'
+  - 'Website Design and Development'
+  - 'Software Projects'
 publishDate: 'May 13 2025'
 isFeatured: true
 seo:
