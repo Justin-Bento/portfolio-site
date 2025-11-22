@@ -4,7 +4,7 @@ excerpt: This article discusses how I will read through "Cracking the Coding Int
 
 publishDate: July 3, 2025
 isFeatured: true
-isFeatured:
+tags:
   - "Software Development"
   - "Book Review"
   - "Exploration"
