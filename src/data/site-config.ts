@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome To My Website!',
-        text: '',
+        text: 'My aim is to create digital experiences that are intuitive for users while serving as a bridge between programmers and designers. Through hands-on projects, volunteering, The Odin Project, and the George Brown College bridging program, I am developing my programming skills to complement my background in design, aiming to become a developer who can build and design intuitive digital experiences.',
         image: {
             src: '/Social-Media-ProfilePicture.jpeg',
             alt: 'A person sitting standing in a recording studio behind a drumkit set.'
