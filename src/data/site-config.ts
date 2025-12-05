@@ -43,7 +43,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://www.justin-bento.com/',
     title: 'Justin Bento',
-    subtitle: 'Front-End Designer & Developer',
+    subtitle: 'Website Designer and Developer',
     description: 'This is a portfolio website for Justin Bento. It serves as a central hub to showcase his skills, experience, and work samples.',
     image: {
         src: '/justin-bento-dark.webp',
