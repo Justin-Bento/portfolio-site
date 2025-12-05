@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome To My Website!',
-        text: "Hi, my name is Justin, and I’m a Front-End Designer based in Toronto. For the past three years, I’ve provided UI/UX consulting to startups and charities, helping them meet W3C WCAG AA and Ontario AODA accessibility standards. As my work evolved, I’ve transitioned to front-end development so I can build interfaces that feel intuitive and natural to navigate. This shift positions me as a mediator who can align design decisions with front-end best practices.",
+        text: '',
         image: {
             src: '/Social-Media-ProfilePicture.jpeg',
             alt: 'A person sitting standing in a recording studio behind a drumkit set.'
