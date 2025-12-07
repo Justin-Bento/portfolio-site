@@ -1,6 +1,7 @@
 ---
 title: Personal Website
-description: Personal Website is a developer portfolio that offers a seamless experience for people who want to know more about Justin Bento while enabling justin to share his perspective.
+description: Updated the code of my website using an Astro + Tailwind CSS template, then re-skinned the visuals design around Final Fantasy 012 Dissidia, prioritizing readability and essential elements.
+
 tags:
   - 'The Odin Project'
   - 'Website Design and Development'
