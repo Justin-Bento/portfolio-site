@@ -1,6 +1,6 @@
 ---
 title: 'Project: Caesar Cipher'
-description: The caesar cipher aka a shift cipher is the first project set of projects provided by The Odin Project to new developers understand basic encryption techniques and practice implementing algorithms.
+description: Tested my knowledge with an introductory programming question, that covers fundamental concepts like variables, data types, loops, functions, and control structures.
 tags:
   - 'The Odin Project'
   - 'Software Projects'
@@ -12,6 +12,10 @@ seo:
 ---
 
 ![Project preview](/Project-Caesar-Cipher.png)
+
+_Before we get into the article, I want to thank The Odin Project for making this project available. It gave me a practical way to apply key programming concepts and made me realize that I am not yet ready for junior programming positions at this stage in my career._
+
+Working through the Caesar Cipher project was tougher than I expected. I realized I wasn’t ready for junior programming interviews yet, but it taught me how to apply strings, arrays, and conditionals in practice.
 
 ## What Is a Caesar Cipher?
 
