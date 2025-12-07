@@ -1,6 +1,6 @@
 ---
 title: 'Dr. Pressure'
-description: A pressure-washing business based in Vancouver, BC, specializing in driveways, home exteriors, moss removal, patios, decks, and other outdoor areas. I volenteered to research templates that fit their needs and then tailor the chosen template to best represent the company.
+description: Developed a website for a pressure-washing business in Vancouver, BC. This project strengthened my development and research skills but revealed gaps in my communication with the client.
 tags:
   - 'Client'
   - 'Website Design and Development'
