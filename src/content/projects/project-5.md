@@ -1,6 +1,6 @@
 ---
 title: 'Believe Support Services'
-description: Revamped the companies website by making a design language that feels welcoming and encourages people to join. As well as create a design system that assited future developers and designers.
+description: Revamped the companies website by making a design language that feels welcoming and encourages people to join. As well as create a design system that assited future designers.
 publishDate: 'Oct 25 2023'
 isFeatured: true
 tags:
