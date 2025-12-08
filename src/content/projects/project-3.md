@@ -1,6 +1,6 @@
 ---
 title: 'ParkSmart'
-description: 'ParkSmart is a parking app designed for Humber College. It allows students to pay parking tickets, manage processing and revenue, and track active parking time logs all through an application.'
+description: 'My final User Expereince (UX) design project, that allows students to pay parking tickets, manage processing and revenue, and track active parking time logs all through an application.'
 publishDate: 'Oct 2 2023'
 isFeatured: true
 tags:
