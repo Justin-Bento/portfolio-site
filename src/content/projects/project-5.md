@@ -1,6 +1,6 @@
 ---
 title: 'Believe Support Services'
-description: Is a special home for for kids with dissablities that need 24/7 support. Their job is to help provide a wide variety of programs were designed to encourage individuals with complex needs build life skills, participate in recreational activities, and be part of social groups.
+description: Revamped the companies website by making a design language that feels welcoming and encourages people to join. As well as create a design system that assited future developers and designers.
 publishDate: 'Oct 25 2023'
 isFeatured: true
 tags:
@@ -16,7 +16,7 @@ seo:
 
 ## Project Overview:
 
-Believe Support Services is a company that helps individuals with complex needs live independent, supported, and fulfilling lives. This website design and development project showcases my final concept. While the design was well-received, it was never implemented due to a combination of factors, the organization used Wix, and I was working as a custom developer.
+Believe Support Services is a company that helps individuals with complex needs live independent, supported, and fulfilling lives. During my time as a computer technitian. My job was to assist the business side of the company by troubleshooting common essors. An opertunity arose where I would build them a custom website While the design was well-received, it was never implemented due to a combination of factors, the organization used Wix.
 
 ## Project Details
 
