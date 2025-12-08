@@ -1,6 +1,6 @@
 ---
 title: 'Urban Greens Antigua'
-description: A showcase website that displays high-quality microgreens. The website provides information about all microgreens the companies sells and help customers understand micro-greens. My role for this project was to be a Website Designer, Developer.
+description: Built a showcase website that displays high-quality microgreens. The website provides information about all microgreens and shares how people use them within Antigua & Barbuda.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 tags:
