@@ -1,6 +1,6 @@
 ---
 title: The Lifeline Canada Foundation
-description: The LifeLine App is an informational platform dedicated to supporting suicide prevention efforts across Canada. It raises awareness of risk factors, provides access to online resources, and promotes local programs that build mental health resilience for all.
+description: Designed an application that raise awareness of mental-health risk factors, provide access to online support resources, and promote local programs that help build mental-health resilience.
 publishDate: 'July 13 2024'
 tags:
   - 'Volenteering'
@@ -15,9 +15,7 @@ seo:
 
 ## Project Overview:
 
-A friend of mine introduced me to a company called The LifeLine Canada Foundation over email. The company’s CEO was looking for a companion app to complement their website. The LifeLine App is an online resource aimed at raising awareness of mental health issues and building mental health resilience for Canadians.
-
-This mobile application encourages users to reduce the stigma surrounding mental health conditions and promotes evidence-based resources and programs with integrity, respect, and inclusion.
+A friend of mine introduced me to a company called The LifeLine Canada Foundation over email they wanted to create an or platform that raises awareness and helps reduce the risk factors for suicide. Their goal is to help Canadians strengthen their mental-health resilience, by providing a central source of reliable information and by promoting local programs that support individuals and communities. The company’s CEO was looking for someone to design a foundation for their brand so people can recognize them when someone is in need.
 
 ## Project Details:
 
