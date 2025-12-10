@@ -1,6 +1,6 @@
 ---
 title: 'Agent Webb'
-description: A consulting website designed for an independent real estate agent. The platform serves as a digital hub that combines an information center, documentation repository, and professional portfolio to streamline client communication and showcase listings.
+description: Collaberated with a developer to design a consulting website for an independent real estate agent. This was my first solo design and development endeavor into the realm of software development.
 publishDate: 'Oct 19 2019'
 tags:
   - 'Client'
@@ -17,7 +17,7 @@ seo:
 
 Agent Webb is a personal real estate website designed for an independent real estate agent. The platform serves as a multifunctional digital hub, combining an information center, documentation repository, professional portfolio, and property showcase to enhance client engagement and streamline property sales.
 
-This project was my first full-scale website development endeavor during my studies in web design and development. Originally planned as a collaborative effort, I took on full ownership of the design and development process, gaining hands-on experience in both frontend and backend implementation. While external factors led to the project’s discontinuation, the experience provided valuable insights into client communication, independent problem-solving, and end-to-end web development.
+This project was my first full-scale website design endeavor during my studies in web design and development. Originally planned as a collaborative effort, I took on full ownership of the design and development process, gaining hands-on experience in both frontend and backend implementation. While external factors led to the project’s discontinuation, the experience provided valuable insights into client communication, independent problem-solving, and end-to-end web development.
 
 ## Project Details
 
