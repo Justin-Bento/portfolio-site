@@ -1,27 +1,27 @@
 ---
-title: 'Believe Support Services'
-description: Revamped the companies website by making a design language that feels welcoming and encourages people to join. As well as create a design system that assited future designers.
-publishDate: 'Oct 25 2023'
-isFeatured: true
+title: Personal Website
+description: Updated the code of my website using an Astro + Tailwind CSS template, then re-skinned the visuals design around Final Fantasy 012 Dissidia, prioritizing readability and essential elements.
+
 tags:
-  - 'Volenteering'
+  - 'The Odin Project'
+  - 'Website Design and Development'
   - 'Software Projects'
-  - 'Website Design and DEvelopment'
+publishDate: 'May 13 2025'
+isFeatured: true
 seo:
   image:
-    src: '/project-5.jpg'
+    src: '/projects/project-7-thumbnail.webp'
+    alt: 'Dante Astro.js theme light and dark color version'
 ---
 
-![Project preview](/project-5.jpg)
+![Project preview](/projects/project-7-thumbnail.webp)
 
-Believe Support Services is an organization that supports individuals with complex needs in living independent, supported, and fulfilling lives.
+This project focused on designing and building a personal website intended to support hiring evaluation. The primary goal was to present work clearly, reduce cognitive load for reviewers, and make both design and front-end development skills easy to assess. A key constraint was conflicting expectations around what a “proper” portfolio should contain. Rather than optimizing for polish or novelty, the site prioritizes clarity, structure, and role alignment, particularly at a junior-to-mid level.
 
-I was initially hired as a computer technician to support the administrative side of the organization. In this role, my responsibilities focused on troubleshooting common technical issues and assisting staff with day to day system problems. This position provided direct exposure to internal workflows, tooling limitations, and the organization’s operational realities.
+The current version reflects a deliberate shift in positioning toward UI design and front-end development. Earlier iterations were preserved under subdomains to track progression, while the latest version consolidates experience into a single, focused presentation. To address the dual nature of design and development work, the interface includes a toggle that allows users to switch between designer and developer views. Each view emphasizes different skills while maintaining a consistent structure, allowing reviewers to evaluate either discipline without friction.
 
-During this time, the organization identified a need for a public facing website. I was asked whether I could build the site, and I agreed under the understanding that this work would be separate from my technical support role.
+Visual direction and interaction design were informed by the idea of dual identities under one system, translated into a clear, accessible interface. The dual-view concept was inspired by the video game Final Fantasy Dissidia on the PlayStation Portable, which centers on contrasting identities within a single system. Color and layout choices were adapted to meet accessibility and modern web standards.
 
-The goal of the project was to redesign the existing website using Wix in order to better communicate services, improve brand recognition, and ensure content accessibility. However, with no formal content requirements, documentation, or written briefs were provided. As a result, the scope of the work centered on structure, clarity, and long term maintainability rather than finalized messaging.
+For implementation, the Dante theme by Just Good UI was selected to support performance, accessibility, and maintainability. This allowed effort to be focused on information architecture, content structure, and interface decisions rather than rebuilding common patterns. Key technical characteristics include a mobile-first responsive layout, light and dark mode support, fast load times using Astro with optimized assets, Tailwind CSS for consistent styling, and Markdown/MDX for maintainable content.
 
-To address this, I worked within the constraints of the Wix platform while leveraging existing visual assets. I conceptualized a design language that could be reused and extended by future designers, and established a clear information architecture to reduce cognitive load for users seeking support. Accessibility considerations based upon W3CAG Level II, informed layout, hierarchy, and content structure to ensure the foundation could support diverse user needs.
-
-The outcome of this work was a stable, flexible baseline rather than a fully content-complete website. The structure and design system enabled the organization to continue iterating independently as content became available. The current production site reflects ongoing changes built on top of this initial foundation.
+The result is a site that enables quick evaluation, supports scanning over reading, and balances design intent with technical execution. Treating the website as a tool for reviewers rather than a personal showcase led to clearer structure and stronger signal.

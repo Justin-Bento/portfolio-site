@@ -1,114 +1,27 @@
 ---
-title: The Lifeline Canada Foundation
-description: Designed an application that raise awareness of mental-health risk factors, provide access to online support resources, and promote local programs that help build mental-health resilience.
-publishDate: 'July 13 2024'
+title: 'Project: Caesar Cipher'
+description: Tested my knowledge with an introductory programming question, that covers fundamental concepts like variables, data types, loops, functions, and control structures.
 tags:
-  - 'Volenteering'
-  - 'Mobile Application'
+  - 'The Odin Project'
   - 'Software Projects'
+publishDate: 2025-08-06
+isFeatured: true
 seo:
   image:
-    src: '/project-6.jpg'
+    src: 'Project-Caesar-Cipher.png'
 ---
 
-![Project preview](/project-6.jpg)
+![Project preview](/Project-Caesar-Cipher.png)
 
-## Project Overview:
+A Caesar cipher, is a simple text transformation that shifts letters in the alphabet by a fixed number. The goal was to correctly shift letters while preserving case and leaving non-letter characters unchanged. This project is part of The Odin Project learning program, which focuses on practical programming exercises. At the time, I was still building core programming foundations, so the focus was on understanding how characters behave at a low level rather than using prebuilt solutions.
 
-A friend of mine introduced me to a company called The LifeLine Canada Foundation over email they wanted to create an or platform that raises awareness and helps reduce the risk factors for suicide. Their goal is to help Canadians strengthen their mental-health resilience, by providing a central source of reliable information and by promoting local programs that support individuals and communities. The company’s CEO was looking for someone to design a foundation for their brand so people can recognize them when someone is in need.
+The requirements were clear. Implement a Caesar cipher that accepts a string and a shift value, applies a right shift, converts characters to numeric values, and wraps correctly within the alphabet. With help from a coding session I attend at Maple Coding, edge cases were added so the cipher handles uppercase and lowercase letters separately and supports configurable positive and negative shift values.
 
-## Project Details:
+ ```
+  > caesar_cipher("What a string!", 5)
+  => "Bmfy f xywnsl!"
+```
 
-- Type of Work: Volunteering
-- Type of Website: Application
-- Time frame: Periodic Check-ins
-- Link To Github: Outsourced Development for Application.
-- Link To Demo: [https://thelifelinecanada.ca/lifeline-app/](https://thelifelinecanada.ca/lifeline-app/)
-- Project Role: Researcher, Designer, Collaborator
-- Project Duration: Aug 2021 – Nov 2023
-- Project Status: In Development
-- Team Size: 1
-- Target Audience: Canadians affected by mental health issues.
+To meet these requirements, each character was processed individually. Characters were converted to their numeric values and checked to determine whether they fell within the uppercase or lowercase letter ranges. The shift was applied, and when a value exceeded the alphabet limit, it was wrapped by subtracting 26. Characters outside letter ranges were returned unchanged. The processed characters were then combined back into a single string. The final result reliably shifts text while preserving readability and structure. Inputs containing mixed case and symbols behave predictably, and edge cases at the end of the alphabet are handled correctly.
 
-## Objectives
-
-1. Research top-performing mental health apps to identify successful features and user engagement strategies.
-2. Explore accessibility options to ensure the app is usable for individuals who are hard of hearing or have vision impairments.
-3. Develop presentation concepts for the app's user interface and user experience.
-
-Timeline: 1 month
-
-## Features
-
-Here are some consistent patterns that emerged when researching popular mental health apps:
-
-### 2 Types of Navigation Used
-
-<b>Flat Menu Structure</b>
-
-A large, immersive menu that takes up the full screen. Common in onboarding flows or when users first open the app. It's simple, uncluttered, and good for guiding users to core areas without distraction.
-
-<b>Bottom Tab Navigation</b>
-
-A persistent navigation bar typically found at the bottom of the screen. Allows quick switching between primary sections (e.g., Home, Resources, Journal, Profile). It's user-friendly and familiar to most mobile users.
-
-### Card Based Interfaces
-
-The app uses card-based interfaces to organize content into visually distinct, easily scannable sections. Each card highlights a specific piece of information or feature. Visual cues such as shadows, borders, or icons help indicate which elements are clickable and interactive.
-
-### Base Design System
-
-With the overall experience panned out this marks the beginning of our User Interface. By using a consistent set of fonts, colors, and widget styles, and by reusing components wherever possible, the design system promotes efficiency and a cohesive user experience. Here starts of the beginning of the Visuals for of the designed to align with the project’s goals.
-
-#### Color
-
-Color we chose to include was Pink and Purple integrity, respect and inclusion.
-
-Light mode was a simple mono-chromatic color scheme what uses a light pink.
-
-![Project preview](/public/The_LifeLine_Canada_Foundation/StyleTile_v1.png)
-
-For dark mode the use black with purple
-
-![Project preview](/public/The_LifeLine_Canada_Foundation/StyleTile_v1_dark.png)
-
-#### Typography
-
-#### Iconography
-
-#### UI Elements
-
-## Technology Stack
-
-- Design: Figma – used for UI/UX design and prototyping.
-- Documentation: Google Docs – for planning, notes, and collaborative writing.
-- Frontend: React Native with Expo – for building cross-platform mobile applications efficiently.
-- Backend: Node.js – handles server-side logic and supports real-time data synchronization.
-- Database: MongoDB – stores data such as charities, online chat messages, and other app content.
-
-**Note**: This technology stack represented the ideal setup for the project. However, due to my limited experience with mobile development at the time, I made the decision to outsource the implementation to an external development team. I remained involved in overseeing the process, ensuring the app aligned with the original design and functional goals.
-
-## Final Design
-
-<div class="grid grid-cols-2 gap-4">
-  <img src="/The_LifeLine_Canada_Foundation/lifelineApp_light_mode.png" alt=""/>
-    <img src="/The_LifeLine_Canada_Foundation/lifelineApp_dark_mode.png" alt=""/>
-</div>
-
-Interact with the project → Coming Soon
-
-See the project in action → Coming Soon
-
-## Outcome
-
-The overall outline of the application was completed, providing a solid structural framework. However, many key interactive elements and user engagement features were still missing. This included functionalities such as dynamic user inputs, real-time feedback, and seamless navigation flows that are essential for an intuitive and engaging user experience.
-
-- As the timeline was short I focused on prioritizing core features and documentation to ensure a clear handoff to the core design team.
-
-- After I accepted a job at Humber College, I was unable to continue actively working on the project. Fortunately, she was able to find someone else to complete the remaining features.
-
-- During my free time, I periodically checked in with the CEO and assisted her with side-quests such as the hiring process for app development and more.
-
-## Lessons Learned
-
-This project taught me valuable lessons about mobile app design, development, collaboration with external teams, and the importance of clear documentation for seamless handoffs. While my direct involvement ended, I remain committed to supporting the project’s success through volunteering and periodic check-ins.
+This project reinforced the importance of handling edge cases explicitly. Defining character ranges and wraparound behaviour in advance made the cipher predictable and easier to debug. Working through the problem with other developers also helped surface edge cases earlier and led to clearer implementation decisions.

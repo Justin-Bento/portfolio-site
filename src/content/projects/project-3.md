@@ -1,22 +1,27 @@
 ---
-title: 'Agent Webb'
-description: .
-publishDate: 'Oct 19 2021'
+title: 'Believe Support Services'
+description: Revamped the companies website by making a design language that feels welcoming and encourages people to join. As well as create a design system that assited future designers.
+publishDate: 'Oct 25 2023'
+isFeatured: true
 tags:
-  - 'Client'
-  - 'Website Design and Development'
-  - 'Software Project'
+  - 'Volenteering'
+  - 'Software Projects'
+  - 'Website Design and DEvelopment'
 seo:
   image:
-    src: '/project-4.jpg'
+    src: '/project-5.jpg'
 ---
 
-Doug Webb had industry experience dating back to the 1980s, yet his digital presence did not reflect that depth. The challenge was not simply building a website, but translating decades of real estate knowledge into a structured, client-facing platform that clarified his positioning and differentiated him from generic realtor templates.
+![Project preview](/project-5.jpg)
 
-Three structural gaps needed to be addressed: there was no clearly articulated value proposition, no structured explanation of the real estate process for buyers and sellers, and no digital system positioning him as an authority rather than just another listing agent. Collaboration was also inconsistent, with limited content, unclear brand direction, and minimal documentation to guide messaging. The project required converting fragmented information into a coherent digital strategy.
+Believe Support Services is an organization that supports individuals with complex needs in living independent, supported, and fulfilling lives.
 
-Instead of presenting the site as a standard listing hub, the messaging reframed Doug as an experienced guide. The narrative emphasized education, transparency, and long-term industry expertise. The site architecture was intentionally structured: the Home page established clear value positioning; the About page communicated professional history and credibility; the Process page delivered an educational breakdown of how transactions work; the Listings page served as a property access point; and the Contact page provided a direct conversion path. The Process section became the strategic anchor. By educating users about risks, procedures, and decision-making, the site shifted perception from salesperson to advisor.
+I was initially hired as a computer technician to support the administrative side of the organization. In this role, my responsibilities focused on troubleshooting common technical issues and assisting staff with day to day system problems. This position provided direct exposure to internal workflows, tooling limitations, and the organization’s operational realities.
 
-The build focused on a maintainable, scalable front-end foundation using Next.js, Tailwind CSS, TypeScript and Node.js. The visual system remained restrained and content-focused to reinforce credibility over visual noise. The architecture supports future expansion, including SEO-driven content and blog integration. Scope clarity was integrated into execution, prioritizing structural integrity over waiting for perfect content. This maintained momentum while preserving adaptability.
+During this time, the organization identified a need for a public facing website. I was asked whether I could build the site, and I agreed under the understanding that this work would be separate from my technical support role.
 
-The result? A platform that communicates experience and authority. Visitors understand who Doug is, how long he has been active, and what differentiates him. The structured process breakdown reduces ambiguity for buyers and sellers, building trust and lowering friction in early conversations. The website functions as a stable baseline rather than a static brochure, capable of scaling into content marketing, SEO expansion, or listing automation without structural overhaul.
+The goal of the project was to redesign the existing website using Wix in order to better communicate services, improve brand recognition, and ensure content accessibility. However, with no formal content requirements, documentation, or written briefs were provided. As a result, the scope of the work centered on structure, clarity, and long term maintainability rather than finalized messaging.
+
+To address this, I worked within the constraints of the Wix platform while leveraging existing visual assets. I conceptualized a design language that could be reused and extended by future designers, and established a clear information architecture to reduce cognitive load for users seeking support. Accessibility considerations based upon W3CAG Level II, informed layout, hierarchy, and content structure to ensure the foundation could support diverse user needs.
+
+The outcome of this work was a stable, flexible baseline rather than a fully content-complete website. The structure and design system enabled the organization to continue iterating independently as content became available. The current production site reflects ongoing changes built on top of this initial foundation.

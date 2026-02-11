@@ -1,27 +1,26 @@
 ---
-title: Personal Website
-description: Updated the code of my website using an Astro + Tailwind CSS template, then re-skinned the visuals design around Final Fantasy 012 Dissidia, prioritizing readability and essential elements.
-
+title: 'Dr. Pressure'
+description: Developed a website for a pressure-washing business in Vancouver, BC. This project strengthened my development and research skills but revealed gaps in my communication with the client.
 tags:
-  - 'The Odin Project'
+  - 'Client'
   - 'Website Design and Development'
   - 'Software Projects'
-publishDate: 'May 13 2025'
+publishDate: 2025-08-25
 isFeatured: true
 seo:
   image:
-    src: '/projects/project-7-thumbnail.webp'
-    alt: 'Dante Astro.js theme light and dark color version'
+    src: 'Project-Caesar-Cipher.png'
 ---
 
-![Project preview](/projects/project-7-thumbnail.webp)
+![Project preview](/dr-pressure/dr-pressre-website-Macbook.png)
 
-This project focused on designing and building a personal website intended to support hiring evaluation. The primary goal was to present work clearly, reduce cognitive load for reviewers, and make both design and front-end development skills easy to assess. A key constraint was conflicting expectations around what a “proper” portfolio should contain. Rather than optimizing for polish or novelty, the site prioritizes clarity, structure, and role alignment, particularly at a junior-to-mid level.
+Dr. Pressure needed a marketing website that the owner could update independently without technical knowledge. Prior to the project, content updates required developer involvement, testimonials were static, and the site lacked a scalable structure for growth.
+The project operated under several constraints. The client had no established brand assets, limited availability for feedback, and required a solution that avoided direct access to source code. Ongoing maintenance needed to be minimal after handoff.
 
-The current version reflects a deliberate shift in positioning toward UI design and front-end development. Earlier iterations were preserved under subdomains to track progression, while the latest version consolidates experience into a single, focused presentation. To address the dual nature of design and development work, the interface includes a toggle that allows users to switch between designer and developer views. Each view emphasizes different skills while maintaining a consistent structure, allowing reviewers to evaluate either discipline without friction.
+I chose Astro with the Stone theme instead of a traditional CMS because it allowed a fast static build while supporting structured content. I integrated Keystatic rather than a database-driven CMS to give the client direct content control without exposing code or hosting complexity. This reduced long-term maintenance risk and simplified handoff.
 
-Visual direction and interaction design were informed by the idea of dual identities under one system, translated into a clear, accessible interface. The dual-view concept was inspired by the video game Final Fantasy Dissidia on the PlayStation Portable, which centers on contrasting identities within a single system. Color and layout choices were adapted to meet accessibility and modern web standards.
+With no existing brand system, I defined the visual direction from scratch. I standardized imagery for browser performance, applied a restrained color system using a 90-10 ratio to reduce visual noise, and selected typography optimized for readability across mobile and desktop. These decisions prioritized clarity and consistency over decorative branding.
 
-For implementation, the Dante theme by Just Good UI was selected to support performance, accessibility, and maintainability. This allowed effort to be focused on information architecture, content structure, and interface decisions rather than rebuilding common patterns. Key technical characteristics include a mobile-first responsive layout, light and dark mode support, fast load times using Astro with optimized assets, Tailwind CSS for consistent styling, and Markdown/MDX for maintainable content.
+The final result was a responsive, SEO-ready site with editable testimonials and reviews that the client could manage independently. Post-handoff maintenance requirements were eliminated, and the site structure supported future content additions without developer intervention.
 
-The result is a site that enables quick evaluation, supports scanning over reading, and balances design intent with technical execution. Treating the website as a tool for reviewers rather than a personal showcase led to clearer structure and stronger signal.
+In retrospect, Astro and Keystatic introduced friction during client delivery due to onboarding overhead. For future small business projects with limited client availability, I would favor platforms with more familiar content workflows to reduce delivery time while preserving client autonomy.
