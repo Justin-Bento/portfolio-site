@@ -19,7 +19,9 @@ At the beginning, LinkedIn seemed like a new and better way to build connections
 
 The truth is, I have never actually gotten a job through LinkedIn. Most of my interviews have come from meeting people in person, applying directly on company websites, or showing up and doing real work within the community. While the brand LinkedIn has the social trust, I’ve decided to move away from it. I don't need a platform to validate my authenticity as a developer or as another competent person.
 
-There is also simply too much "digital noise" on the platform these days. It feels like the website rewards people for acting like performers rather than focusing on the actual work being done. Because it has never helped me find a job in the first place, it’s time to move on.
+There is also simply too much "digital noise" on the platform these days. It feels like the website rewards people for acting like performers rather than focusing on the actual work being done. For example, there is no real way to verify that someone has actually completed a certification or gained a skill unless you use their specific tools, like LinkedIn Learning.
+
+This creates a loop where the platform cares more about its own features than the actual competence of the people using it. Plus, learning through videos has never helped me truly master a skill or find a job it made me feel like a consumer. What has genuinely helped me is the "bottom-up" approach: going to the library, grabbing a developer book, or sitting down with a manual to really understand how a system works from the ground up. The platform doesn't value that kind of deep learning, it’s time to move on.
 
 I’m not disappearing, though!
 
