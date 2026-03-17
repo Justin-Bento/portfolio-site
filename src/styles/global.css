@@ -8,14 +8,14 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 :root {
-    --text-main: #0a0a0a;
-    --bg-main: #fafafa;
+    --text-main: #070503;
+    --bg-main: hsl(43, 43%, 99%);
     --bg-muted: #cbcbcb;
     --border-main: #343434;
 }
 html.dark {
     --text-main: #fafafa;
-    --bg-main: #0a0a0a;
+    --bg-main: #070503;
     --bg-muted: #343434;
     --border-main: #cbcbcb;
 }
@@ -27,8 +27,8 @@ html.dark {
     --background-color-main: var(--bg-main);
     --background-color-muted: var(--bg-muted);
     --border-color-main: var(--border-main);
-    --color-dissidia-cosmos: #1a7474;
-    --color-dissidia-chaos: #ada038;
+    --color-dissidia-cosmos: #317f89;
+    --color-dissidia-chaos: #ffefae;
 }
 
 @layer utilities {
