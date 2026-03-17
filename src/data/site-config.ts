@@ -101,19 +101,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome To My Website!',
-        text: 'My aim is to create digital experiences that are intuitive for users while serving as a bridge between programmers and designers. Through hands-on projects, volunteering, The Odin Project, and the George Brown College bridging program, I am developing my programming skills to complement my background in design, aiming to become a developer who can build and design intuitive digital experiences.',
+        text: `I’m Justin Bento, a Website Designer and Developer with a focus on Ruby on Rails and React. I create digital experiences for small businesses, charities, and clients that want intuitive experience for users and developers. What makes my approach unique is that I embrace 'the why' behind a website and conduct enough research to leverage aesthetics as a catalyst. You can also find me at industry events like TorontoJS, TechTank Toronto, or Toronto Ruby.`,
         image: {
             src: '/Social-Media-ProfilePicture.jpeg',
-            alt: 'A person sitting standing in a recording studio behind a drumkit set.'
-        },
-        // Light theme specific image
-        lightThemeImage: {
-            src: '/Social-Media-ProfilePicture.jpeg',
-            alt: 'This is a self-portrait photograph of Justin Bento.'
-        },
-        darkThemeImage: {
-            src: '/justin-bento-dark.webp',
-            alt: 'This is a self-portrait photograph of Justin Bento playing guitar in a studio.'
+            alt: 'A person sitting staring at the computer.'
         },
         actions: [
             {
