@@ -43,7 +43,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://www.justin-bento.com/',
     title: 'Justin Bento',
-    subtitle: 'Website Designer and Developer',
+    subtitle: 'Technical Enthusiast',
     description: 'This is a portfolio website for Justin Bento. It serves as a central hub to showcase his skills, experience, and work samples.',
     image: {
         src: '/justin-bento-dark.webp',
@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome To My Website!',
-        text: `I’m Justin Bento, a Website Designer and Developer with a focus on Ruby on Rails and React. I create digital experiences for small businesses, charities, and clients that want intuitive experience for users and developers. What makes my approach unique is that I embrace 'the why' behind a website and conduct enough research to leverage aesthetics as a catalyst. You can also find me at industry events like TorontoJS, TechTank Toronto, or Toronto Ruby.`,
+        text: `I’m Justin Bento, a Tech Enthusiast that builds custom software with Ruby on Rails and React. I create digital experiences for myself, small businesses, charities, and clients that want away from big coperations. What makes my approach unique is that I embrace **the why** behind a decision and conduct enough research to act as a catalyst. You can email me (at the bottom of my website) or find me at industry events like TorontoJS, TechTank Toronto, or Toronto Ruby.`,
         image: {
             src: '/Social-Media-ProfilePicture.jpeg',
             alt: 'A person sitting staring at the computer.'
