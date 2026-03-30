@@ -1,5 +1,5 @@
 ---
-title: Behind the Scenes of Turning My PSP Into Something New!
+title: Fixing My PSP!
 excerpt: This article shares my journey of reviving and modifying my PlayStation Portable, while highlighting why I enjoy taking on hands-on projects outside of my professional field.
 publishDate: ' May 17, 2025'
 isFeatured: true
@@ -50,4 +50,5 @@ As I no longer live in Antigua, I chose to take back my and modify his nearly 20
 
 7. <b>Personalizing Your Device Is Fun</b>: Some things I may work on in the future include: Screen replacement, so I can play it in the sun Changing the shell of the play-station, and Soldering the charging from Mini-USB cable to USB-C.
 
-Sometimes, stepping away from the screen and diving into a hands-on project can spark new ideas and perspectives. What’s something you’ve revived or explored outside of work that reignited your passion?
+This project ended when I finally was able to play the device and use it on the TTC subway.
+

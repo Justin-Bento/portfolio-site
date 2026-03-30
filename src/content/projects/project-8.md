@@ -1,5 +1,5 @@
 ---
-title: 'Building a Open-Source Recording Studio'
+title: 'Building an Open-Source Recording Studio'
 description: 'A technical deep-dive into engineering a low-latency, Linux-native audio stack for guitar and piano. That uses Advanced Linux Sound Architecture (ALSA) and Neural Amp Modeler (NAM) plugins.'
 publishDate: 2026/03/02
 tags:

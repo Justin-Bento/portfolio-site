@@ -1,36 +1,60 @@
 ---
-title: Lessons Learned from My First Completed Notebook
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'May 9, 2025'
+title: Moving Away from Paid Software.
+excerpt: Sharing my experience moving away from paid software for personal usage what I gave up, what I gained, and the tools that made it possible.
+publishDate: 'June 26 2025'
+isFeatured: true
 tags:
-  - "Exploration"
-  - "Reflection"
+  - "Software"
+  - "Open Source"
+  - "Website Development"
 seo:
   image:
-    src: '/post-2.jpg'
-    alt: Half open laptop on a desk
+    src: '/Posts/post-8-seoImage.png'
+    alt: Image by Africalia, licensed under CC BY 4.0 — via Wikimedia Commons
 ---
 
-![Half open laptop on a desk](/post-2.jpg)
+Software subscriptions keep getting more expensive, and too often, I found myself paying for features I didn’t need. Eventually, I got tired of feeling locked into tools that weren’t working for me. That’s when I started exploring Free and Open-Source Software (FOSS).
 
-As a stationary enthusiast and current job hunter, my life revolves around three main things: job hunting, researching and learning new things, and programming. I have found a way to balance all three, and I'm excited to share my secret with you. Are you ready? Drumroll, please... It is pen and paper! Specifically, a system called a "commonplace notebook."
+## What Is Free and Open-Source Software (FOSS)?
 
->
+FOSS (Free and Open-Source Software) is an umbrella term that includes both Free Software and Open-Source Software. It refers to any software distributed under terms that allow users to freely use, modify, and redistribute the software as they see fit.
 
-After delving deep into the Common Place Notebook rabbit hole, I discovered that each book is unique in its own way. It took me some time to create my own, but I finally created one.
+To qualify as FOSS, software must grant the following four essential freedoms:
 
-## What sets mine apart?
+1. The freedom to run the program for any purpose.
+2. The freedom to study how the program works and modify it to suit your needs.
+3. The freedom to redistribute copies to help others.
+4. The freedom to distribute copies of your modified versions to others.
 
-A commonplace book is a personal notebook or journal used to collect and organize information, ideas, quotes, and observations from various sources for future reference and reflection. Mine has three unique ways:
+## Why did I make the switch?
 
-- Each topic ends with a single page summary. I force myself to write a summary using my own words so I can improving my writing comprehension.
+Over time, software companies kept adding features I didn’t need. While some of the new AI tools were impressive, they made platforms feel bloated and distracting. For my personal use, I didn’t need all those “smart” features, I just needed tools that let me get things done.
 
-- For safekeeping purposes I have a digital backup of the completed commonplace book to reflect and keep track of the information.
+What pushed me further away  was how often interfaces changed. Just as I’d settle into a workflow, some update would replace a familiar tool with an AI-driven version or bury it under unnecessary layers. It broke my momentum, and honestly, it was frustrating. That’s when I realized I needed simpler, more stable alternative.
 
-- ICreate a “Found Objects” Section that include stamps and physical items unique to this time. for example I found my a TTC card from 2016.
+That led me to FOSS software. 
 
-I began keeping a commonplace notebook while studying The Odin Project in the second quarter of 2024 to demonstrate that I wasn’t just mindlessly scrolling through social media, but actively tracking the topics I was learning. It was a way to show others that I’m continuously learning.
+This was not an easy transition but it was a necessary one.
 
-Nowadays a chuck of my time is spent writing things on pen and paper and writing has been a great blessing. Why? I get to keep tabs physical timeline of things I've researched. Creating a summary at the end of the topic saves me time re-reading all the topics, while enabling to come up with new topics to talk about.
+### Some of the tools I’ve switched to:
 
-So if you ever are on the fence of buying a notebook I would highly recommend making that purchase and looking into writing a Common Place Notebook for yourself and seeing where it leads you on your journey.
+- [LibreOffice](https://www.libreoffice.org/) – A simple document editor, spreadsheet, and presentation software.
+- [GIMP](https://www.gimp.org/) – Short for GNU Image Manipulation Program, used for photo editing and manipulation.
+- [Inkscape](https://inkscape.org/) – For vector-based graphics and illustrations.
+- [Firefox](https://www.mozilla.org/en-CA/firefox/new/?utm_campaign=SET_DEFAULT_BROWSER) – A privacy-focused web browser.
+- [Jitsi Meet](https://meet.jit.si/) – An open-source video conferencing tool.
+- [Bitwarden](https://bitwarden.com/) – A secure password manager.
+- [Audacity](https://www.audacityteam.org/) and Reaper – Music production and recording software.
+- [Thunderbird](https://www.thunderbird.net/en-CA/) – An email client.
+
+Now, I’m not saying this is a perfect list but it was the easiest.
+
+I still pay for some tools such as a domain but I’ve cut out the ones I didn’t need. The biggest trade-off was convenience, and yes, that took some adjustment. But for me, it was worth it. When I made the switch, I finally felt in control of my software, without worrying about losing access just because I stopped paying for a license. 
+
+Switching to FOSS tools has been one of the best tech decisions I’ve made for personal usage.
+
+- It helped me regain focus by eliminating distracting features.
+- It freed me from the pressure of recurring subscription costs.
+- It gave me independence from locked-down ecosystems.
+
+If you're feeling overwhelmed by rising software costs, bloated features, or subscription fatigue, I encourage you to explore FOSS. It may not be perfect, but the freedom, flexibility, and long-term value are worth it.

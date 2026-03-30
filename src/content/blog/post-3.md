@@ -1,61 +1,25 @@
 ---
-title: Re-Building My Personal Website
-excerpt: Front-end development is not just about writing code; it's also about working seamlessly with others to create outstanding user experiences.
-publishDate: 'May 17, 2025'
+title: 'Going Back To School?'
+excerpt: 'A look back at my first semester at George Brown College — what I learned, what challenged me, and how the experience shaped my goals moving forward.'
+publishDate: 2025/09/19 
 tags:
-  - "Website Design"
-  - "Website Development"
-  - "Personal Project"
+  - 'Reflection'
 seo:
   image:
-    src: '/post-3.jpg'
-    alt: Beach ocean shore
+    src: ''
+    alt: ''
 ---
 
-![Beach ocean shore](/post-3.jpg)
+Before getting into this article, I want to share some context about the program I am in and its purpose. According to George Brown College, “TPE also known as Transition to Post-Secondary Education (A107) is a free, supportive, three-semester program that helps those who face mental health or addictions challenges reach their education and employment goals” (George Brown College, 2025). 
 
-If you know me, you’ve heard the joke. I’m constantly updating my website. So, what version is this current website? Believe it or not, it’s technically Version 2. I had hoped this iteration would be the breakthrough, but surprise: it became a bigger setback than I expected. Turns out, making something you care about is never as simple as it seems.
+As my first semester at George Brown College is coming to a close, I wanted to walk down memory lane and reflect on the good, the bad, and the ugly parts of these past few months.
 
-## What encouraged this change?
+There are a lot of great things about this program (which can be it’s own blog), so I’m going to highlight a few of them. First, everyone around me genuinely wants to grow and change for the better. Second, George Brown College feels like a community that looks out for one another. Third, taking a writing course helped me understand why I wasn’t getting hired before. Finally, being downtown has helped me learn how to navigate the city with far more confidence.
 
-Networking, it was networking that helped me. Let me explain, as I have been going to more networking events inside Toronto, I asked people if they would rate my current website and would purchase them a beer at the next event as a thank you.
+All of this started at the beginning of the new year. My contract at Humber College ended, and I went more than six months without landing a job. If I didn’t have support from my family and my friends here in Canada, I would’ve been in a pretty rough spot.
 
-A lot of people had nothing to say about it, and this raised a red flag. Why? I noticed people took 5 seconds to scan my website and said nothing was wrong except for one person .
+While I wasn’t in a rough spot in terms of housing or living conditions, my mental health was spiraling. I developed a lot of internalized anger toward myself. I hated where I was, and I kept telling myself I needed to stay disciplined and stick to one thing. That anger ended up blinding me. My confidence slipped, and what I thought I knew started to feel uncertain. It felt like a small ego death, and the mix of uncertainty, frustration, and lack of purpose settled in without me even noticing.
 
-Here is what he had to say:
+When I look back at my past self now, I am like wow. I was incredibly hard on myself. But if there is one thing I’ve learned, it’s that real growth isn’t gentle. You give things up, you trip over yourself, and you take hits you weren’t ready for. But walking through that kind of pain leaves you stronger than you were when you started, and that strength sticks with you long after the moment has passed.
 
-Your website design is great. However, your content is lacking, when I took time reading through your website it does not have a message.
-
-> What are you trying to be?
-
-While this person did not say that word for word, that was his general feedback. I do not know why but that stuck with me. The next day I chose to look at the website the next day and really spent time reviewing the website word. I had that same realization, and noticed he was right.
-
-## Identifying the Problems
-
-1. **Inconsistent Professional Narrative:** I did not pay close attention to what I was saying, and it showed. There was no "aha" moment that communicated, "This person is a software developer. If I struggled to understand my own portfolio, how could anyone else explain what I do for a living.
-
-2. **No Visual Presentation:** There was no purpose for my v2 portfolio. Causing people to ask for clarification as to why I wanted to become a developer.
-
-3. **Performance Problems:** Slow loading times due to my tech stack choices bloated software, uncessary tech dept and painful content updates.
-
-## Key Improvements Planned for My Website:
-
-- Clarify the "5 W's" (Who, What, When, Where, Why) on the landing page to immediately communicate my value.
-
-- Maintain a cohesive theme focused on me becoming a software developer.
-
-- Encourage engagement through blog content and projects.
-
-- Publish articles with to showcase personality, and technical skills.
-
-- Highlighting both design and development work with case studies and code example to demonstrate process, not just final products.
-
-- Show employers how I learn through experimentation and trial and error.
-
-## How long will this take?
-
-Ultimately, I’m giving myself a 1-month deadline to launch the redesigned website. To streamline the process, I’ll use a template for the core design freeing up time to focus on high-impact content and functionality that reflects my skills and personality.
-
-## Where can I contact you?
-
-Github and LinkedIn are the best places as of now. My Github profile, is the best place for people to view my code, and projects. Linkedin is the place where I am open to messages and connecting with new people.
+If I were to summarize how this experience shaped my goals moving forward, I’d say two things: first, it gave me a clearer sense of what I want, what I need to work on, and the kind of person I’m trying to become; second, all of this happened while I was surrounded by a community that acknowledged my flaws but helped me walk alongside them toward growth.
