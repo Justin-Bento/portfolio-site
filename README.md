@@ -1,14 +1,12 @@
-# Portfolio Website (v3)
+# Portfolio Website
 
-Welcome to my corner of the internet. This personal website serves as a central hub to showcase my skills, experience, and work samples. It provides employers and collaborators with easy access to my professional journey.
+Welcome to my corner of the internet. 
 
-- Date Created: Tue May 13 2025
-- Last Updated: Wed Jun 04 2025
-- Previous iterations: v1, v2,
-- Last Update: 1.5.0
-- Status: Working On Case Studies.
+This personal website which serves as a central hub to showcase my experience and work samples. The template used for this website was an [Astro.js Theme](https://astro.build/) Called [Dante](https://justgoodui.com/astro-themes/dante/) it was created by [Just Good UI](https://justgoodui.com/). I used this template to help me share my projects ideas. The issue I had with it was that I rushed everything, and I am no longer doing that.
+
+- Date Created: May 2025
+- Completed: June 2025
 - Live Link: [www.justin-bento.com](https://www.justin-bento.com/)
-- Credits: See full credits
 
 ## Theme Features:
 
@@ -61,14 +59,4 @@ Special thanks to the creators of these great resources:
 
 - **Dante Astro Theme by JustGoodUI** - This website uses a modified version of the Dante Astro Theme by JustGoodUI. The original theme is available at https://github.com/JustGoodUI/dante-astro-theme.
 
-- **Loading Screen Inspiration** – The loading animation and transition behavior were inspired by [Brittany Chiang’s v4 portfolio](https://github.com/bchiang7/v4), which features a beautifully crafted intro experience.
-
 - **Visual Style Inspiration** – Color palette and stylistic elements were influenced by the visual aesthetics of Final Fantasy Dissidia 012, developed by Square Enix.
-
-- Demo content generate with [Chat GPT](https://chat.openai.com/)
-
-- Images for demo content from [Unsplash](https://unsplash.com/)
-
-- [Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) is a free single author blog theme.
-
-- https://roadmap.sh/projects/portfolio-website 
