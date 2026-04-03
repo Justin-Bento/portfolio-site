@@ -8,8 +8,8 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-Justin Bento is a Technical Enthusiast in Toronto that advocates for open-source technologies and building digital literacy with companies, and people. 
+Justin Bento is a Technical Enthusiast based in Toronto. He advocates for open-source technologies and building digital literacy for individuals and businesses.
 
-His work centers on rejecting convenience in favor of system control, privacy, and community investment, and his  philosophy is "learning, playing, and building things to a point when its good enough and leaving it alone." 
+His work focuses on rejecting modern convenience in favor of system control, privacy, and community investment. Justin’s professional philosophy is centered on "learning, playing, and building things to a point where they are good enough, then leaving them alone."
 
-He helps neurodivergent folks, navigate personal learning challenges they face by providing guidance on setting firm boundaries with technology, buisnesses, and teaches them importance of being intentional and living without technology or convinence.
+He helps others navigate the "digital noise" by providing guidance on setting firm boundaries with technology and corporations. He teaches the importance of being intentional, working at a human pace, and reclaiming life.
