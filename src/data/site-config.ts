@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome To My Website!',
-        text: `I’m Justin Bento, a Tech Enthusiast that builds custom software with Ruby on Rails and React. I create digital experiences for myself, small businesses, charities, and clients that want away from big coperations. What makes my approach unique is that I embrace **the why** behind a decision and conduct enough research to act as a catalyst. You can email me (at the bottom of my website) or find me at industry events like TorontoJS, TechTank Toronto, or Toronto Ruby.`,
+        text: `I’m Justin Bento, a Tech Enthusiast that builds custom software with Ruby on Rails and React. I create digital experiences for myself, small businesses, charities, and clients that want away from big coperations. What makes my approach unique is that I embrace the why behind a decision and conduct enough research to act as a catalyst.`,
         image: {
             src: '/Social-Media-ProfilePicture.jpeg',
             alt: 'A person sitting staring at the computer.'
