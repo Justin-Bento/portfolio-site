@@ -15,6 +15,8 @@ seo:
 
 Software subscriptions keep getting more expensive, and too often, I found myself paying for features I didn’t need. Eventually, I got tired of feeling locked into tools that weren’t working for me. That’s when I started exploring Free and Open-Source Software (FOSS).
 
+I want to emphasize, that this is for my personal use. When it comes to work I use enterprise software when needed. 
+
 ## What Is Free and Open-Source Software (FOSS)?
 
 FOSS (Free and Open-Source Software) is an umbrella term that includes both Free Software and Open-Source Software. It refers to any software distributed under terms that allow users to freely use, modify, and redistribute the software as they see fit.
