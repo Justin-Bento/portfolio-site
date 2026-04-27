@@ -2,6 +2,7 @@
 title: 'Building My Personal Homelab'
 description: 'How I replaced Windows with LMDE and built a focused two-machine setup for development, music, writing, and communication.'
 publishDate: 2026/03/26
+isFeatured: true
 tags:
   - 'System Design'
   - 'Open Source'
