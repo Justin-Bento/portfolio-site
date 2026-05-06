@@ -6,7 +6,7 @@ tags:
   - 'The Odin Project'
   - 'Website Design and Development'
   - 'Software Projects'
-publishDate: 'May 13 2025'
+publishDate: 2025/05/13 
 isFeatured: true
 seo:
   image:

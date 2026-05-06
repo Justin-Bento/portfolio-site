@@ -4,7 +4,7 @@ description: Tested my knowledge with an introductory programming question, that
 tags:
   - 'The Odin Project'
   - 'Software Projects'
-publishDate: 2025-08-06
+publishDate: 2025/06/28
 isFeatured: true
 seo:
   image:
