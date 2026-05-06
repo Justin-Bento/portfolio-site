@@ -72,44 +72,6 @@ RT Priotiry Default
 
 Click apply when changes are made. [Listen to "Distant Ridges" on Soundcloud](https://soundcloud.com/bento-box-519166246/distant-ridges) to see how the audio sounds without any affects.
 
-### Adding Neural Amp Modeler For Effects
-
-According to their website, Neural Amp Modeler is an open-source project that uses deep learning to create models of guitar amplifiers and pedals with state-of-the-art accuracy. To integrate this into a Linux-native workflow, we utilize the LV2 plugin format.
-
-1. Download the Plugin:
-   1. Grab the latest Neural Amp Modeler LV2 release from [GitHub](https://github.com/sdatkinson/NeuralAmpModelerPlugin/releases/tag/v0.7.13).
-2. Environment Setup:
-   1. NAM requires Python to handle specific processing tasks.
-   2. If you haven't configured it yet, follow [this guide](https://www.fosslinux.com/107124/installing-and-configuring-python-in-linux-mint.htm) to install Python on Linux Mint.
-3. Initialize the Plugin Directory:
-   1. Open your terminal and ensure the local LV2 directory
-
-```bash
-firstlastName@computer:~$ cd
-firstlastName@computer:~$ mkdir -p ~/.lv2`
-```
-
-4. Install the Plugin:
-   1. Extract the downloaded NAM archive,
-   2. Move the folder into your newly created ~/.lv2 directory.
-5. Configure Reaper:
-   1. Create a new track and Arm it (click the red circle).
-   2. Select your hardware input (e.g., Input 2 for a Scarlett Solo guitar DI).
-   3. Ensure Record Monitoring is ON to hear the processed signal.
-6. Load the Effect:
-   1. Click the FX button on the track.
-   2. In the "Add FX" window, search for Neural Amp Modeler and add it to the chain.
-7. Sourcing Tones:
-   1. Visit Tone3000 to download .nam model files.
-   2. These represent the "DNA" of specific physical amps.
-8. Load the Model:
-   1. Within the NAM plugin interface, click the folder icon.
-   2. locate your downloaded .nam file.
-
-Engage the circuit.
-
-Here's another track I made with the nam working.
-
 ## Navigating the Linux Audio Trade-offs
 
 Operating a professional audio stack on Linux involves known trade-offs:
