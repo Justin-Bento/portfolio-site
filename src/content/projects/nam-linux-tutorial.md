@@ -4,13 +4,12 @@ description: Tested my knowledge with an introductory programming question, that
 tags:
   - 'The Odin Project'
   - 'Software Projects'
-publishDate: 2026/06/09
+publishDate: 2026/05/09
 isFeatured: true
 seo:
   image:
     src: 'Project-Caesar-Cipher.png'
 ---
-
 
 **Prerequisites:** This guide assumes familiarity with Linux terminal usage and basic music production concepts. If you need background on either, consult the [REAPER manual](https://www.reaper.fm/) and the [Linux filesystem hierarchy overview](https://labex.io/lesson/filesystem-hierarchy) before continuing.
 
@@ -19,7 +18,6 @@ seo:
 ## What is NAM?
 
 NAM (Neural Amp Modeler) is an open-source project that uses deep learning to model the behavior of guitar amplifiers and pedals. On Linux, it runs as an LV2 plugin developed by Mike Oliphant. The plugin loads `.nam` and `.json` (RTNeural) model files inside any LV2-compatible DAW. Models are sourced primarily from [Tone3000](https://www.tone3000.com/), a free, open repository of community-contributed amp captures.
-
 
 ### Step 1: Update the System
 
@@ -63,7 +61,6 @@ You should see a version string returned. The exact version will depend on what 
 
 > **Note:** Python is required to build the NAM LV2 plugin from source. It is not required at runtime once the plugin is compiled.
 
-
 ### Step 3: Prepare the LV2 Plugin Directory
 
 LV2 plugins on Linux are loaded from `~/.lv2` by default. Create this directory if it does not already exist:
@@ -77,7 +74,6 @@ Open the directory in your file manager:
 ```bash
 xdg-open ~/.lv2
 ```
-
 
 ### Step 4: Install the NAM LV2 Plugin
 
@@ -93,7 +89,6 @@ Extract the downloaded archive and place the resulting `.lv2` bundle folder into
     ...
 ```
 
-
 ### Step 5: Configure REAPER to Recognize the Plugin
 
 REAPER does not automatically scan `~/.lv2` on first launch. You must add the path manually:
@@ -107,7 +102,6 @@ After the scan completes, the plugin will appear under `developers/MikeOliphant`
 
 > **Important:** NAM is a loader plugin. It produces no sound on its own. It requires a compatible model file to function.
 
-
 ### Step 6: Download a NAM Model File
 
 [Tone3000](https://www.tone3000.com/) hosts a large library of free amp captures. Browse the site, find a tone that suits your needs, and download the corresponding `.nam` file.
@@ -120,7 +114,6 @@ mkdir -p ~/Music/NAM_Audio_Files
 
 Extract the downloaded archive and move the `.nam` file into `~/Music/NAM_Audio_Files`.
 
-
 ### Step 7: Load a Model in REAPER
 
 1. Insert the NAM plugin on a track in REAPER.
@@ -128,7 +121,6 @@ Extract the downloaded archive and move the `.nam` file into `~/Music/NAM_Audio_
 3. Use the file browser inside the plugin to navigate to `~/Music/NAM_Audio_Files` and load your `.nam` file.
 
 The plugin will now process audio through the selected amp model.
-
 
 ## Troubleshooting
 
