@@ -16,3 +16,5 @@ seo:
 **Architecture**: A lean five-route structure (Home, About, Products, Questions, Contact) keeps the funnel simple: hero messaging → education → proof points → purchase locations → contact. Image delivery runs through Next.js's built-in optimization pipeline, serving responsively sized assets without extra tooling overhead — a sensible default for a media-heavy marketing site.
 
 **Content Design**: The FAQ, powered by Sanity content rather than hardcoded copy, doubles as on-page education and SEO, answering practical questions directly instead of burying them in a separate resource.
+
+[https://www.urbangreensantigua.com/](https://www.urbangreensantigua.com/)
